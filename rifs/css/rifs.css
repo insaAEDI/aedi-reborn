@@ -1,0 +1,38 @@
+p
+{
+	text-indent:20px;
+}
+
+.centre
+{
+	text-align:center;
+}
+
+.comment{
+	font-size:0.9em;
+	color:grey;
+	font-style:italic;
+}
+
+h1{
+	margin-bottom:0.6em;
+}
+
+h2{
+	margin-left:1em;
+	margin-bottom:0.4em;
+}
+
+.link{
+	color:blue;
+	text-decoration:underline;
+	cursor:pointer;	
+}
+
+.titre{
+	font-size:4em;
+	font-weight:bold;
+	text-align:center;
+	margin-top:0.3em;
+	margin-bottom:1em;
+}

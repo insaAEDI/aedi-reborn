@@ -1,0 +1,29 @@
+====== Pot IF ======
+
+===== Introduction =====
+
+Bienvenue sur la page du Pot IF. Celle ci a pour but de faciliter l'équipe d'orga du PotIf 2011.
+
+Vous y trouverez toutes les informations utiles pour l'organisation d'un pot, de la recherche de financement, aux demandes d'autorisations en 
+passant par l'achat de la boisson.
+
+===== Pot ? kesako ? =====
+
+Le principe est simple : Proposer l'apéro à tous les étudiants de l'INSA. S'installer devant le depart’ et offrir à boire et une bonne ambiance  à tout le monde.
+
+Attention, j'ai bien dit offrir, donc soirée Gratuite! Chaque depart' organise une soirée de ce type. La tradition veut que le pot IF soit le premier.
+
+
+===== L'organisation =====
+
+Le pot If étant celui qui ouvre les festivités, il se fait tôt dans l'année! Donc pas une minute à perdre !
+
+Classiquement, il se fait juste avant les vacances d'octobre. Tout l'art est donc d'arriver à trouver le meilleur soir pour faire cette évent, généralement un mercredi ou un jeudi (si les TC ne nous le prenne pas ^^).
+
+Voici les points importants :
+  * [[pot_if_equipe|Formation de l'équipe]]
+  * [[pot_if_communication|Communication]]
+  * [[pot_if_demarches|Démarches administratives]]
+  * [[pot_if_financement|Financement]]
+  * [[pot_if_soiree|La soirée]]
+

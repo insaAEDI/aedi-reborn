@@ -1,0 +1,68 @@
+====== Week-end d'intégration ======
+
+Le week-end d'intégration est la partie la plus sensible de l'inté. On a entre 70 et 100 personnes à gérer selon les années pendant 2 jours et demi non-stop (ne comptez pas dormir plus de 8h entre vendredi et dimanche !). La pluie est globalement ce qui peut arriver de pire, après épidémie ou le coma éthylique !
+
+===== Classification chronologique =====
+
+==== Vendredi ====
+
+  * [[conference_parrain|Conférence parrain 3IF]]
+  * [[depart_bus|Départ en bus]]
+  * [[wei_arrivee_bus|Arrivée (en bus mais c'est pas obligé)]]
+  * [[orga_dortoirs|Organisation des dortoirs]]
+  * [[jeux_vendredi|Jeux du vendredi]] (obsolète?)
+  * [[soiree_vendredi|Soirée du vendredi]]
+
+==== Samedi ====
+
+  * [[jeux_samedi|Jeux du samedi]]
+  * [[bbq|Le BBQ]]
+  * [[soiree_samedi|Soirée du samedi]]
+
+==== Dimanche ====
+
+  * [[dimanche|Le dimanche]]
+
+===== Classification organisationnelle =====
+
+Les points suivants sont abordés dans les pages ci-dessus mais doivent avoir une visibilité sur la page principale du WEI, c'est pourquoi on les a placés ici.
+
+  * [[secu|La sécurité]]
+  * [[gestion_alcool|La gestion de l'alcool]]
+  * [[wei_malades|La gestion des malades]]
+
+===== Conseils aux Resp. WEI =====
+
+Le resp. WEI aime vivre dangereusement. Je ne vais pas redire ce qui a été dit [[organisation_globale|ici]] néanmoins faire un petit topo pour le resp.
+
+Tu es responsable du WEI, félicitations car c'est très enrichissant et ça va te demander d'être rigoureux et de mettre à profit tes compétences de management. Tout d'abord, il va te falloir trouver des acolytes sur qui tu vas pouvoir compter pour t'aider à organiser le WEI. Vouloir organiser un tel évènement seul te rendra no-life pendant 3 mois de vacances en réalisant quelque chose de pas top. Essaie donc de te trouver entre 5 et 10 personnes pour t'aider (tout dépend de l'organisation que vous adoptez, mais si dans l'équipe WEI vous vous occupez du t-shirt, vaut mieux que vous soyez plutôt 10 ou +).
+
+Son stage doit impérativement se dérouler à Lyon, il doit pouvoir voir les orga régulièrement, discuter avec eux, leur demander leur avis, etc.
+
+A partir de là, il faut construire un vrai planning avec des échéances. Attention à prendre en compte les délais de réponse du parrain ainsi que la motivation du bureau de l'AEDI à vous aider (enfin j'espère qu'ils le seront sinon vous êtes dans la merde...). Répartissez en fonction les différentes tâches aux différentes personnes mais ne vous donnez pas trop de choses clefs. Vous êtes là pour superviser et centraliser, voir prendre en main ce qui dérape, donc vous aurez déjà beaucoup de boulot.
+
+Tenez également un budget et communiquez avec le resp général de l'inté afin qu'il ait une vision globale. Consultez le également lorsque vous avez des questions et n'hésitez pas à lancer des discussions par mail.
+
+Les vacances, c'est aussi fait pour en profiter et vous aurez sans doute des soucis avec des orgas vous aidant car ils feront les morts. Malheureusement, la probabilité que ça arrive est supérieure à 1. N'oubliez pas que l'on ne peut pas forcer des bénévoles à taffer car ils sont justement bénévoles... et surtout, pendant le week-end, ils peuvent tout à fait se racheter en gérant les choses parfaitement. 
+
+//Chacun apporte sa pierre à l'édifice à sa façon, gardez surtout ça à l'esprit...//
+
+Quelques échéances conseillées [[tee_shirts|ici]] dans la rubrique "Délais".
+
+=== Conseils de la resp WEI 2012 ===
+
+Le wiki est plutôt bien rempli, je n'ai pas rajouté grand chose, j'ai juste quelques petits conseils pour le resp.
+
+Le bon déroulement du WEI dépend entièrement de lui. Ça fait peur, mais si tout se passe bien ce sera uniquement grâce à lui et ça c'est cool :-)
+
+Son stage doit impérativement se dérouler à Lyon, il doit pouvoir voir les orga régulièrement, discuter avec eux, leur demander leur avis, etc. Il se posera plein de questions, est ce que cette idée va plaire ? est ce que les bizuths seront contents ? etc. Il est donc important de communiquer avec les membres de l'équipe. Nous avons toujours eu une bonne ambiance entre nous je pense que c'est le plus important !
+
+Le resp WEI doit connaître sur le bout des doigts le déroulement du week end. Il va passer des heures à penser au planning à essayer de tout anticiper. Quelques jours avant le début de l'inté il faut organiser une réunion avec tous les orgas du WEI (en 2012, il y en avait 22) leur assigner des rôles et surtout bien les briefer sur les rondes sécu et les barmans. 
+
+Pour le planning prévoyez une soirée (ce sera sans doute deux) avec au moins une autre personne. Pensez à mettre des personnes qui s'entendent ensemble (surtout pour les rondes sécu) et laissez leur un peu de temps pour dormir. 
+
+Un livret d'orga a été remis à chaque orga avec son planning, le numéro de tous les orgas, les resp à contacter en cas de problème, un plan du gîte et des infos utiles concernant les rondes sécu, la sono, l'alcool etc.
+
+Deux personnes m'ont aidée pour l'organisation globale, l'une d'entre elles s'occupait particulièrement des sécu et l'autre des jeux de l'après midi. Ils m'aidaient aussi plus généralement pour prendre des décisions. C'est pratique d'être 3 pour prendre des décisions, on peut voter pour se départager (sachant que la voix du resp compte triple bien sûr :-) ) Sinon pour le resp WEI toute aide est la bienvenue !
+
+Comme cela a été dit plus haut, les orgas sont en vacances/stage et n'ont pas forcément le temps de s'investir. Perso j'y ai passé la totalité de mon stage (oui il y a autant de travail que ça) mais c'est très très enrichissant.

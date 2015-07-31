@@ -1,0 +1,37 @@
+#annuaire {
+	margin-top: 20px;
+}
+
+#annuaire #controleur  #listeEntreprises{
+	height: 500px;
+	overflow: scroll;
+}
+
+#annuaire table .first{
+	width: 20px;
+}
+
+#annuaire .entreprise:hover{
+	cursor: pointer;
+}
+
+#annuaire .editionEntreprise {
+	margin-right: 10px;
+	margin-top: 5px;
+	float:right;
+}
+
+#annuaire #contacts td .btn {
+	margin-right: 5px;
+	
+}
+#annuaire #contacts td .btn:last-child {
+	margin-right: 0px;
+	
+}
+
+#annuaire #options {
+	float:right;
+	margin-top: 10px;
+	margin-left:5px;
+}

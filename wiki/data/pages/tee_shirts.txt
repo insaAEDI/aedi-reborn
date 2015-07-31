@@ -1,0 +1,95 @@
+====== Les tee-shirts ======
+
+Le tee-shirt de promo est le signe de reconnaissance du 3 IF ainsi que des orgas! Il doit pouvoir le porter fièrement durant toute l'année. Vous pourrez trouver en bas de cette page un exemple de la facture de l'intégration 2011.
+
+===== Contact =====
+
+Tang NGAU 
+
+perstil69@aol.com
+
+PERSTIL 
+7 rue Léo Trouilhet 
+69008 LYON 
+Tél. : 04.78.94.32.66 
+
+===== Types de tee-shirts =====
+
+Généralement il y a trois séries différentes : 
+  * t-shirt pour les bizuths (différentes tailles mais pas de distinction homme/femme)
+  * t-shirt pour les orgas soft
+  * une série de polos pour les orgas hard (avec leur surnom perso !!)
+
+===== Contenu  =====
+
+On doit faire figurer obligatoirement sur le T-shirt :
+
+  * l'année de la promotion (/!\ année de sortie de l'INSA...)
+  * le logo de l'entreprise qui parraine la promotion (charte de parrainage)
+  * En général un dessin en rapport avec le thème de l'inté
+
+===== Design & Couleur  =====
+
+Créer un design simple (pas trop de détails !). Les détails ne rendront pas aussi bien sur le T-shirt que sous Photoshop...
+
+Le nombre de couleurs est une composante essentielle du prix des t-shirt !
+
+Limiter votre design à :
+  * 2 couleurs pour les dos
+  * 1 (ou 2) couleurs pour les faces avant
+  * Voir directement avec le fabricant pour vous faire rappeler le prix
+
+===== Technique =====
+
+Il y a deux types d'impression pour les vêtements : la sérigraphie et l'impression numérique. 
+
+La sérigraphie est intéressante pour les grosses séries au niveau rapport qualité/prix. La qualité est excellente.
+L'impression numérique est à réserver pour les tshirts orgas car la sérigraphie reviendrait trop cher. La qualité est bien entendu bien moins meilleure car il s'agit d'un simple floquage...
+
+Le choix du textile est également un facteur assez déterminant du prix et de la qualité. En 2010 et 2011, nous avons fait le choix de tshirts de relativement bonne qualité (Fruits of the Loom).
+
+Il vous faudra fournir à Perst'il :
+  * des images avec une excellente résolution en 300dpi (préférez le png au jpeg) des faces avant et arrière
+  * la liste des pseudos à imprimer au dos des t-shirts
+  * le nombre de t-shirts par taille
+
+===== Parrain de promo... =====
+
+L'entreprise qui parraine la promo entrante "gagne" le droit de voir figurer son logo sur nos t-shirts. Elle a donc un droit de regard sur le t-shirt et vous devez impérativement attendre sa validation avant de lancer l'impression. Il faut donc prévoir une marge car en général, pendant les vacances, vos interlocuteurs seront en congés.
+
+Ne dialoguez pas directement avec l'entreprise au risque de la perdre. Préférez vous adresser à l'interlocuteur privilégié au sein de l'AEDI afin qu'il fasse le nécessaire.
+
+Pensez bien à prendre des t-shirts en plus pour le parrain et ses représentants, lesquels seront offerts lors de la conférence.
+
+===== Réalisation =====
+
+Les tee-shirts/polos sont fabriqués en général par [[http://www.perstil.fr|Perst'il]], entreprise partenaire du BDE de l'INSA. (voir la page Perst'il)
+N'hésitez pas si vous avez le temps à faire des devis ailleurs pour comparer.
+
+===== Délais =====
+
+Tous les ans, nous sommes vraiment à la bourre et un jour ça risque de nous jouer des tours. Il est donc impératif de prendre en considération cette timeline :
+
+|Quand?|Quoi?|Qui?|
+|Le plus tôt possible|Trouver le thème de l'inté|L'équipe|
+|Juste après|Commencer le design des t-shirts|Graphiste|
+|M-2|Récupérer les mensurations et les pseudos des orgas|Resp|
+|M-2|Validation du design des t-shirts par le parrain|AEDI|
+|M-1|Heuristique sur les mensurations des futurs bizuths à l'aide des questionnaires|Resp|
+|M-1|Lancement des impressions|Resp|
+|S-1|Récupération des t-shirts et vérification de la conformité|Resp|
+
+L'impression des t-shirts dure entre 2 et 3 semaines. N'allez pas les récupérer seul, à pied, c'est une mauvaise idée...
+
+===== Responsables =====
+
+     - (2011) Sébastien Mériot <sebastien.meriot@gmail.com>
+
+===== Exemple de facture 2011 =====
+|Description|Quantité|PU|Montant|
+|TS promotion + logos|110|5,60|616|
+|TS soft + logos |9|15|135|
+|TS hard + logos| 15|19|285|
+
+  * Prix total HT : 1036€
+  * Prix total TTC : 1239€

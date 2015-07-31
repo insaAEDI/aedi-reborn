@@ -1,0 +1,64 @@
+====== Réseaux Sociaux ======
+
+L'AEDI dispose actuellement d'accès sur les réseaux Facebook et Twitter, afin de tenir les étudiants au courant des événements organisés par l'AEDI
+
+===== Facebook =====
+
+La page et le groupe AEDI ne sont pas accessible par connexion directe.
+
+Pour pouvoir les utiliser, les droits d'administrations doivent se 
+transmettre de modérateur à modérateur.
+
+Le responsable des réseaux sociaux de la nouvelle liste devra donc entrer 
+en contact avec celui de l'année précédente afin que la passation se fasse.
+
+Responsable 2011-2012 : Thibaut Patel
+
+Responsable 2012-2013 : Jean-Baptiste Ghoul
+
+Responsable 2013-2014 : Julien Rollet
+
+Responsable 2014-2015 : ...
+
+==== La Page AEDI ====
+
+Voici la page AEDI : https://www.facebook.com/AEDI.INSA.Lyon
+
+C'est actuellement le compte facebook le plus actif de l'AEDI. Ces membres sont des étudiants récents.
+
+La ou les personnes disposant de tous les droits d'administration ont le statut "Gestionnaire".
+Un Gestionnaire peut publier, aimer, et créer des événements sur la page en tant que AEDI.
+
+A partir de la page AEDI, bouton "Modifier Page" -> "Rôles d'administration" il peut accorder des droits à d'autres personnes.
+Le rôle "Créateur du contenu" est pratique pour donner des droits de publications à d'autres membres.
+
+Lorsque qu'un événement est créé par l'AEDI, il est pratique d'ajouter comme "hôte" les personnes responsables de l'événement, afin qu'elles puissent modifier des informations si nécessaire.
+
+
+=== Lien avec Twitter ===
+Cette page AEDI est actuellement liée au compte **Twitter** : toute publication sur cette page se fera automatiquement sur le compte Twitter @AEDInsa, avec un lien vers facebook si nécessaire. (L'inverse n'est pas vrai)
+
+==== Le groupe privé AEDI ====
+
+L'AEDI dispose aussi sur facebook d'un groupe privé : https://www.facebook.com/groups/ifaedi/
+
+Ce groupe est beaucoup moins actif actuellement que la page, et ces membres sont de plus anciens étudiants ( a priori )
+
+Ce groupe est privé (actuellement) ce qui signifique que seuls ses membres peuvent voir le contenu.
+
+Les personnes qui souhaitent rejoindre ce groupe doivent en faire la demande, ce qui sera confirmée par le modérateur du groupe
+
+===== Twitter =====
+
+Voici le compte de l'AEDI sur Twitter :
+
+login : AEDInsa
+
+mdp : comAEDI2011
+
+
+Ce compte twitter est liée à la page facebook AEDI, le compte twitter recopiera toute publication de la page AEDI (ceci est paramétrable).
+
+Il est sympatrique de suivre tous les étudiants INSA IF :)
+
+Note : Ce compte est liée à l'adresse gmail aedi.com.asso@gmail.com mais le mot de passe reste introuvable ...

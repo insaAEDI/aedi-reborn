@@ -1,0 +1,23 @@
+====== Organisation interne de l'AEDI ======
+
+===== Introduction =====
+
+Cette partie du wiki a pour but de décrire l'organisation interne de l'AEDI, c'est-à-dire principalement les postes occupés et les responsabilités associées. Mais attention, cette structure n'est aucunement figée : tel un président formant son gouvernement, il est tout à fait possible de créer, supprimer ou fusionner des postes selon la situation. Mais dans tous les cas, les fonctions suivantes doivent être assurées.
+
+===== Les fonctions principales =====
+
+  * [[president|Président]]
+  * [[vice_president|Vice Président]]
+  * [[tresorier|Trésorier]]
+  * [[secretaire|Secrétaire]]
+  * [[responsable_salle_detente|Responsable salle détente]]
+  * [[responsable_communication|Responsable communication]]
+  * [[responsable_entreprises|Responsable entreprises]]
+  * [[responsable_administration|Responsable administration]]
+
+
+===== Informations utiles =====
+
+  * [[adresses_contact|Adresses de contact]]
+  * [[parrains_de_promotions|Contacts avec les parrains]]
+  * [[problemes_bureaux|Problèmes relatifs au Bureau]]

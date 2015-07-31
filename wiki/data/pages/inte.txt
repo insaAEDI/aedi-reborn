@@ -1,0 +1,14 @@
+====== L'intégration en IF ======
+
+===== Introduction =====
+
+Bienvenue sur le Wiki de l'intégration IF. Créé suite à l'intégration de septembre 2009, il vous permettra d'éviter les principales difficultés et offrir ainsi une super inté à vos bizuths. Dans chaque page, vous trouverez une méthode d'organisation qui permet (a priori) de ne pas se planter. On n'est pas obligé de les suivre à la lettre mais ça peut aider.
+
+N'hésitez pas à le modifier ou le compléter après votre inté pour laisser un peu plus d'infos à vos successeurs.
+
+===== Manuel du petit orga =====
+
+
+  * [[Organisation globale]]
+  * [[Semaine d'intégration]]
+  * [[WEI|Week-end d'intégration]]

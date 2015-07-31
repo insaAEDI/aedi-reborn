@@ -1,0 +1,4 @@
+a:5:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:0;}i:2;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:424:"A 11h45, chaque responsable de salle doit indiquer aux entreprises qu'elle doivent descendre dans le hall d'entrée pour se diriger au restaurant.
+Une personne référente au sein des orgas doit être désigner pour être la personne qui en cas de soucis, devra se rendre immédiatement du restaurant à l'insa (Cas : Voiture arrivant pendant le repas mais ne pouvant pas accéder au parking).
+Restaurant 2010 : Holiday Inn
+";}i:2;i:1;}i:3;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:424;}i:4;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:424;}}

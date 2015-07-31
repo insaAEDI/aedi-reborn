@@ -1,0 +1,103 @@
+====== Le responsable communication ======
+
+===== Introduction =====
+
+2009 : Responsable Communication, c'est en fait un bien grand mot, car il est responsable de lui-même. Cependant, il se doit d'assurer cette fonction charnière ("la plus importante" dixit Youssef) qui est la transmission d'informations sur les évènements de l'AEDI aux étudiants et aux professeurs. Heureusement, rien de très compliqué ni chronophage.
+
+2010 : Cette année encore le Resp Comm était plus ou moins à sa charge, et son mode de fonctionnement a été très proche de celui de l'année d'avant. J'ai essayé de retranscrire au mieux ce dont j'ai du m'occuper, soit en fusionnant mes remarques avec celles de mon prédécesseur, soit en laissant les deux séparées pour avoir une vision différente selon l'année.
+
+2011 : Pour ma part, je me suis entouré d'une fine équipe afin d'offrir à l'AEDI la meilleure communication possible. Nous avions ainsi un préposé aux newsletters, un préposé aux affiches et une personne chargé des relations de l'AEDI avec les étudiants et avec l'administration. Nous avons pu ainsi nous répartir les tâches tout au long de l'année, ce qui nous a permis de mettre en place une politique de communication relativement efficace (malgré quelques bides événementiels... où nous pouvons en partie etre tenu pour responsable, mais en partie uniquement). 
+
+===== Comment communiquer =====
+
+==== La Newsletter ====
+
+=== Principe ===
+Le moyen principal de communication est la newsletter de l'AEDI. Il est préférable d'opter pour une parution périodique, par exemple toutes les deux semaines, et de ne pas hésiter à envoyer des "hors-série" pour rappeler les évènements les plus importants (cf. "Mails ponctuels"). Choisir un jour fixe pour chaque envoi est conseillé, si possible autour du Mardi (afin de pas passer inaperçu durant le week-end, que les gens aient le temps d'en parler au départ', qu'ils puissent encore s'organiser si un évènement est prévu le Jeudi, etc).
+
+Par rapport à l'année précédente, nous avons continué dans la lancée à savoir publier la newsletter à une fréquence régulière, ce qui nous a permis d'avoir de nombreux retours positifs sur le dynamisme de notre équipe, etc. Il ne faut pas oublier que ce mail est une des principales vitrines de l'AEDI auprès du départ' (étudiants, mais aussi profs !), donc à continuer sur cette lancée !
+
+Enfin, à noter : une petite rubrique avait un grand succès : "Le Saviez-Vous ?". Elle avait un public important (Maranzana, grand fan), et faisait l'objet de concours d'originalité au sein de l'équipe (à savoir trouver une petite informatique, fait ou élément de culture générale amusant à transmettre). En 2012, nous avons voulu faire un petit essai et transformer cette rubrique dans un autre format : "Le mot de Pierre et Nico". Cette rubrique était amusante mais un peu trop "private joke". Ainsi, le contenu n'était pas toujours amusant pour les lecteurs et certains m'ont confié qu'ils ne le lisaient plus. Ainsi, en 2013 a été ressuscité le "Le Saviez-vous".
+
+=== Elaboration ===
+Des mails d'appel à contenu sont envoyés quelques jours avant l'envoi prévu, sur la liste de l'équipe. Au fûr et à mesure que le contenu arrive, des premiers jets de la news sont envoyés en retour, afin de faire corriger les potentielles erreurs par les autres.
+
+En 2012, un formulaire Google Document a été mis en place afin que les membres souhaitant déposer un message puissent le faire eux-même. Cela permettait d'avoir des articles préformatés et plus rapides à intégrer.
+
+
+
+=== Technique ===
+Côté technique, rien de bien compliqué : Les newsletters sont de simples pages html, qui sont envoyées à l'aide de n'importe quel outil de messagerie adéquat. En 2012, utilisant usuellement Gmail, je générais la page avec mon navigateur, sélectionnais le tout et copiais dans un nouveau mail sur Gmail. La présentation était ainsi gardée. Seul gros défaut : les liens internes (du menu vers les titres) semblaient ne pas être gérés. Il serait intéressant de tenter via un client mail plus développé (Thunderbird par exemple, via Insert->Html). En 2013, j'ai effectivement utilisé Thunderbird, qui marche très bien.
+
+
+La structure html de la newsletter n'est pas bien complexe, vous pouvez la refaire vous-même (en essayant de garder au minimum le bandeau AEDI, un sommaire cliquable, un lien "si la newsletter s'affiche mal"...) ou me demander le code de l'ancienne (2012 -> benoit.delerue@insa-lyon.fr, 2013 -> aline.martin@insa-lyon.fr). Si vous choisissez de la refaire, veillez à bien faire plusieurs essais avant l'envoi du mail définitif de la première newsletter, car parfois même si sur la page html tout s'affiche bien, ce qui est transmis dans le mail peut s'avérer... surprenant (CSS non interprété s'il n'est pas interne aux balises, zones de texte complètement à l'ouest si on utilise une certaine syntaxe, ...) !
+
+En 2013, suite aux remarques de plusieurs élèves sur le look de la newsletter sur téléphone, un entête boostrap a été ajouté pour permettre de lire un mail avec un affichage qui change en fonction du support de commmunication. L'entête est conséquent, il devrait y avoir moyen d'en épurer une partie. Si vous voulez refaire la newsletter à votre façon n'oubliez pas cette problématique car de plus en plus de gens lisent leurs mails sur tél.
+
+
+Il faut envoyer la newsletter aux adresses suivantes :
+  * etudiants.if.2012-2013@listes.insa-lyon.fr (les étudiants, toutes promotions confondues) //(à mettre à jour pour l'année en cours)//
+  * if.ens@insa-lyon.fr (les profs)
+  * if.iatos@insa-lyon.fr (administration, personnel de service, etc.)
+
+En 2013 il ne m'était plus possible d'envoyer le mail aux listes ens et iatos (j'était modérée). Je demandais donc à Jeannine de les transmettre pour moi.
+
+=== Statistiques ===
+Une année, ils ont voulu effectuer des statistiques sur les consultations de la newsletter. Pour cela, ils ont utilisé l'affichage du bandeau AEDI : l'image utilisée était généré par un script PHP d'une page externe, qui à chaque appel sauvegardait en BDD l'IP et l'heure. L'adresse de cette page PHP est la suivante :
+  * [[http://ifaedi.asso.insa-lyon.fr/logo/logo.php?num=XXXX]], où XXXX est à remplacer par le numéro de la newsletter (ce qui permet de distinguer sur les stats - Pour info, la dernière news 2012 avait le n°**16**).
+La consultation des stats se fait à l'adresse suivante : [[http://ifaedi.asso.insa-lyon.fr/logo/count.php]]. Le problème est que cette année, la refonte du site et autres infrastructures informatique de l'AEDI a induit un dysfonctionnement du script. Ainsi, cette page de statistique est accessible mais plus fonctionnelle donc si vous voulez la réutiliser, libre à vous de la réparer.
+En 2013 je n'ai pas pris en compte le script. La newsletter 16 aura donc eu beaucoup de lecteurs.
+
+//Remarque : rester discret sur ces stats. La DSI n'aimerait pas savoir que nous faisons ce genre de chose ...//
+
+=== Réplication sur le site ===
+Les années précédentes, la démarche suivante était appliquée :
+//Le contenu de la newsletter devait être recopié à l'adresse http://ifaedi.asso.insa-lyon.fr/?page_id=137 (aujourd’hui ce n'est que la page d’accueil du site de l'AEDI) de préférence juste avant l'envoi du mail (le secrétaire s'occupe de ça, aussi veillez à lui transmettre le contenu de chaque nouvelle newsletter un peu avant sa diffusion, pour qu'il ait le temps de mettre à jour la page).//
+
+Avec la mise en place du nouveau site, ce processus a été annulé dans la mesure où il n'a pas encore été mis en place. Je pense que c'est une bonne chose de l'inclure quelque part sur le site pour qu'un ayant des difficultés à voir la page puisse tout de même se renseigner sur la vie du département.
+
+En 2013, cette partie n'a pas été mise en place. Vous pouvez remarquer que le site a été totalement négligé. C'est dommage car c'est une des vitrine du département. 
+
+=== Lien avec l'équipe entreprise ===
+En 2012, on a tenté un nouveau concept pour la newsletter à savoir l'incorporation de messages écrits par une entreprise à destination des étudiants. Ce sont des messages de professionnels donc payants. 
+
+On a fait un essai avec l'entreprise Semarchy qui semblait très satisfaite du résultat. On leur a fait estimer le prix pour lequel ils paieraient ce service qui pourrait être de 100 à 150€. Cette partie communication est intéressante mais peut être un peu lourde pour le trésorier et l'équipe entreprise.
+
+Quoi qu'il en soit, si vous décidez de promouvoir ce moyen de communication, il serait intéressant que vous en touchiez un mot aux entreprises en même temps que votre contact pour les RIF.
+
+==== Mails ponctuels ====
+
+En plus de la newsletter, il est recommandé d'envoyer des mails "ponctuels" pour rappeler les évènements importants (conférence métier par exemple) ou donner des précisions "de dernière minute" sur les évènements imminents. Il est également préférable de cibler au maximum les destinataires des mails (par exemple ne pas envoyer à toutes les promos des mails qui ne concernent que les 4IFs).
+
+Voici les adresses des différentes promotions :
+  * etudiants.3if.2012-2013@listes.insa-lyon.fr
+  * etudiants.4if.2012-2013@listes.insa-lyon.fr
+  * etudiants.5if.2012-2013@listes.insa-lyon.fr
+
+==== Affiches ====
+
+Il faut utiliser les panneaux d'affichage du deuxième étage (devant le local et à certains endroits du grand couloir des salles de cours) et du troisième étage (à certains endroits du grand couloir des salles de cours et dans le couloir de l'administration et des profs) pour diffuser les informations auprès des étudiants mais aussi des enseignants. Il est aussi possible d'utiliser ceux dans le hall du bâtiment et dans les escaliers (côté amphi et côté beurk).
+
+2009 : Chaque évènement (concert IF, RIF, WES, etc.) doit avoir son affiche. Cette tâche ne revient pas nécessairement au responsable communication, surtout si celui-ci est un manche en graphisme. L'année dernière, chaque responsable d'évènement faisait son affiche. À vous de choisir votre propre organisation.
+
+2010 : Étant moi aussi un manche en graphisme, comme le disait si bien mon prédécesseur, je ne peux que souligner ses propos... A vous de trouver l'organisation qui vous conviendra ! Je rappelle un point important : il faut au minimum une affiche par évènement, et il la faut très vite ! Commencer à informer le plus tôt possible (et pas seulement par mail) est parfois la clé de la réussite d'un évènement !
+
+2012 : Bah moi j'étais trop fort, du coup, pas trop de taf, c'était cool. Bref toutes blagues mises à part, cette année nous avions un resp' affiche (Moi !), du coup la responsabilité de l'ensemble des affiches m'incombait. A priori, si tout se passe bien dans les autres équipes, les informations arrivent dans les délais, ce qui pete sa maman. N'oubliez pas, "La com', toujours à l'heure !".
+
+==== Passage en amphi et TD/TP ====
+
+Le moyen le plus direct pour communiquer avec les étudiants est de passer en amphi, ou en TD/TP car il n'y a quasiment pas d'absentéisme. Attention toutefois à ne pas interrompre un TD/TP en cours de route, cela est très désagréable pour le prof concerné. Préférez donc les interventions en début ou en fin de TD/TP, et prévenez au préalable l'enseignant de votre passage (un simple mail la veille suffira).
+
+==== Jeanine ====
+
+Il est également possible de demander à Jeanine d'envoyer un mail pour vous. Cela doit être utilisé le plus rarement possible, pour des questions plutôt administratives (sondage organisé par un professeur, réunion profs/élèves, etc.), et aucunement pour des évènements organisés par l'AEDI.
+
+===== Pourquoi communiquer avec les profs =====
+
+Pourquoi tenir les enseignants (et l'administration) au courant des évènements de l'AEDI ? Car au sein de notre département plus qu'ailleurs, une grande cohésion existe entre étudiants et enseignants. Chaque année des enseignants se rendent au week-end d'inté, il y a trois ans certains allaient au WES, et quasiment tous (l'exception JLS confirme la règle) sont contents de recevoir la newsletter de l'AEDI. Le directeur, dans son discours de début d'année, insiste sur la relation d'égal à égal qui existe entre enseignant et étudiant, il est donc de notre ressort de prolonger cela. Il est ainsi très important d'informer les enseignants des évènements étudiants, en plaçant des affiches dans leur couloir et surtout en leur envoyant la newsletter.
+
+===== Des questions ? =====
+
+Les vieux sont là pour aider les jeunes... Pour toute question, n'hésitez pas : marc.de-almeida@insa-lyon.fr. De plus, je serai sur le campus "l'année prochaine" (date de 2012), alors n'ayez pas peur, venez me voir si vous avez des questions ! Et un dernier mot : bonne chance et amusez-vous bien pendant cette année associative avec l'AEDI !
+
+resp newsletter 2013: aline.martin@insa-lyon.fr
