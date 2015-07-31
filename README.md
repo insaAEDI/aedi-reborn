@@ -1,6 +1,8 @@
 # aedi-reborn
 Ce site va devenir bien. Enfin, au moins acceptable.
 
+Et ce README va devenir constructif et utile.
+
 ## Installation
 
 Ce site utilise PHP, il ne suffit pas de cloner le bazar et d'ouvrir son navigateur.
