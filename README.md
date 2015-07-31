@@ -3,9 +3,11 @@ Ce site va devenir bien. Enfin, au moins acceptable.
 
 Et ce README va devenir constructif et utile.
 
-## Présentation
+## Présentation et règles
 
 Donc en gros, pour l'instant c'est le bazar, et il y a plein de trucs à changer. Genre le code, et les infos qui ne sont pas à jour DU TOUT.
+
+Du coup, voilà le principe : "Forkez" le projet, et quand vous avez fait des trucs intéressants qui fonctionnent faites une Pull Request, qui sera traitée avec amour et attention.
 
 ## Installation
 
