@@ -1,3 +1,0 @@
-Cette page regroupe tout ce dont pourrait avoir besoin un membre de l'équipe admin. Vous trouverez des informations sur le fonctionnement du serveur et shareif notamment.
-
-  * [[orga_serveur|Organisation générale du serveur]]

@@ -3,6 +3,10 @@ Ce site va devenir bien. Enfin, au moins acceptable.
 
 Et ce README va devenir constructif et utile.
 
+## Présentation
+
+Donc en gros, pour l'instant c'est le bazar, et il y a plein de trucs à changer. Genre le code, et les infos qui ne sont pas à jour DU TOUT.
+
 ## Installation
 
 Ce site utilise PHP, il ne suffit pas de cloner le bazar et d'ouvrir son navigateur.
