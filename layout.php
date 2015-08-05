@@ -20,11 +20,10 @@ global $authentification;
 	<link rel="shortcut icon" type="image/png" href="commun/img/logo_aedi_2015.png" >
         <?php
         inclure_fichier('commun', 'bootstrap.min', 'css');
-        inclure_fichier('commun', 'bootstrap-responsive.min', 'css');
         inclure_fichier('commun', 'style', 'css');
         inclure_fichier('commun', 'ui-lightness/jquery-ui', 'css');
 
-        inclure_fichier('commun', 'jquery.min', 'js');
+        inclure_fichier('commun', 'jquery-2.1.4.min', 'js');
         inclure_fichier('commun', 'jquery-ui.min', 'js');
         inclure_fichier('commun', 'bootstrap.min', 'js');
         inclure_fichier('commun', 'datepicker.fr', 'js');
@@ -46,6 +45,7 @@ global $authentification;
 	inclure_fichier('', 'login', 'php' ); 
 
 	/* Si on a un module, on affiche le breadcrumb, sinon ce n'est pas nécessaire */
+        /* "c'est quoi, ce 'breadcrumb' qui de toute façon n'apparaît jamais ? " Bonne question. */
         if ($nom_module != '') { ?>
             <ul class="breadcrumb" >
                 <li>
@@ -62,11 +62,11 @@ global $authentification;
         <?php }
 		if ($nom_module == 'accueil') { $nom_module = ''; } ?>
 
-        <div class="container">
             <div class="module">   
                 <?php inclure_fichier($nom_module, $nom_page, 'php'); ?>
             </div>
-            <p id="layout" class="footer">&copy; AEDI - 2015</p>
+        
+            <div id="layout" class="footer">&copy; AEDI - 2015</div>
         </div>
 
     </body>
