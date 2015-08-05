@@ -369,7 +369,7 @@ table.tablesorter thead tr .headerSortDown {
 }
 
 #text-centered .text-centered {
-	text-align: middle;
+	text-align: center;
 }
 
 /* ---------- MODULE STAGE ---------- */
@@ -460,17 +460,12 @@ table.tablesorter thead tr .headerSortDown {
 
 /* ------- ACCUEIL ---------*/
 
-#accueil #network {
+#accueil {
 	margin-top: 30px;
-}
-
-#accueil #network li {
-	list-style: none;
-	display: inline-block;
-	margin: 11px;
 }
 
 #accueil .logos img {
     max-height: 50px;
     max-width: 200px;
+    
 }
