@@ -19,6 +19,11 @@ h2 {
     color: white;
 }
 
+.module img {
+    position: relative;
+    top: 50%;
+}
+
 .well .well {
     background-color: #444444;
     color: white;
@@ -28,7 +33,20 @@ h2 {
     margin-top: 30px;
 }
 
+.comment{
+    font-size:0.9em;
+    color:grey;
+    font-style:italic;
+}
 
+.footer {
+    border-top: solid 1px grey;
+    margin: 0px;
+    margin-top: 15px;
+    padding: 2px;
+    font-size: 0.8em;
+    text-align: right;
+}
 
 /* tablesorter */
 
@@ -46,21 +64,6 @@ table.tablesorter thead tr .headerSortUp {
 }
 table.tablesorter thead tr .headerSortDown {
     background-image: url(../img/symboles/desc.gif);
-}
-
-.module h1 {
-    margin-bottom: 20px;
-}
-
-.centre
-{
-    text-align:center;
-}
-
-.comment{
-    font-size:0.9em;
-    color:grey;
-    font-style:italic;
 }
 
 /* ----------- PAGE CONTACT ------------ */
@@ -117,96 +120,9 @@ table.tablesorter thead tr .headerSortDown {
     margin-left:5px;
 }
 
-#text-centered .text-centered {
-    text-align: center;
-}
-
-/* ---------- MODULE STAGE ---------- */
-
-#stages #submit_recherche {
-    float: right;	
-}
-
-#stages h1 {
-    text-align: left;
-    margin-bottom: 10px;
-}
-
-#stages input, select {
-    margin-right: 20px;
-    width: 150px;
-}
-
-/* Simulation des balises details et summary */
-#stages details, summary {
-    display: block;
-}
-
-#stages summary {
-    cursor: pointer;
-}
-
-#stages summary:hover, summary:focus {
-    background: #ddd;
-}
-
-#stages .no-details details > * {
-    display: none;
-}
-
-/*Mettre les images de puces : fleche haut et fleche bas */
-#stages .no-details details summary:before {
-    float: left; width: 20px; content: '-';
-}
-#stages .no-details details.open summary:before {
-    content: '-';
-}
-
-#stages .no-details details summary {
-    display: block;
-}
-
-#stages #form_stages {
-    padding-bottom: 0px;
-}
-
-/* ---------- MODULE ENTRETIENS ---------- */
-
-
 /* ---------- MODULE RIF ---------- */
 
-#layout.titre {
-    text-align:center;
-    font-size:40px;
-    font-weight:bold;
-    letter-spacing: -3px;
-    font-style: oblique;
-    margin-bottom:30px;
-    color: rgb(83, 83, 83);
-}
-
-#layout.footer {
-    border-top: solid 1px grey;
-    margin: 0px;
-    margin-top: 15px;
-    padding: 2px;
-    font-size: 0.8em;
-    text-align: right;
-}
-
-#rifs p {
-    text-align:justify;
-}
-
-#rifs .centre
-{
-    text-align:center;
-}
-
-#presentationRif {
-    text-align: justify;
-}
-
+#layout
 /* ------- ACCUEIL ---------*/
 
 #accueil .carousel-caption {
