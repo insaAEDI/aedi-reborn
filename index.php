@@ -36,7 +36,6 @@ if ($authentification->isAuthentifie()) {
 
 /*******************************************************************************/
 
-
 /* Accueil */
 if ( !isset($_GET['page']) || strlen( $_GET['page'] ) == 0 || $_GET['page'] == 'Accueil') {
     $titre_page = 'Accueil';

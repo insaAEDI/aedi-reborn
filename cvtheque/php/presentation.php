@@ -12,8 +12,8 @@
 
 <div id="cvtheque" class="module_entr">
 	<div class="row">
-		<div id="presentationRif" class="span12">
-			<div class="hero-unit">
+		<div id="presentationRif" class="col-sm-12">
+			<div class="well">
 				<h1>CVthèque</h1>
 				<p>
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in erat a dui auctor <strong>eleifend bibendum et felis</strong>. Curabitur rhoncus scelerisque felis non vehicula. Suspendisse potenti. Maecenas velit dolor, porttitor sed tincidunt at, pharetra at lacus. Integer id sapien enim, interdum auctor ligula. In pulvinar nulla ut dolor ornare bibendum. Fusce et odio eleifend nisl placerat vehicula.
@@ -22,7 +22,7 @@
 		</div>
 	</div>
 	<div class="row">
-		<div class="span4">
+		<div class="col-sm-4">
 			<h2><i class="icon icon-bookmark icon-white"></i> Concept</h2>
 			<p>
 				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in erat a dui auctor <strong>eleifend bibendum et felis</strong>. Curabitur rhoncus scelerisque felis non vehicula. Suspendisse potenti. Maecenas velit dolor, porttitor sed tincidunt at, pharetra at lacus. Integer id sapien enim, interdum auctor ligula. In pulvinar nulla ut dolor ornare bibendum. Fusce et odio eleifend nisl placerat vehicula.
@@ -32,7 +32,7 @@
 Nulla et erat arcu. Ut vulputate, erat in blandit hendrerit, augue ante dignissim felis, et elementum tellus tellus nec nulla. Suspendisse faucibus nulla vitae tellus aliquam eget scelerisque neque ornare. Sed convallis lobortis mollis. Etiam in dolor vitae dolor molestie suscipit. Aliquam erat volutpat. Sed mi elit, egestas ut <span class="hero_motcle">dignissim vulputate</span>, eleifend quis massa. Sed a purus ipsum. Etiam pulvinar tincidunt eros, ultrices dapibus dolor gravida ac.
 			</p>
 		</div>
-		<div id="infoRif" class="span8">
+		<div id="infoRif" class="col-sm-8">
 			<h2><i class="icon icon-search icon-white"></i> Informations</h2>
 			
 			<h3>Tarifs</h3>
