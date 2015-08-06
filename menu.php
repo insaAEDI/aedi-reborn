@@ -42,7 +42,7 @@ global $utilisateur;
 
                         <li role="separator" class="divider"></li>
 
-                        <li class="nav-header"><i class="icon-glass"></i> Evènements</li>
+                        <li class="nav-header"><i class="icon-glass"></i> Evénements</li>
                         <li><a href="index.php?page=Evenements_Etudiant">Présentation</a></li>
                     </ul>
                 </li>
