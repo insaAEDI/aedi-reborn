@@ -14,12 +14,12 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <div class="presentation">
+                <div class="presentation well">
                     <div>
-                        <img id="logo" height="150px" style="float: left" margin="auto" src="commun/img/logo_aedi_2015.png" alt="Logo AEDI" />
+                        <img id="logo" height="150px" src="commun/img/logo_aedi_2015.png" alt="Logo AEDI" />
                         <h2>Association des Elèves du Département Informatique</h2>
                     </div>
-                    <p>Association de l'INSA-Lyon créée pour renforcer la cohésion entre les étudiants du Département Informatique, les aider dans leur cursus, et établir des contacts privilégiés avec les entreprises.</em></p>
+                    <p><em>Association de l'INSA-Lyon créée pour renforcer la cohésion entre les étudiants du Département Informatique, les aider dans leur cursus, et établir des contacts privilégiés avec les entreprises.</em></p>
                     <p>Cela fait plus de trente ans que notre association étoffe son éventails d'évènements, de la Semaine d'Intégration des nouveaux élèves aux Rencontres IF, forum ouvert aux entreprises, en passant par le Week-End Ski, le Concert IF, le Voyage de fin d'étude, ...</p>
                     <p>Avec à sa tête une équipe dynamique, l'AEDI s'épanouit et grandit, riche des liens qu'elle tisse avec les entreprises et anciens étudiants.</p>
                     <p style="text-align:justify; margin-bottom:20px;"><strong>Soyez le ou la bienvenu(e) sur notre site !</strong>
@@ -85,23 +85,41 @@
                     <a class="right carousel-control" href="#photoCarousel" data-slide="next">&rsaquo;</a>
                 </div>
             </div>
-        </div>
+        </div> <!-- row -->
     </div> <!-- container-fluid -->
 
     <hr>
 
     <div class="logos">
-        <div class="container">
-            <a href="http://www.insa-lyon.fr/" title="INSA-Lyon"><img src="./commun/img/insa_logo.png" alt="INSA-Lyon"></a>
-
-            <a href="http://if.insa-lyon.fr/" title="Département Informatique"><img src="./commun/img/if_logo.png" alt="Département Informatique"></a>
-
-            <a href="http://www.axa.fr/" title="Axa - Parrain Promo 2015"><img src="./commun/img/parrains_caroussel/axa2.png" alt="Axa"></a>
-
-            <a href="http://hardis.fr" title="Hardis - Parrain Promo 2016"><img src="./commun/img/parrains_caroussel/hardis.png" alt="Hardis"></a>
-
-            <a href="http://www.bull.fr/" title="Bull - Parrain Promo 2017"><img src="./commun/img/parrains_caroussel/bull.png" alt="Bull"></a>
-
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-3">
+                    <thumbnail>
+                        <a href="http://www.insa-lyon.fr/" title="INSA-Lyon"><img class="img-responsive" src="./commun/img/insa_logo.png" alt="INSA-Lyon"></a>
+                    </thumbnail>
+                </div>
+                <div class="col-xs-2">
+                    <thumbnail>
+                        <a href="http://if.insa-lyon.fr/" title="Département Informatique"><img class="img-responsive" src="./commun/img/if_logo.png" alt="Département Informatique"></a>
+                    </thumbnail>
+                </div>
+                <div class="col-xs-1"></div>
+                <div class="col-xs-3">
+                    <thumbnail>
+                        <a href="http://hardis.fr" title="Hardis - Parrain Promo 2016"><img class="img-responsive" src="./commun/img/parrains_caroussel/hardis.png" alt="Hardis"></a>
+                    </thumbnail>
+                </div>
+                <div class="col-xs-2">
+                    <thumbnail>
+                        <a href="http://www.bull.fr/" title="Bull - Parrain Promo 2017"><img class="img-responsive" src="./commun/img/parrains_caroussel/bull.png" alt="Bull"></a>
+                    </thumbnail>
+                </div>
+                <div class="col-xs-1">
+                    <thumbnail>
+                        <a href="http://www.soprasteria.com/" title="Sopra Steria - Parrain Promo 2018"><img class="img-responsive" src="./commun/img/parrains_caroussel/sopra.png" alt="Sopra"></a>
+                    </thumbnail>
+                </div>
+            </div>
         </div>
     </div>
     <!--<div class="row" style="text-align:center;">

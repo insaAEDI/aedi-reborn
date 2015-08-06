@@ -5,54 +5,54 @@ body {
 }
 
 p {
-	text-align: justify;
+    text-align: justify;
 }
 
 /* tablesorter */
 
 
 table.tablesorter thead tr .header {
-	background-image: url(../img/symboles/bg.gif);
-	background-repeat: no-repeat;
-	background-position: center left;
-	cursor: pointer;
-	padding-left: 20px;
+    background-image: url(../img/symboles/bg.gif);
+    background-repeat: no-repeat;
+    background-position: center left;
+    cursor: pointer;
+    padding-left: 20px;
 }
 
 table.tablesorter thead tr .headerSortUp {
-	background-image: url(../img/symboles/asc.gif);
+    background-image: url(../img/symboles/asc.gif);
 }
 table.tablesorter thead tr .headerSortDown {
-	background-image: url(../img/symboles/desc.gif);
+    background-image: url(../img/symboles/desc.gif);
 }
 
 .module h1 {
-	margin-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 .module .hero-unit h1 {
-	margin-bottom: 0px;
+    margin-bottom: 0px;
 }
 
 .hero_motcle {
-	font-weight: bold;
-	font-size: 1.2em;
-	color: #049cdb;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #049cdb;
 }
 
 .centre
 {
-	text-align:center;
+    text-align:center;
 }
 
 .comment{
-	font-size:0.9em;
-	color:grey;
-	font-style:italic;
+    font-size:0.9em;
+    color:grey;
+    font-style:italic;
 }
 
 .module_entr div h2 {
-	position:relative;
+    position:relative;
     width: 97%;  
     font-size: 1.5em;  
     font-weight: bold;  
@@ -68,7 +68,7 @@ table.tablesorter thead tr .headerSortDown {
     -webkit-border-radius: 0px 5px 5px 0px;  
     -moz-border-radius: 0px 5px 5px 0px;   
     border-radius: 0px 5px 5px 0px;
-	background-color: #049cdb;
+    background-color: #049cdb;
 }
 
 .module_entr div h2:before {
@@ -76,35 +76,35 @@ table.tablesorter thead tr .headerSortDown {
     position:absolute;
     top:2.4em;
     left:0;
-	z-index: -1;
-	border-right:2.4em solid #0169a8;
+    z-index: -1;
+    border-right:2.4em solid #0169a8;
     border-bottom:1.2em solid #fff;
 }
 .module_entr div h2~p {
-	background-color: #fff;
-	padding: 10px;
-	margin-left: 10px;
-	margin-top: -15px;
+    background-color: #fff;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: -15px;
 }
 .module_entr div h2~h3 {
-	background-color: #fff;
-	margin-top: -15px;
-	padding: 10px;
+    background-color: #fff;
+    margin-top: -15px;
+    padding: 10px;
 }
 
 .module_entr div h2 i  {
-	vertical-align:middle;
-	margin-right:10px;
+    vertical-align:middle;
+    margin-right:10px;
 }
 
 /* ----------- PAGE CONTACT ------------ */
 #contact-mails td {
-	padding-right: 20px;
+    padding-right: 20px;
 }
 
 /* ----------- PAGE A-PROPOS ------------ */
 #about-team h2, #about-site .accordion-heading h2, #about-asso div h2 {
-	position:relative;
+    position:relative;
     width: 97%;  
     font-size: 1.5em;  
     font-weight: bold;  
@@ -115,7 +115,7 @@ table.tablesorter thead tr .headerSortDown {
 }
 
 #about-team .row:nth-child(even) h2 {
-	text-align: right;
+    text-align: right;
     padding: 5px 10% 5px 5%;  
     margin: 5px 10% 10px -5%;  
     -webkit-border-radius: 5px 0px 0px 5px;  
@@ -129,7 +129,7 @@ table.tablesorter thead tr .headerSortDown {
     -webkit-border-radius: 0px 5px 5px 0px;  
     -moz-border-radius: 0px 5px 5px 0px;   
     border-radius: 0px 5px 5px 0px;
-	background-color: #049cdb;
+    background-color: #049cdb;
 }
 
 #about-site .accordion-heading h2, #about-asso div h2 {
@@ -138,7 +138,7 @@ table.tablesorter thead tr .headerSortDown {
     -webkit-border-radius: 0px 5px 5px 0px;  
     -moz-border-radius: 0px 5px 5px 0px;   
     border-radius: 0px 5px 5px 0px;
-	background-color: #049cdb;
+    background-color: #049cdb;
 }
 
 #about-team .row:nth-child(odd) h2:before, #about-site h2:before, #about-asso div h2:before {
@@ -146,8 +146,8 @@ table.tablesorter thead tr .headerSortDown {
     position:absolute;
     top:2.4em;
     left:0;
-	z-index: -1;
-	border-right:2.4em solid #0169a8;
+    z-index: -1;
+    border-right:2.4em solid #0169a8;
     border-bottom:1.2em solid #fff;
 }
 
@@ -156,103 +156,103 @@ table.tablesorter thead tr .headerSortDown {
     position:absolute;
     top:2.4em;
     right:0;
-	z-index: -1;
+    z-index: -1;
     border-left:2em solid #009;
     border-bottom:1em solid #fff;
 }
 
 #about-team .bleuBur {
-	background-color: #049cdb;
+    background-color: #049cdb;
 }
 #about-team .row:nth-child(even) .bleuBur:after {
     border-left-color: #0169a8;
 }
 
 #about-team .bleuEntr {
-	background-color: #32b;
+    background-color: #32b;
 }
 #about-team .row .bleuEntr:before {
     border-right-color: #108;
 }
 
 #about-team .bleuAnim {
-	background-color: #03b2c9;
+    background-color: #03b2c9;
 }
 #about-team .row:nth-child(even) .bleuAnim:after {
     border-left-color: #018096;
 }
 
 #about-team .bleuCom {
-	background-color: #24c;
+    background-color: #24c;
 }
 #about-team .row .bleuCom:before {
     border-right-color: #119;
 }
 
 #about-site .row h2 {
-	margin-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 #about-site h2 i, #about-asso h2 i  {
-	vertical-align:middle;
-	position:relative;
-	left:-4%;
-	margin-right:-20px;
+    vertical-align:middle;
+    position:relative;
+    left:-4%;
+    margin-right:-20px;
 }
 #about-team .row:nth-child(odd) h2 i  {
-	vertical-align:middle;
-	position:relative;
-	left:-8%;
+    vertical-align:middle;
+    position:relative;
+    left:-8%;
 }
 #about-team .row:nth-child(even) h2 i  {
-	vertical-align:middle;
-	position:relative;
-	right:-8%;
+    vertical-align:middle;
+    position:relative;
+    right:-8%;
 }
 
 #about-team .row .span6 {
-	background-color: #eeeeff;
-	border-radius: 5px;
-	margin-left: 10px;
-	padding:10px;
+    background-color: #eeeeff;
+    border-radius: 5px;
+    margin-left: 10px;
+    padding:10px;
 }
 
 .categ-services {
-	margin-left: 20px;
+    margin-left: 20px;
 }
 
 #about-site .categ-services .span4 div {
-	background-color: #049cdb;
-	border-radius:5px;
-	padding:10px;
-	margin-bottom: 20px;
-	-webkit-box-shadow: 0px 2px 4px #888;  
+    background-color: #049cdb;
+    border-radius:5px;
+    padding:10px;
+    margin-bottom: 20px;
+    -webkit-box-shadow: 0px 2px 4px #888;  
     -moz-box-shadow: 0px 2px 4px #888;  
     box-shadow: 0px 2px 4px #888;  
 }
 #about-site #services-entreprise .categ-services .span4 div, #about-site .accordion-heading .bleuEntr {
-	background-color: #269;
+    background-color: #269;
 }
 
 #about-site .accordion-heading .bleuEntr:before {
     border-right-color: #047;
 }
 #about-site .categ-services  .span4 div h4 {
-	color: #ddf;
-	text-align: center;
+    color: #ddf;
+    text-align: center;
 }
 #about-site .categ-services  .span4 div p {
-	color: #fff;
+    color: #fff;
 }
 
 
 #about-site .accordion-heading {
-	background-color: white;
+    background-color: white;
 }
 
 /* ---------- PRESENTATION EVENEMENTS ---------- */
 #evenements h2{
-	position:relative;
+    position:relative;
     width: 97%;  
     font-size: 1.5em;  
     font-weight: bold;  
@@ -263,13 +263,13 @@ table.tablesorter thead tr .headerSortDown {
 }
 
 #evenements .row:nth-child(even) h2 {
-	text-align: right;
+    text-align: right;
     padding: 5px 10% 5px 5%;  
     margin: 5px 10% 10px -5%;  
     -webkit-border-radius: 5px 0px 0px 5px;  
     -moz-border-radius: 5px 0px 0px 5px;   
     border-radius: 5px 0px 0px 5px;
-	background-color: #049cdb;
+    background-color: #049cdb;
 }
 
 #evenements div .row:nth-child(odd) h2 {
@@ -278,7 +278,7 @@ table.tablesorter thead tr .headerSortDown {
     -webkit-border-radius: 0px 5px 5px 0px;  
     -moz-border-radius: 0px 5px 5px 0px;   
     border-radius: 0px 5px 5px 0px;
-	background-color: #049cdb;
+    background-color: #049cdb;
 }
 
 #evenements div .row:nth-child(odd) h2:before{
@@ -286,8 +286,8 @@ table.tablesorter thead tr .headerSortDown {
     position:absolute;
     top:2.4em;
     left:0;
-	z-index: -1;
-	border-right:2.4em solid #0169a8;
+    z-index: -1;
+    border-right:2.4em solid #0169a8;
     border-bottom:1.2em solid #fff;
 }
 
@@ -296,129 +296,129 @@ table.tablesorter thead tr .headerSortDown {
     position:absolute;
     top:2.4em;
     right:0;
-	z-index: -1;
+    z-index: -1;
     border-left:2em solid #0169a8;
     border-bottom:1em solid #fff;
 }
 
 #evenements div .row:nth-child(odd) h2 i  {
-	vertical-align:middle;
-	position:relative;
-	left:-6%;
+    vertical-align:middle;
+    position:relative;
+    left:-6%;
 }
 #evenements .row:nth-child(even) h2 i  {
-	vertical-align:middle;
-	position:relative;
-	right:-6%;
+    vertical-align:middle;
+    position:relative;
+    right:-6%;
 }
 
 #evenements .row .presentation {
-	background-color: #eeeeff;
-	border-radius: 5px;
-	margin-left: 10px;
-	padding:10px;
+    background-color: #eeeeff;
+    border-radius: 5px;
+    margin-left: 10px;
+    padding:10px;
 }
 
 /* ---------- MODULE ANNUAIRE ---------- */
 
 #annuaire {
-	margin-top: 20px;
+    margin-top: 20px;
 }
 
 #annuaire #liste{
-	height: 500px;
-	overflow: scroll;
+    height: 500px;
+    overflow: scroll;
 }
 
 #annuaire #recherche{
-	height: 100px;
+    height: 100px;
 }
 
 #annuaire table .first{
-	width: 20px;
+    width: 20px;
 }
 
 #annuaire #formSearchContactButton{
-	text-align:center;
-	margin:10px;
+    text-align:center;
+    margin:10px;
 }
 
 #annuaire .entreprise:hover{
-	cursor: pointer;
+    cursor: pointer;
 }
 
 #annuaire .editionEntreprise {
-	margin-right: 10px;
-	margin-top: 5px;
-	float:right;
+    margin-right: 10px;
+    margin-top: 5px;
+    float:right;
 }
 
 #annuaire #contacts td .btn {
-	margin-right: 5px;
-	
+    margin-right: 5px;
+
 }
 #annuaire #contacts td .btn:last-child {
-	margin-right: 0px;
-	
+    margin-right: 0px;
+
 }
 
 #annuaire #options {
-	float:right;
-	margin-top: 10px;
-	margin-left:5px;
+    float:right;
+    margin-top: 10px;
+    margin-left:5px;
 }
 
 #text-centered .text-centered {
-	text-align: center;
+    text-align: center;
 }
 
 /* ---------- MODULE STAGE ---------- */
 
 #stages #submit_recherche {
-	float: right;	
+    float: right;	
 }
 
 #stages h1 {
-	text-align: left;
-	margin-bottom: 10px;
+    text-align: left;
+    margin-bottom: 10px;
 }
 
 #stages input, select {
-	margin-right: 20px;
-	width: 150px;
+    margin-right: 20px;
+    width: 150px;
 }
 
 /* Simulation des balises details et summary */
 #stages details, summary {
-	display: block;
+    display: block;
 }
 
 #stages summary {
-	cursor: pointer;
+    cursor: pointer;
 }
 
 #stages summary:hover, summary:focus {
-	background: #ddd;
+    background: #ddd;
 }
 
 #stages .no-details details > * {
-	display: none;
+    display: none;
 }
 
 /*Mettre les images de puces : fleche haut et fleche bas */
 #stages .no-details details summary:before {
-	float: left; width: 20px; content: '-';
+    float: left; width: 20px; content: '-';
 }
 #stages .no-details details.open summary:before {
-	content: '-';
+    content: '-';
 }
 
 #stages .no-details details summary {
-	display: block;
+    display: block;
 }
 
 #stages #form_stages {
-	padding-bottom: 0px;
+    padding-bottom: 0px;
 }
 
 /* ---------- MODULE ENTRETIENS ---------- */
@@ -427,13 +427,13 @@ table.tablesorter thead tr .headerSortDown {
 /* ---------- MODULE RIF ---------- */
 
 #layout.titre {
-	text-align:center;
-	font-size:40px;
-	font-weight:bold;
-	letter-spacing: -3px;
-	font-style: oblique;
-	margin-bottom:30px;
-	color: rgb(83, 83, 83);
+    text-align:center;
+    font-size:40px;
+    font-weight:bold;
+    letter-spacing: -3px;
+    font-style: oblique;
+    margin-bottom:30px;
+    color: rgb(83, 83, 83);
 }
 
 #layout.footer {
@@ -446,26 +446,44 @@ table.tablesorter thead tr .headerSortDown {
 }
 
 #rifs p {
-	text-align:justify;
+    text-align:justify;
 }
 
 #rifs .centre
 {
-	text-align:center;
+    text-align:center;
 }
 
 #presentationRif {
-	text-align: justify;
+    text-align: justify;
 }
 
 /* ------- ACCUEIL ---------*/
 
 #accueil {
-	margin-top: 30px;
+    margin-top: 30px;
 }
 
-#accueil .logos img {
-    max-height: 50px;
-    max-width: 200px;
-    
+#accueil .carousel-caption {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 25px;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+
+/* ------- MENU ---------*/
+.nav-header {
+    padding-left: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.carousel-indicators {
+    position: absolute;
+    bottom: 0;
 }
