@@ -17,7 +17,7 @@
                 <div class="presentation well">
                     <div>
                         <img id="logo" height="150px" src="commun/img/logo_aedi_2015.png" alt="Logo AEDI" />
-                        <h2>Association des Elèves du Département Informatique</h2>
+                        <h1>Association des Elèves du Département Informatique</h1>
                     </div>
                     <p><em>Association de l'INSA-Lyon créée pour renforcer la cohésion entre les étudiants du Département Informatique, les aider dans leur cursus, et établir des contacts privilégiés avec les entreprises.</em></p>
                     <p>Cela fait plus de trente ans que notre association étoffe son éventails d'évènements, de la Semaine d'Intégration des nouveaux élèves aux Rencontres IF, forum ouvert aux entreprises, en passant par le Week-End Ski, le Concert IF, le Voyage de fin d'étude, ...</p>
