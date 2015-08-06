@@ -10,10 +10,10 @@
  */
 ?>
 
-<div id="cvtheque" class="module_entr">
+<div id="cvtheque" class="container">
 	<div class="row">
-		<div id="presentationRif" class="span12">
-			<div class="hero-unit">
+		<div id="presentationRif" class="col-sm-12">
+			<div class="well">
 				<h1>CVthèque (projet)</h1>
 				<p>
 				  <br/>
@@ -24,13 +24,13 @@
 		</div>
 	</div>
 	<div class="row">
-		<div class="span4">
+		<div class="col-sm-4">
 			<p class="centre" style="font-size:10em;">
 				<br/><br/><br/>?
 			</p>
 			<p>
 		</div>
-		<div id="infoRif" class="span8">
+		<div id="infoRif" class="col-sm-8">
 			<h2><i class="icon icon-search icon-white"></i> Nous aider</h2>
 			
 			<p>Ce projet est encore en phase d'étude. Plusieurs formules et formats ont déjà été proposés, et nous étudions l'intérêt de chacun. Néanmoins, en tant qu'acteurs potentiels de cette offre, votre avis nous intéresse beaucoup.</p>

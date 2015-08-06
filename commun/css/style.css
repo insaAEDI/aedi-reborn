@@ -63,52 +63,6 @@ table.tablesorter thead tr .headerSortDown {
     font-style:italic;
 }
 
-.module_entr div h2 {
-    position:relative;
-    width: 97%;  
-    font-size: 1.5em;  
-    font-weight: bold;  
-    color: #fff;  
-    -webkit-box-shadow: 0px 2px 4px #888;  
-    -moz-box-shadow: 0px 2px 4px #888;  
-    box-shadow: 0px 2px 4px #888;  
-}
-
-.module_entr div h2 {
-    padding: 5px 2% 5px 3%;  
-    margin: 5px 3% 15px -3%;  
-    -webkit-border-radius: 0px 5px 5px 0px;  
-    -moz-border-radius: 0px 5px 5px 0px;   
-    border-radius: 0px 5px 5px 0px;
-    background-color: #049cdb;
-}
-
-.module_entr div h2:before {
-    content: "";
-    position:absolute;
-    top:2.4em;
-    left:0;
-    z-index: -1;
-    border-right:2.4em solid #0169a8;
-    border-bottom:1.2em solid #fff;
-}
-.module_entr div h2~p {
-    background-color: #fff;
-    padding: 10px;
-    margin-left: 10px;
-    margin-top: -15px;
-}
-.module_entr div h2~h3 {
-    background-color: #fff;
-    margin-top: -15px;
-    padding: 10px;
-}
-
-.module_entr div h2 i  {
-    vertical-align:middle;
-    margin-right:10px;
-}
-
 /* ----------- PAGE CONTACT ------------ */
 #contact-mails td {
     padding-right: 20px;
