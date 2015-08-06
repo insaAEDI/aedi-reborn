@@ -24,6 +24,12 @@ h2 {
     color: white;
 }
 
+.module {
+    margin-top: 30px;
+}
+
+
+
 /* tablesorter */
 
 
@@ -44,16 +50,6 @@ table.tablesorter thead tr .headerSortDown {
 
 .module h1 {
     margin-bottom: 20px;
-}
-
-.module .hero-unit h1 {
-    margin-bottom: 0px;
-}
-
-.hero_motcle {
-    font-weight: bold;
-    font-size: 1.2em;
-    color: #049cdb;
 }
 
 .centre
@@ -116,75 +112,6 @@ table.tablesorter thead tr .headerSortDown {
 /* ----------- PAGE CONTACT ------------ */
 #contact-mails td {
     padding-right: 20px;
-}
-
-/* ---------- PRESENTATION EVENEMENTS ---------- */
-#evenements h2{
-    position:relative;
-    width: 97%;  
-    font-size: 1.5em;  
-    font-weight: bold;  
-    color: #fff;  
-    -webkit-box-shadow: 0px 2px 4px #888;  
-    -moz-box-shadow: 0px 2px 4px #888;  
-    box-shadow: 0px 2px 4px #888;  
-}
-
-#evenements .row:nth-child(even) h2 {
-    text-align: right;
-    padding: 5px 10% 5px 5%;  
-    margin: 5px 10% 10px -5%;  
-    -webkit-border-radius: 5px 0px 0px 5px;  
-    -moz-border-radius: 5px 0px 0px 5px;   
-    border-radius: 5px 0px 0px 5px;
-    background-color: #049cdb;
-}
-
-#evenements div .row:nth-child(odd) h2 {
-    padding: 5px 5% 5px 10%;  
-    margin: 5px 18% 15px -7%;  
-    -webkit-border-radius: 0px 5px 5px 0px;  
-    -moz-border-radius: 0px 5px 5px 0px;   
-    border-radius: 0px 5px 5px 0px;
-    background-color: #049cdb;
-}
-
-#evenements div .row:nth-child(odd) h2:before{
-    content: "";
-    position:absolute;
-    top:2.4em;
-    left:0;
-    z-index: -1;
-    border-right:2.4em solid #0169a8;
-    border-bottom:1.2em solid #fff;
-}
-
-#evenements .row:nth-child(even) h2:after {
-    content: "";
-    position:absolute;
-    top:2.4em;
-    right:0;
-    z-index: -1;
-    border-left:2em solid #0169a8;
-    border-bottom:1em solid #fff;
-}
-
-#evenements div .row:nth-child(odd) h2 i  {
-    vertical-align:middle;
-    position:relative;
-    left:-6%;
-}
-#evenements .row:nth-child(even) h2 i  {
-    vertical-align:middle;
-    position:relative;
-    right:-6%;
-}
-
-#evenements .row .presentation {
-    background-color: #eeeeff;
-    border-radius: 5px;
-    margin-left: 10px;
-    padding:10px;
 }
 
 /* ---------- MODULE ANNUAIRE ---------- */
@@ -327,10 +254,6 @@ table.tablesorter thead tr .headerSortDown {
 }
 
 /* ------- ACCUEIL ---------*/
-
-#accueil {
-    margin-top: 30px;
-}
 
 #accueil .carousel-caption {
     position: absolute;
