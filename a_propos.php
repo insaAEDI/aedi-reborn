@@ -79,7 +79,7 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                                     <li><strong>Jérôme Guidon</strong></li>
                                     <li><strong>Gustave Monod</strong> (Responsable)</li>
                                     <li><strong>Jason Lecerf</strong></li>
-                                    <li><strong>C&écilia Van Bever</strong></li>
+                                    <li><strong>Cécilia Van Bever</strong></li>
                                 </ul>
                             </div>
                             <div class="col-sm-4">
