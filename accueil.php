@@ -32,62 +32,64 @@
             </div>
 
             <div class="col-md-8">
-                <div id="photoCarousel" class="carousel slide" data-ride="carousel">
-                    <ol class="carousel-indicators">
-                        <li data-target="#photoCarousel" data-slide-to="0" class="active"></li>
-                        <li data-target="#photoCarousel" data-slide-to="1"></li>
-                        <li data-target="#photoCarousel" data-slide-to="2"></li>
-                        <li data-target="#photoCarousel" data-slide-to="3"></li>
-                        <li data-target="#photoCarousel" data-slide-to="4"></li>
-                    </ol>
-                    <div class="carousel-inner" role="listbox">
-                        <div class="item active">
-                            <img src="./commun/img/photo_caroussel/conference.jpg" alt="Conférence AEDI">
-                            <div class="carousel-caption">
-                                <h4>Une association qui relie Etudiants et Entreprises</h4>
-                                <p>A travers les évènements qu'elle organise, l'AEDI a pour but de renforcer la cohésion entre les étudiants du Département, tout en leur offrant des contacts privilégiés avec les entreprises.</p>
+                <div class="well">
+                    <div id="photoCarousel" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#photoCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#photoCarousel" data-slide-to="1"></li>
+                            <li data-target="#photoCarousel" data-slide-to="2"></li>
+                            <li data-target="#photoCarousel" data-slide-to="3"></li>
+                            <li data-target="#photoCarousel" data-slide-to="4"></li>
+                        </ol>
+                        <div class="carousel-inner" role="listbox">
+                            <div class="item active">
+                                <img src="./commun/img/photo_caroussel/conference.jpg" alt="Conférence AEDI">
+                                <div class="carousel-caption">
+                                    <h4>Une association qui relie Etudiants et Entreprises</h4>
+                                    <p>A travers les évènements qu'elle organise, l'AEDI a pour but de renforcer la cohésion entre les étudiants du Département, tout en leur offrant des contacts privilégiés avec les entreprises.</p>
+                                </div>
                             </div>
-                        </div>
-                        <div class="item" role="listbox">
-                            <img src="./commun/img/photo_caroussel/total.jpg" alt="Equipe AEDI">
-                            <div class="carousel-caption">
-                                <h4>Une équipe dynamique prête à vous accueillir</h4>
-                                <p>L'AEDI est gérée par une équipe d'étudiants bénévoles et actifs, aussi à l'aise pour les évènements étudiants que pour le dialogue avec les entreprises.</p>
+                            <div class="item" role="listbox">
+                                <img src="./commun/img/photo_caroussel/total.jpg" alt="Equipe AEDI">
+                                <div class="carousel-caption">
+                                    <h4>Une équipe dynamique prête à vous accueillir</h4>
+                                    <p>L'AEDI est gérée par une équipe d'étudiants bénévoles et actifs, aussi à l'aise pour les évènements étudiants que pour le dialogue avec les entreprises.</p>
+                                </div>
                             </div>
-                        </div>
-                        <div class="item" role="listbox">
-                            <img src="./commun/img/photo_caroussel/rif.jpg" alt="Rencontres IF">
-                            <div class="carousel-caption">
-                                <h4>De multiples évènements professionnels</h4>
-                                <p>Tout au long de l'année, l'AEDI convie des entreprises à des conférences, déjeunes-métiers, etc, le but étant de créer des liens forts entre étudiants et sociétés. Le point fort de cette politique est la Journée de Rencontres IF, durant laquelle sont conviées une trentaine de grandes entreprises.</p>
+                            <div class="item" role="listbox">
+                                <img src="./commun/img/photo_caroussel/rif.jpg" alt="Rencontres IF">
+                                <div class="carousel-caption">
+                                    <h4>De multiples évènements professionnels</h4>
+                                    <p>Tout au long de l'année, l'AEDI convie des entreprises à des conférences, déjeunes-métiers, etc, le but étant de créer des liens forts entre étudiants et sociétés. Le point fort de cette politique est la Journée de Rencontres IF, durant laquelle sont conviées une trentaine de grandes entreprises.</p>
+                                </div>
                             </div>
-                        </div>
-                        <div class="item" role="listbox">
-                            <img src="./commun/img/photo_caroussel/integration.jpg" alt="Rencontres IF">
-                            <div class="carousel-caption">
-                                <h4>Détente et Cohésion</h4>
-                                <p>Car il n'est pas facile de débarquer dans l'univers insalien, l'AEDI prévoit chaque année de multiples évènements pour intégrer les nouveaux venus et instaurer une ambiance chaleureuse.</p>
+                            <div class="item" role="listbox">
+                                <img src="./commun/img/photo_caroussel/integration.jpg" alt="Rencontres IF">
+                                <div class="carousel-caption">
+                                    <h4>Détente et Cohésion</h4>
+                                    <p>Car il n'est pas facile de débarquer dans l'univers insalien, l'AEDI prévoit chaque année de multiples évènements pour intégrer les nouveaux venus et instaurer une ambiance chaleureuse.</p>
+                                </div>
                             </div>
-                        </div>
-                        <div class="item" role="listbox">
-                            <img  src="./commun/img/photo_caroussel/integration2.jpg" alt="Equipe AEDI">
-                            <div class="carousel-caption">
-                                <h4>... alors rejoignez-nous !</h4>
-                                <p>N'hésitez pas à nous contacter, au local, par mails, par téléphone, etc ... Nous nous ferons un plaisir de discuter avec vous !</p>
+                            <div class="item" role="listbox">
+                                <img  src="./commun/img/photo_caroussel/integration2.jpg" alt="Equipe AEDI">
+                                <div class="carousel-caption">
+                                    <h4>... alors rejoignez-nous !</h4>
+                                    <p>N'hésitez pas à nous contacter, au local, par mails, par téléphone, etc ... Nous nous ferons un plaisir de discuter avec vous !</p>
+                                </div>
                             </div>
-                        </div>
-                    </div> <!-- carrousel-inner -->
+                        </div> <!-- carrousel-inner -->
 
-                    <!-- Controls -->
-                    <a class="left carousel-control" href="#photoCarousel" role="button" data-slide="prev">
-                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
-                    </a>
-                    <a class="right carousel-control" href="#photoCarousel" role="button" data-slide="next">
-                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
-                    </a>
-                </div> <!-- carrousel -->
+                        <!-- Controls -->
+                        <a class="left carousel-control" href="#photoCarousel" role="button" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="right carousel-control" href="#photoCarousel" role="button" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div> <!-- carrousel -->
+                </div>
             </div>
         </div> <!-- row -->
     </div> <!-- container-fluid -->
