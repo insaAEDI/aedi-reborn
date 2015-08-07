@@ -103,6 +103,7 @@
                         <a href="http://if.insa-lyon.fr/" title="Département Informatique"><img class="img-responsive" src="./commun/img/if_logo.png" alt="Département Informatique"></a>
                     </thumbnail>
                 </div>
+                <div class="col-xs-1"></div>
                 <div class="col-xs-3">
                     <thumbnail>
                         <a href="http://hardis.fr" title="Hardis - Parrain Promo 2016"><img class="img-responsive" src="./commun/img/parrains_caroussel/hardis.png" alt="Hardis"></a>
@@ -113,7 +114,7 @@
                         <a href="http://www.bull.fr/" title="Bull - Parrain Promo 2017"><img class="img-responsive" src="./commun/img/parrains_caroussel/bull.png" alt="Bull"></a>
                     </thumbnail>
                 </div>
-                <div class="col-xs-2">
+                <div class="col-xs-1">
                     <thumbnail>
                         <a href="http://www.soprasteria.com/" title="Sopra Steria - Parrain Promo 2018"><img class="img-responsive" src="./commun/img/parrains_caroussel/sopra.png" alt="Sopra"></a>
                     </thumbnail>
