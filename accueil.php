@@ -158,9 +158,8 @@
         if (e.keyCode === konami_keys[konami_index++]) {
             if (konami_index === konami_keys.length) {
                 $(document).unbind('keydown', arguments.callee);
-                alert("Les nouveaux responsables de ce site tiennent à préciser que, s'il est tout moche, c'est parce que ses créateurs ont sans doute passé plus de temps à faire ça qu'autre chose. Ils souhaitent aussi faire savoir qu'ils ne cautionnent pas du tout ce genre de comportement, oh non alors.\n\n 			- 2015");
-                $('.footer').append('<p>Ok, nous aussi on sait rigoler :D - 2015</p><iframe width="420" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1" frameborder="0" allowfullscreen></iframe>');
-                $('body').css('background', 'url("logo/oystercage.jpg")').css('background-repeat', 'true');
+                $('.footer').append('<iframe width="420" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1" frameborder="0" allowfullscreen></iframe>');
+                $('body').css('background', 'url("commun/img/oystercage.jpg")').css('background-repeat', 'true');
                 $.getScript('http://www.cornify.com/js/cornify.js', function () {
                     cornify_add();
                     $(document).keydown(cornify_add);
@@ -174,9 +173,9 @@
     // Caroussels :
     $('#photoCarousel').carousel({
         interval: 10000
-    })
+    });
 
     $('#parrainsCarousel').carousel({
         interval: 5000
-    })
+    });
 </script>
