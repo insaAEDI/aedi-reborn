@@ -65,6 +65,47 @@ img {
     text-align: right;
 }
 
+.nav-header {
+    padding-left: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.carousel-indicators {
+    position: absolute;
+    bottom: 0;
+}
+
+.carousel-caption {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 25px;
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 0px 0px 10px 10px;
+}
+
+.carousel-control, .carousel img{
+    border-radius: 10px;
+}
+
+.logos table {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logos img {
+    max-height: 100px;
+    max-width: 200px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 /* tablesorter */
 
 
@@ -135,43 +176,4 @@ table.tablesorter thead tr .headerSortDown {
     float:right;
     margin-top: 10px;
     margin-left:5px;
-}
-/* ------- ACCUEIL ---------*/
-
-#accueil .carousel-caption {
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-bottom: 25px;
-    background: rgba(0, 0, 0, 0.7);
-}
-
-.logos table {
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.logos img {
-    max-height: 100px;
-    max-width: 200px;
-    /**/
-    padding-bottom: 10px;
-    padding-left: 10px;
-    padding-right: 10px;/**/
-}
-
-/* ------- MENU ---------*/
-.nav-header {
-    padding-left: 15px;
-    text-transform: uppercase;
-    font-weight: bold;
-}
-
-.carousel-indicators {
-    position: absolute;
-    bottom: 0;
 }
