@@ -42,14 +42,14 @@ global $utilisateur;
 
                         <li role="separator" class="divider"></li>
 
-                        <li class="nav-header"><span class="glyphicon glyphicon-glass" aria-hidden="true"></span> Evénements</li>
+                        <li class="nav-header"><span class="glyphicon glyphicon-glass" aria-hidden="true"></span> événements</li>
                         <li><a href="index.php?page=Evenements_Etudiant">Présentation</a></li>
                     </ul>
                 </li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-flag white" aria-hidden="true"></span> Entreprises <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li class="nav-header"><span class="glyphicon glyphicon-star" aria-hidden="true"></span> Evénements</li>
+                        <li class="nav-header"><span class="glyphicon glyphicon-star" aria-hidden="true"></span> événements</li>
                         <li><a href="index.php?page=RIFs_Entreprise">Rencontres IF</a></li>
                         <li><a href="index.php?page=Entretiens_Entreprise">Simulations d'entretiens</a></li>
                         <li><a href="index.php?page=Conferences">Conférences</a></li>
