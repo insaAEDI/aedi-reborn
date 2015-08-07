@@ -45,17 +45,14 @@
                 <p class="centre"><a href="#" e-name="aedi.bureau" class="e-noBot btn btn-large btn-info" e-domain="listes.insa-lyon.fr"><strong><i class="icon-eye-open icon-white"></i> Nous Contacter</strong></a></p>
 
                 <h2><i class="icon icon-star icon-white"></i> Parrains actuels</h2>
-                <div class="row">
-                    <div class="col-xs-4">
-                        <a href="http://hardis.fr" title="Hardis - Parrain Promo 2016"><img class="img-responsive" src="./commun/img/parrains_caroussel/hardis.png" alt="Hardis"></a>
-                    </div>
-                    <div class="col-xs-4">
-                        <a href="http://www.bull.fr/" title="Bull - Parrain Promo 2017"><img class="img-responsive" src="./commun/img/parrains_caroussel/bull.png" alt="Bull"></a>
-                    </div>
-                    <div class="col-xs-1"></div>
-                    <div class="col-xs-2">
-                        <a href="http://www.soprasteria.com/" title="Sopra Steria - Parrain Promo 2018"><img class="img-responsive" src="./commun/img/parrains_caroussel/sopra.png" alt="Sopra"></a>
-                    </div>
+                <div class="logos">
+                    <table>
+                        <tr>
+                            <td><a href="http://hardis.fr" title="Hardis - Parrain Promo 2016"><img class="img-responsive" src="./commun/img/parrains_caroussel/hardis.png" alt="Hardis"></a></td>
+                            <td><a href="http://www.bull.fr/" title="Bull - Parrain Promo 2017"><img class="img-responsive" src="./commun/img/parrains_caroussel/bull.png" alt="Bull"></a></td>
+                            <td><a href="http://www.soprasteria.com/" title="Sopra Steria - Parrain Promo 2018"><img class="img-responsive" src="./commun/img/parrains_caroussel/sopra.png" alt="Sopra"></a></td>
+                        </tr>
+                    </table>
                 </div>
             </div>
         </div>

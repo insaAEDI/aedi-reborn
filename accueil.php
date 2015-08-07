@@ -92,34 +92,15 @@
 
     <div class="logos">
         <div class="container-fluid">
-            <div class="row">
-                <div class="col-xs-3">
-                    <thumbnail>
-                        <a href="http://www.insa-lyon.fr/" title="INSA-Lyon"><img class="img-responsive" src="./commun/img/insa_logo.png" alt="INSA-Lyon"></a>
-                    </thumbnail>
-                </div>
-                <div class="col-xs-2">
-                    <thumbnail>
-                        <a href="http://if.insa-lyon.fr/" title="Département Informatique"><img class="img-responsive" src="./commun/img/if_logo.png" alt="Département Informatique"></a>
-                    </thumbnail>
-                </div>
-                <div class="col-xs-1"></div>
-                <div class="col-xs-3">
-                    <thumbnail>
-                        <a href="http://hardis.fr" title="Hardis - Parrain Promo 2016"><img class="img-responsive" src="./commun/img/parrains_caroussel/hardis.png" alt="Hardis"></a>
-                    </thumbnail>
-                </div>
-                <div class="col-xs-2">
-                    <thumbnail>
-                        <a href="http://www.bull.fr/" title="Bull - Parrain Promo 2017"><img class="img-responsive" src="./commun/img/parrains_caroussel/bull.png" alt="Bull"></a>
-                    </thumbnail>
-                </div>
-                <div class="col-xs-1">
-                    <thumbnail>
-                        <a href="http://www.soprasteria.com/" title="Sopra Steria - Parrain Promo 2018"><img class="img-responsive" src="./commun/img/parrains_caroussel/sopra.png" alt="Sopra"></a>
-                    </thumbnail>
-                </div>
-            </div>
+            <table>
+                <tr>
+                    <td><a href="http://www.insa-lyon.fr/" title="INSA-Lyon"><img class="img-responsive" src="./commun/img/insa_logo.png" alt="INSA-Lyon"></a></td>
+                    <td><a href="http://if.insa-lyon.fr/" title="Département Informatique"><img class="img-responsive" src="./commun/img/if_logo.png" alt="Département Informatique"></a></td>
+                    <td><a href="http://hardis.fr" title="Hardis - Parrain Promo 2016"><img class="img-responsive" src="./commun/img/parrains_caroussel/hardis.png" alt="Hardis"></a></td>
+                    <td><a href="http://www.bull.fr/" title="Bull - Parrain Promo 2017"><img class="img-responsive" src="./commun/img/parrains_caroussel/bull.png" alt="Bull"></a></td>
+                    <td><a href="http://www.soprasteria.com/" title="Sopra Steria - Parrain Promo 2018"><img class="img-responsive" src="./commun/img/parrains_caroussel/sopra.png" alt="Sopra"></a></td>
+                </tr>
+            </table>
         </div>
     </div>
     <!--<div class="row" style="text-align:center;">
