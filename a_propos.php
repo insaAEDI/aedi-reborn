@@ -35,14 +35,14 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                         <p>Chaque année, une équipe d'étudiants volontaires est élue pour reprendre sa tête, apportant ainsi de nouvelles pierres à l'édifice.</p>
                     </div>
                     <div class="well">
-                        <h2><i class="icon icon-star icon-white"></i> Notre Mission</h2>
-                        <p>L'AEDI a pour rôle de <span class="hero_motcle">renforcer la cohésion entre les étudiants du Département Informatique, les aider dans leur cursus, et établir des contacts privilégiés avec les entreprises</span>.</p>
+                        <h2><span class="glyphicon glyphicon-star" aria-hidden="true"></span> Notre Mission</h2>
+                        <p>L'AEDI a pour rôle de <strong>renforcer la cohésion entre les étudiants du Département Informatique, les aider dans leur cursus, et établir des contacts privilégiés avec les entreprises.</strong></p>
                         <p>Pour cela, l'AEDI profite aujourd'hui d'un riche <strong>réseau</strong> construit au cours des ans, regroupant anciens élèves investis, entreprises clés du monde informatique, et enseignants motivés. Ces ressources, mises à disposition à travers de nombreux évènements fédérateurs, comme les <a title="En savoir plus sur les RIF" href="index.php?page=RIFs_Entreprise">Rencontre IF</a> ou les <a title="En savoir plus sur les conférences" href="index.php?page=Conferences">conférences</a>, offrent des opportunités en or aux étudiants de découvrir les acteurs de l'Informatique, et leur futur employeur. Réciproquement, cela permet aux entreprises de renforcer leur présence et découvrir des profils intéressants.</p>
                         <p>S'il est primordial pour les élèves de profiter de ces occasions et de se projeter dans le futur, l'AEDI a aussi conscience de l'importance, parfois, de simplement profiter du présent, de ces années étudiantes qui passent bien trop vite. Dans cette optique sont régulierement organisés des <strong>évènements récréatifs</strong>. Intégration des nouveaux venus, sorties en ville, goûters, activités sportives, ... Toutes les occasions sont bonnes pour renforcer les liens au sein du Département, mais aussi avec l'exterieur, grâce aux bonnes relations développées avec d'autres associations étudiantes lyonnaises.</p>
                         <p>L'AEDI s'est donc donnée comme vocation d'être un acteur clé du Département, en aidant les étudiants dans tous les aspects de leurs etudes.</p>
 
-                        <h2><i class="icon icon-heart icon-white"></i> Nos Valeurs</h2>
-                        <p>L'AEDI a fait le voeu de croire profondément dans <span class="hero_motcle">le potentiel des étudiants</span> du Département Informatique. C'est pourquoi nous nous efforcons d'apporter le terreau, les opportunités, destinés à faire valoir ces talents. La <strong>diversité</strong> des profils au sein des promotions est également une caracteristique que nous chérissons et encourageons, afin de favoriser une atmosphère d'échanges et de camaraderie plûtot que de compétition.</p>
+                        <h2><span class="glyphicon glyphicon-heart" aria-hidden="true"></span> Nos Valeurs</h2>
+                        <p>L'AEDI a fait le voeu de croire profondément dans <strong>le potentiel des étudiants</strong> du Département Informatique. C'est pourquoi nous nous efforcons d'apporter le terreau, les opportunités, destinés à faire valoir ces talents. La <strong>diversité</strong> des profils au sein des promotions est également une caracteristique que nous chérissons et encourageons, afin de favoriser une atmosphère d'échanges et de camaraderie plûtot que de compétition.</p>
                         <p>Enfin, pur produit de <strong>l'esprit associatif</strong> de l'INSA-Lyon, l'AEDI a à cœur de faire prospérer celui-ci, en encourageant les initiatives étudiantes et les partenariats inter- et extra-campus.</p>
                     </div>
                 </div>
@@ -59,27 +59,27 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                                 </div>
                             </div>
                             <div class="col-sm-8">
-                                <h2>Le Bureau <i class="icon icon-tag icon-white"></i></h2>
+                                <h2><span class="glyphicon glyphicon-tag" aria-hidden="true"></span> Le Bureau</h2>
                                 <p>A la tête de l'association, le Bureau coordonne les différentes équipes.</p>
                                 <ul>
-                                    <li><span class="hero_motcle">Marine Martin</span> : Trésorière</li>
-                                    <li><span class="hero_motcle">Gautier Berthou</span> : Secrétaire</li>
-                                    <li><span class="hero_motcle">Alexandre Sarrazin</span> : Vice-Président</li>
-                                    <li><span class="hero_motcle">Alicia Parisse</span> : Présidente</li>
-                                    <li><span class="hero_motcle">R&eacute;mi Martin</span> : Vice-Tr&eacute;sorier</li>
+                                    <li><strong>Marine Martin</strong> : Trésorière</li>
+                                    <li><strong>Gautier Berthou</strong> : Secrétaire</li>
+                                    <li><strong>Alexandre Sarrazin</strong> : Vice-Président</li>
+                                    <li><strong>Alicia Parisse</strong> : Présidente</li>
+                                    <li><strong">Rémi Martin</strong> : Vice-Trésorier</li>
                                 </ul>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-sm-8">
-                                <h2><i class="icon icon-flag icon-white"></i>L'équipe Entreprise</h2>
+                                <h2><span class="glyphicon glyphicon-flag" aria-hidden="true"></span> L'équipe Entreprise</h2>
                                 <p>Chargée des relations Entreprises, l'équipe organise notamment les <a href="index.php?page=RIFs_Entreprise" title="Rencontres IF">RIFs</a>.<br/>
                                     <small>De gauche à droite :</small></p>
                                 <ul>
-                                    <li><strong>J&eacute;rôme Guidon</strong></li>
+                                    <li><strong>Jérôme Guidon</strong></li>
                                     <li><strong>Gustave Monod</strong> (Responsable)</li>
                                     <li><strong>Jason Lecerf</strong></li>
-                                    <li><strong>C&eacute;cilia Van Bever</strong></li>
+                                    <li><strong>C&écilia Van Bever</strong></li>
                                 </ul>
                             </div>
                             <div class="col-sm-4">
@@ -95,7 +95,7 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                                 </div>
                             </div>
                             <div class="col-sm-8">
-                                <h2>L'équipe Animation <i class="icon icon-music icon-white"></i></h2>
+                                <h2><span class="glyphicon glyphicon-music" aria-hidden="true"></span> L'équipe Animation</h2>
                                 <p>Cette équipe organise toute l'année des <a href="index.php?page=Evenements_Etudiant" title="Présentation des évènements">évènements</a> à destination des étudiants.<br/>
                                     <small>De gauche à droite :</small></p>
                                 <ul>
@@ -111,7 +111,7 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                         </div>
                         <div class="row">
                             <div class="col-sm-8">
-                                <h2><i class="icon icon-envelope icon-white"></i>L'équipe Communication</h2>
+                                <h2><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> L'équipe Communication</h2>
                                 <p>Affiches, newsletters, réseaux sociaux, ... Cette équipe rend visible l'association et ses évènements sur le campus.<br/>
                                     <small>De gauche à droite :</small></p>
                                 <ul>
@@ -134,12 +134,12 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                                 </div>
                             </div>
                             <div class="col-sm-8">
-                                <h2>L'équipe Admin <i class="icon icon-eye-open icon-white"></i></h2>
+                                <h2><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> L'équipe Admin</h2>
                                 <p>En charge du patrimoine informatique de l'AEDI, ils veillent sur le bon fonctionnement et l'amélioration des services.<br/>
                                     <small>De gauche à droite :</small></p>
                                 <ul>
                                     <li><strong>Camille Oddon</strong></li>
-                                    <li><strong>Aur&eacute;lien Bertron</strong></li>
+                                    <li><strong>Aurélien Bertron</strong></li>
                                 </ul>
                             </div>
                         </div>
@@ -155,7 +155,7 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                             <div class="accordion-group">
                                 <div class="accordion-heading">
                                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion-site" href="#services-etudiant">
-                                        <h2><i class="icon icon-user icon-white"></i> Etudiant</h2>
+                                        <h2><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Etudiant</h2>
                                     </a>
                                 </div>
                                 <div id="services-etudiant" class="accordion-body collapse">
@@ -211,7 +211,7 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                         <div class="accordion-group">
                             <div class="accordion-heading">
                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion-site" href="#services-entreprise">
-                                    <h2 class="bleuEntr" ><i class="icon icon-flag icon-white"></i> Entreprise</h2>
+                                    <h2><span class="glyphicon glyphicon-flag" aria-hidden="true"></span> Entreprise</h2>
                                 </a>
                             </div>
                             <div id="services-entreprise" class="accordion-body collapse">

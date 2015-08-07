@@ -38,7 +38,7 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                                 </div>
                             </div>
                             <div class="col-sm-8">
-                                <h2>L'Intégration<i class="icon icon-flag icon-white"></i></h2>
+                                <h2><span class="glyphicon glyphicon-flag" aria-hidden="true"></span> L'Intégration</h2>
                                 <p>Afin de faire découvrir leur nouvel environnement aux nouveaux IFs, et d'aider à tisser les premiers liens, des volontaires organisent à la rentrée, avec l'aide du parrain, une semaine d'évènements variés, s'achevant sur l'incontournable <strong>Week-End d'Intégration</strong>.<br/>
                                     <small>Date : Semaine de la rentrée</small></p>
                             </div>
@@ -46,11 +46,11 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                         <div class="row">
                             <div class="col-sm-8">
                                 <div class="presentation">
-                                    <h2><i class="icon icon-music icon-white"></i> Le Concert IF</h2>
+                                    <h2><span class="glyphicon glyphicon-music" aria-hidden="true"></span> Le Concert IF</h2>
                                     <p>Les IFs ont du talent ! Prouve-le en participant à ce concert, avec ton groupe ou d'autres musiciens du Département ! <small>Date : Début Décembre</small></p>
                                 </div>
                                 <div class="presentation">
-                                    <h2><i class="icon icon-asterisk icon-white"></i> Le Week-End Ski</h2>
+                                    <h2><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Le Week-End Ski</h2>
                                     <p>Un week-end de folie où les étudiants IF se retrouvent pour profiter de la montagne et de la fondue ! Bonne ambiance assurée ! <small>Date : Fin Janvier</small></p>
                                 </div>
                             </div>
@@ -66,17 +66,17 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                                 </div>
                             </div>
                             <div class="col-sm-8">
-                                <h2>La Soirée Post-Partiels <i class="icon icon-glass icon-white"></i></h2>
+                                <h2><span class="glyphicon glyphicon-glass" aria-hidden="true"></span> La Soirée Post-Partiels</h2>
                                 <p><em>Après l'effort, le réconfort !</em> Organisée en fin d’année, cette soirée rassemble plusieurs centaines de participants de plusieurs campus ... <small>Date : Fin Avril</small></p>
-                                <h2>Le Barbecue de Fin d'Année <i class="icon icon-fire icon-white"></i></h2>
+                                <h2><span class="glyphicon glyphicon-fire" aria-hidden="true"></span> Le Barbecue de Fin d'Année</h2>
                                 <p>Soirée au coin du feu avec les camarades de promo pour célébrer l'arrivée de l'été, avant le début des stages. <small>Date : Fin Mai</small></p>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-sm-8">
-                                <h2><i class="icon icon-star icon-white"></i> La Remise des Diplômes</h2>
+                                <h2><span class="glyphicon glyphicon-star" aria-hidden="true"></span> La Remise des Diplômes</h2>
                                 <p>Véritable cérémonie durant laquelle sera remis ton diplôme tant mérité, avec le reste de ta promo et ta famille. <small>Date : Début Février</small></p>
-                                <h2><i class="icon icon-plane icon-white"></i> Le Voyage de Fin d'Etude</h2>
+                                <h2><span class="glyphicon glyphicon-plane" aria-hidden="true"></span> Le Voyage de Fin d'Etude</h2>
                                 <p>Dernière aventure de la promo, l’AEDI organise ce voyage qui aura lieu pendant votre PFE (dernier stage en 5ème année). <small>Date : Juin</small></p>
                             </div>
                             <div class="col-sm-4">
@@ -103,7 +103,7 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                                 </div>
                             </div>
                             <div class="col-sm-8">
-                                <h2>Les Rencontres IF<i class="icon icon-retweet icon-white"></i></h2>
+                                <h2><span class="glyphicon glyphicon-retweet" aria-hidden="true"></span> Les Rencontres IF</h2>
                                 <p>Plus d'une vingtaine d'entreprises sont invitées au sein du Département afin de venir à la rencontre des étudiants ! La journée, banalisée pour l'évènement, te permettra de venir te renseigner, poser des questions, prendre des contacts, et peut-être obtenir ton futur stage ou emploi !<br/>
                                     Il s'agit d'une chance unique pour cotoyer de grandes entreprises de l'informatique, alors prépare dès à présent tes CV et ton costume !<br/>
                                     <small>Date : Mi Janvier</small></p>
@@ -111,7 +111,7 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                         </div>
                         <div class="row">
                             <div class="col-sm-8">
-                                <h2><i class="icon icon-volume-up icon-white"></i> Les Conférences</h2>
+                                <h2><span class="glyphicon glyphicon-volume-up" aria-hidden="true"></span> Les Conférences</h2>
                                 <p>Durant une heure ou deux, des entreprises viennent présenter leurs métiers, ou des concepts qu'elles ont à cœur. C'est l'opportunité de découvrir les tendances actuelles qui agitent le monde professionnel, et peut-être d'échanger de manière conviviale, autour d'un toast, avec des experts dans leur domaine !<br/>
                                     <small>Date : Les Jeudis après-midi</small></p>
                             </div>
@@ -128,7 +128,7 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                                 </div>
                             </div>
                             <div class="col-sm-8">
-                                <h2>Les Simulations d'entretiens <i class="icon icon-comment icon-white"></i></h2>
+                                <h2><span class="glyphicon glyphicon-comment" aria-hidden="true"></span> Les Simulations d'entretiens</h2>
                                 <p>Proposées par des sociétés partenaires, ces simulations te permettent de mettre ton argumentaire et ton charisme à l'épreuve de recruteurs expérimentés, qui te prodigueront remarques et conseils, et t'aideront peut-être même à mieux cibler ton propre profil.<br/>
                                     <small>Date : Les Jeudis après-midi</small></p>
                             </div>

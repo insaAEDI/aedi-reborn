@@ -14,11 +14,15 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <div class="presentation well">
-                    <div>
-                        <img id="logo" height="150px" src="commun/img/logo_aedi_2015.png" alt="Logo AEDI" />
-                        <h1>Association des Elèves du Département Informatique</h1>
-                    </div>
+                <div class="logos">
+                    <table>
+                        <tr>
+                            <td><img class="img-responsive" src="commun/img/logo_aedi_2015.png" alt="Logo AEDI" /></td>
+                            <td><img class="img-responsive pull-right" src="commun/img/nom_aedi.png" alt="Logo AEDI" /></td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="well">
                     <p><em>Association de l'INSA-Lyon créée pour renforcer la cohésion entre les étudiants du Département Informatique, les aider dans leur cursus, et établir des contacts privilégiés avec les entreprises.</em></p>
                     <p>Cela fait plus de trente ans que notre association étoffe son éventails d'évènements, de la Semaine d'Intégration des nouveaux élèves aux Rencontres IF, forum ouvert aux entreprises, en passant par le Week-End Ski, le Concert IF, le Voyage de fin d'étude, ...</p>
                     <p>Avec à sa tête une équipe dynamique, l'AEDI s'épanouit et grandit, riche des liens qu'elle tisse avec les entreprises et anciens étudiants.</p>
@@ -29,7 +33,7 @@
                         <p style="margin-top:10px; margin-left: 5%; display:inline-block;"><a href="https://twitter.com/AEDInsa" class="twitter-follow-button" data-show-count="false" data-lang="fr" data-show-screen-name="false">Suivre @AEDInsa</a></p>
                     </div>
                     <p style="width:50%; text-align:right; display:inline-block;">
-                        <a href="index.php?page=A_Propos" class="btn btn-primary btn-large"><i class="icon-search icon-white"></i> En savoir plus</a>
+                        <a href="index.php?page=A_Propos" class="btn btn-primary btn-large"><span class="glyphicon glyphicon-search white" aria-hidden="true"></span> En savoir plus</a>
                     </p>
                 </div> <!-- presentation -->
             </div>
@@ -91,7 +95,7 @@
     <hr>
 
     <div class="logos">
-        <div class="container-fluid">
+        <div class="container">
             <table>
                 <tr>
                     <td><a href="http://www.insa-lyon.fr/" title="INSA-Lyon"><img class="img-responsive" src="./commun/img/insa_logo.png" alt="INSA-Lyon"></a></td>

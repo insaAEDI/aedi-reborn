@@ -22,15 +22,15 @@
         </p>
         <p>
             Pour leur faciliter la tâche, l'AEDI propose des conférences aux élèves. Ces séminaires sont
-            proposés par des <span class="hero_motcle">ingénieurs issus du monde de l'entreprise</span>, qui présentent des <span class="hero_motcle">technologies ou des
-                concepts</span>. Ces rencontres sont à la fois profitables pour les intervenants qui améliorent leurs carnets
+            proposés par des <strong>ingénieurs issus du monde de l'entreprise</strong>, qui présentent des <strong>technologies ou des
+                concepts</strong>. Ces rencontres sont à la fois profitables pour les intervenants qui améliorent leurs carnets
             de contacts et les étudiants qui en apprennent plus sur la société.
         </p>
     </div>
     <div class="row">
         <div class="col-sm-4">
             <div class="well">
-                <h2><i class="icon icon-bookmark icon-white"></i> Concept</h2>
+                <h2><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span> Concept</h2>
                 <p>Le concept des conférences est de faire se rencontrer les étudiants et les entreprises tout en permettant
                     aux futurs ingénieurs d'<strong>actualiser leurs connaissances du monde de l'entreprise</strong>.</p>
                 <p>Pour cela, des employés d'une société viennent à l'INSA les jeudis après-midis, effectuent leurs présentations devant des
@@ -41,7 +41,7 @@
         </div>
         <div id="infoRif" class="col-sm-8">
             <div class="well">
-                <h2><i class="icon icon-search icon-white"></i> Informations</h2>
+                <h2><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Informations</h2>
                 <p>
                     Vous êtes une entreprise et vous êtes intéressés pour présenter cette dernière, ou une méthode, un thème ou une technologie que vous maîtrisez en interne? Voici les informations qui vous intéressent.
                 </p>
@@ -112,7 +112,7 @@
 
                 <h3>Questions</h3>
                 <p>Pour plus d'informations concernant l'organisation d'un tel évènement, n'hésitez pas à nous contacter à l'adresse suivante :</p>
-                <p class="centre"><a href="#" e-name="aedi.bureau" class="e-noBot btn btn-mini btn-info" e-domain="listes.insa-lyon.fr"><i class="icon-eye-open icon-white"></i> Afficher Email</a></p>
+                <p class="centre"><a href="#" e-name="aedi.bureau" class="e-noBot btn btn-mini btn-info" e-domain="listes.insa-lyon.fr"><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Afficher Email</a></p>
             </div>
         </div>
     </div>

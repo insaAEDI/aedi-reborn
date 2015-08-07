@@ -14,14 +14,31 @@ h1,h2,h3,h4 {
 
 h2 {
     padding: 5px;
+    padding-left: 10px;
     border-radius: 5px;
     background-color: #049cdb;
     color: white;
 }
 
-.module img {
+.presentation p {
+    font-size: larger;
+}
+
+h2 .glyphicon {
+    font-size: 60%;
+}
+
+.white {
+    text-decoration-color: white;
+}
+
+img {
     position: relative;
     top: 50%;
+}
+
+.well {
+    padding: 10px;
 }
 
 .well .well {
@@ -134,14 +151,17 @@ table.tablesorter thead tr .headerSortDown {
 
 .logos table {
     width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .logos img {
     max-height: 100px;
     max-width: 200px;
-    /*
+    /**/
+    padding-bottom: 10px;
     padding-left: 10px;
-    padding-right: 10px;*/
+    padding-right: 10px;/**/
 }
 
 /* ------- MENU ---------*/

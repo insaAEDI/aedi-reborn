@@ -19,7 +19,7 @@
     <div class="row">
         <div class="col-sm-4">
             <div class="well">
-                <h2><i class="icon icon-bookmark icon-white"></i> Concept</h2>
+                <h2><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span> Concept</h2>
                 <p>
                     Les simulations d'entretiens ont lieu au département, hors temps scolaire. L'entreprise offre un certain nombre de créneaux durant lesquels les recruteurs dépêchés rencontreront les étudiants préalablement inscrits.</p>
                 <p>L'entretien se termine généralement par un échange entre l'étudiant et le professionnel, ce dernier pouvant revenir sur la <strong>prestation de l'élève, dresser son profil, prodiguer des conseils, ... </strong></p>
@@ -29,7 +29,7 @@
 
         <div id="infoRif" class="col-sm-8">
             <div class="well">
-                <h2><i class="icon icon-search icon-white"></i> Informations</h2>
+                <h2><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Informations</h2>
 
                 <h3>Dates possibles</h3>
                 <p>
@@ -39,11 +39,11 @@
 
                 <h3>Contact</h3>
                 <p>Pour plus d'informations concernant cet évènement, nous vous invitons à consulter le site web du Département :</p>
-                <p class="centre"><a href="http://if.insa-lyon.fr/entreprise/simulation-entretiens" class="btn btn-large btn-primary" ><i class="icon-search icon-white"></i> En savoir plus</a></p>
-                <p>Vous pouvez également contacter notre Bureau, qui saura vous conseillez : <a href="#" e-name="aedi.bureau" class="e-noBot btn btn-mini btn-info" e-domain="listes.insa-lyon.fr"><i class="icon-eye-open icon-white"></i> Afficher Email</a></p>
+                <p class="centre"><a href="http://if.insa-lyon.fr/entreprise/simulation-entretiens" class="btn btn-large btn-primary" ><span class="glyphicon glyphicon-search" aria-hidden="true"></span> En savoir plus</a></p>
+                <p>Vous pouvez également contacter notre Bureau, qui saura vous conseillez : <a href="#" e-name="aedi.bureau" class="e-noBot btn btn-mini btn-info" e-domain="listes.insa-lyon.fr"><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Afficher Email</a></p>
 
 
-                <h2><i class="icon icon-pencil icon-white"></i> Inscription</h2>
+                <h2><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Inscription</h2>
                 <p>
                     L'AEDI servant d'intermédiaire entre les entreprises et le Département Informatique pour ce service, nous mettons à votre disposition un formulaire d'inscription que vous trouverez à l'adresse ci-dessous.<br/>
                     Une fois le formulaire remplis, celui-ci est transmis au Département qui vous donnera réponse dans les plus brefs délais.

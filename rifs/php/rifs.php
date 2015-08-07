@@ -22,7 +22,7 @@
 
         <div id="conceptRif" class="col-sm-4">
             <div class="well">
-                <h2><i class="icon icon-bookmark icon-white"></i> Concept</h2>
+                <h2><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span> Concept</h2>
                 <p>
                     <strong>Plus d'une vingtaine d'entreprises</strong> sont invitées au sein du département afin de venir à la <strong>rencontre des étudiants</strong>. Celles-ci y sont accueillies par une équipe composée exclusivement d'étudiants, et la journée, banalisée pour l'évènement, permettra à chacun de venir se renseigner, poser des questions, prendre des contacts, ...
                 </p>
@@ -41,7 +41,7 @@
 
         <div id="infoRif" class="col-sm-8">
             <div class="well">
-                <h2><i class="icon icon-search icon-white"></i> Informations</h2>
+                <h2><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Informations</h2>
 
                 <h3>Date</h3>
                 <p>
@@ -54,22 +54,15 @@
                     Les tarifs sont étudiés afin de remercier les entreprises qui s'investissent en faveur du département informatique. Voici un aperçu de la grille tarifaire :
                 </p>
 
-                <div class="row-fluid">
-                    <div class="span7">
+                <div class="row">
+                    <div class="col-sm-8">
                         <ul>
-                            <li>Entreprise parrainant l'une des trois promotions en cours : </li>
-                            <li>Entreprise payant la taxe d'apprentissage au Département IF : </li>
-                            <li>Autres entreprises : </li>
+                            <li>Entreprise parrainant l'une des trois promotions en cours : Invitée</li>
+                            <li>Entreprise payant la taxe d'apprentissage au Département IF : Tarif Réduit</li>
+                            <li>Autres entreprises : Plein Tarif</li>
                         </ul>
-                    </div>
-                    <div class="span3">
-                        <ul class="unstyled">
-                            <li>Invitée</li>
-                            <li>Tarif Réduit</li>
-                            <li>Plein Tarif</li>
-                        </ul>
-                    </div>
-                </div>
+                    </div> 
+               </div>
 
                 <p style="margin-top: 10px;" class="comment">
                     Pour connaître les tarifs exacts, n'hésitez pas à nous contacter afin de vous renseigner au mieux.
@@ -79,11 +72,11 @@
                 <p>Pour plus d'informations concernant cet évènement, veuillez nous contacter à l'adresse suivante : <a href="#" e-name="aedi.entreprise.asso" class="e-noBot btn btn-mini btn-info" e-domain="listes.insa-lyon.fr"><i class="icon-eye-open icon-white"></i> Afficher Email</a></p>
 
                 <div id="inscriptionRif">
-                    <h2><i class="icon icon-pencil icon-white"></i> Inscription</h2>
+                    <h2><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Inscription</h2>
                     <p>
                         Pour vous inscrire aux prochaines Rencontres IF, merci de nous contacter le plus rapidement possible. Nous étudierons alors votre demande, et vous répondrons dans les plus brefs délais. 
                     </p>
-                    <p class="centre"><a href="#" e-name="aedi.entreprise.asso" class="e-noBot btn btn-large btn-info" e-domain="listes.insa-lyon.fr"><strong><i class="icon-eye-open icon-white"></i> Nous Contacter</strong></a></p>
+                    <p class="centre"><a href="#" e-name="aedi.entreprise.asso" class="e-noBot btn btn-large btn-info" e-domain="listes.insa-lyon.fr"><strong><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Nous Contacter</strong></a></p>
                 </div>
             </div>
         </div>
