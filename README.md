@@ -20,5 +20,6 @@ Le serveur sur lequel est hebergé le site a la configuration suivante :
  - PHP 5.4.12
  - mysql 5.5.29
 
+## Preview du bazar
 
-
+Le site est disponible à l'adresse http://aedi.insa-lyon.fr/reborn
