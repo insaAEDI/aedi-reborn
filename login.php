@@ -19,10 +19,10 @@ if ($authentification->isAuthentifie() == false) {
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title">Authentification</h3>
+                    <h4 class="modal-title">Authentification</h4>
                 </div>
                 <div class="modal-body">
-                    <form id="login_form" role="form">
+                    <form id="login_form">
                         <div id="login_error" class="alert alert-error hide" style="padding-right: 10px;" > </div>
                         <div class="form-group">
                             <label class="control-label" for="username">Utilisateur</label><br>
@@ -35,8 +35,8 @@ if ($authentification->isAuthentifie() == false) {
                         <button id="regular_login" class="btn btn-primary">S'authentifier</button>
                     </form>
                     <hr>
-                    <form id="cas_login_form" method="post" role="form">
-                        <button id="cas_login" href="#" class="btn btn-primary" ><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Authentification par le CAS INSA</button>
+                    <form id="cas_login_form" method="post">
+                        <button id="cas_login" class="btn btn-primary" ><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Authentification par le CAS INSA</button>
                         <input type="hidden" name="action" value="login_cas" />
                     </form>
                 </div>
