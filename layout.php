@@ -51,7 +51,9 @@ global $authentification;
         <div class="module">   
 <?php inclure_fichier($nom_module, $nom_page, 'php'); ?>
         </div>
-
+        
+        <hr>
+        
         <div id="layout" class="footer">&copy; AEDI - 2015</div>
     </div>
 
