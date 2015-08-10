@@ -33,9 +33,7 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                     <div class="well">
                         <div class="row">
                             <div class="col-sm-4">
-                                <div class="thumbnail">
-                                    <img src="evenements/img/inte3.jpg" title="En IF, les musiciens sont à l'honneur !" />
-                                </div>
+                                <img class="img-thumbnail" src="evenements/img/inte3.jpg" title="En IF, les musiciens sont à l'honneur !" />
                             </div>
                             <div class="col-sm-8">
                                 <h2><span class="glyphicon glyphicon-flag" aria-hidden="true"></span> L'Intégration</h2>
@@ -45,14 +43,12 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                         </div>
                         <div class="row">
                             <div class="col-sm-8">
-                                <div class="presentation">
-                                    <h2><span class="glyphicon glyphicon-music" aria-hidden="true"></span> Le Concert IF</h2>
-                                    <p>Les IFs ont du talent ! Prouve-le en participant à ce concert, avec ton groupe ou d'autres musiciens du Département ! <small>Date : Début Décembre</small></p>
-                                </div>
-                                <div class="presentation">
-                                    <h2><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Le Week-End Ski</h2>
-                                    <p>Un week-end de folie où les étudiants IF se retrouvent pour profiter de la montagne et de la fondue ! Bonne ambiance assurée ! <small>Date : Fin Janvier</small></p>
-                                </div>
+                                <h2><span class="glyphicon glyphicon-music" aria-hidden="true"></span> Le Concert IF</h2>
+                                <p>Les IFs ont du talent ! Prouve-le en participant à ce concert, avec ton groupe ou d'autres musiciens du Département ! <small>Date : Début Décembre</small></p>
+
+                                <h2><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Le Week-End Ski</h2>
+                                <p>Un week-end de folie où les étudiants IF se retrouvent pour profiter de la montagne et de la fondue ! Bonne ambiance assurée ! <small>Date : Fin Janvier</small></p>
+
                             </div>
                             <div class="col-sm-4">
                                 <div class="thumbnail">
@@ -99,7 +95,7 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                         <div class="row">
                             <div class="col-sm-4">
                                 <div class="thumbnail">
-                                     <img src="evenements/img/rif.jpg" title="Les RIFs sont une occasion unique pour rencontrer de grandes entreprises." />
+                                    <img src="evenements/img/rif.jpg" title="Les RIFs sont une occasion unique pour rencontrer de grandes entreprises." />
                                 </div>
                             </div>
                             <div class="col-sm-8">
