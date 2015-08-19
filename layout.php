@@ -54,7 +54,7 @@ global $authentification;
 
         <hr>
 
-        <div id="layout" class="footer">&copy; AEDI - 2015</div>
+        <footer class="container-fluid">&copy; AEDI - 2015</footer>
 
     </body>
 </html>

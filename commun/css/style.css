@@ -4,6 +4,10 @@ body {
     margin-top: 25px;
 }
 
+footer {
+    text-align: right;
+}
+
 p {
     text-align: justify;
 }
@@ -39,6 +43,10 @@ img {
     top: 50%;
 }
 
+table {
+    margin-bottom: 5px;
+}
+
 .well {
     padding: 10px;
 }
@@ -60,11 +68,6 @@ img {
     font-size:0.9em;
     color:grey;
     font-style:italic;
-}
-
-.footer {
-    font-size: 0.8em;
-    text-align: right;
 }
 
 .nav-header {
