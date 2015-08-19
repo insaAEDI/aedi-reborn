@@ -22,14 +22,14 @@
                     <tr>
                         <td>Bureau de l'Association : </td>
                         <td>
-                            <a href="#" e-name="aedi.bureau" class="e-noBot btn btn-mini btn-info" e-domain="listes.insa-lyon.fr">
+                            <a href="#" e-name="aedi.bureau" class="e-noBot btn-mini btn-info" e-domain="listes.insa-lyon.fr">
                                 <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Afficher Email</a>
                         </td>
                     </tr>
                     <tr>
                         <td>Relations avec les Entreprises : </td>
                         <td>
-                            <a href="#" e-name="aedi.entreprise.asso" class="e-noBot btn btn-mini btn-info" e-domain="listes.insa-lyon.fr">
+                            <a href="#" e-name="aedi.entreprise.asso" class="e-noBot btn-mini btn-info" e-domain="listes.insa-lyon.fr">
                                 <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Afficher Email
                             </a>
                         </td>
@@ -37,7 +37,7 @@
                     <tr>
                         <td>Animation : </td>
                         <td>
-                            <a href="#" e-name="aedi.anim.asso" class="e-noBot btn btn-mini btn-info" e-domain="listes.insa-lyon.fr">
+                            <a href="#" e-name="aedi.anim.asso" class="e-noBot btn-mini btn-info" e-domain="listes.insa-lyon.fr">
                                 <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Afficher Email
                             </a>
                         </td>
@@ -45,7 +45,7 @@
                     <tr>
                         <td>Communications : </td>
                         <td>
-                            <a href="#" e-name="aedi.com.asso" class="e-noBot btn btn-info" e-domain="listes.insa-lyon.fr">
+                            <a href="#" e-name="aedi.com.asso" class="e-noBot btn-info" e-domain="listes.insa-lyon.fr">
                                 <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Afficher Email
                             </a>
                         </td>
