@@ -33,12 +33,12 @@ global $utilisateur;
                         <li><a href="http://shareif.insa-lyon.fr/redmine" target="_blank">Redmine</a></li>
                         <li><a href="https://shareif.insa-lyon.fr/" target="_blank">Share IF</a></li>
 
-                        <li role="separator" class="divider"></li>
+                        <!--<li role="separator" class="divider"></li>
 
                         <li class="nav-header"><span class="glyphicon glyphicon-road" aria-hidden="true"></span> Espace Pro.</li>
                         <li><a href="index.php?page=Entretiens_Etudiant">Simulations d'entretiens</a></li>
                         <li><a href="index.php?page=Stages_Etudiant">Stages</a></li>
-                        <li><a href="index.php?page=CV_Etudiant">CV</a></li>
+                        <li><a href="index.php?page=CV_Etudiant">CV</a></li> -->
 
                         <li role="separator" class="divider"></li>
 
@@ -104,7 +104,7 @@ global $utilisateur;
                 <li class=""><a href="index.php?page=A_Propos"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> A propos</a></li>
                 <li class=""><a href="index.php?page=Contact"><span class="glyphicon glyphicon-envelope white" aria-hidden="true"></span> Contact</a></li>
             </ul>
-
+<!-- désactivation de la connection, vu que t'façon on a rien qui marche avec pour l'instant
             <ul class="nav navbar-nav navbar-right">
                 <li>
                     <?php
@@ -129,7 +129,7 @@ global $utilisateur;
                     echo '</li>';
                 }
                 ?>
-            </ul>
+            </ul> -->
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
 </nav>
