@@ -21,13 +21,10 @@
                     <p>Avec à sa tête une équipe dynamique, l'AEDI s'épanouit et grandit, riche des liens qu'elle tisse avec les entreprises et anciens étudiants.</p>
                     <p style="text-align:justify; margin-bottom:20px;"><strong>Soyez le ou la bienvenu(e) sur notre site !</strong>
                     </p>
-                    <div style="width:50%; float:left; display:inline-block;" >
-                        <div style="position:relative; top:-3px; display:inline-block;" class="fb-like" data-href="http://www.facebook.com/AEDI.INSA.Lyon" data-send="false" data-layout="button_count" data-width="0" data-show-faces="false"></div>
+                    <div style="text-align: center">
+                        <p style="position:relative; top:-3px; display:inline-block;" class="fb-like" data-href="http://www.facebook.com/AEDI.INSA.Lyon" data-send="false" data-layout="button_count" data-width="0" data-show-faces="false"></p>
                         <p style="margin-top:10px; margin-left: 5%; display:inline-block;"><a href="https://twitter.com/AEDInsa" class="twitter-follow-button" data-show-count="false" data-lang="fr" data-show-screen-name="false">Suivre @AEDInsa</a></p>
                     </div>
-                    <p style="width:50%; text-align:right; display:inline-block;">
-                        <a href="index.php?page=A_Propos" class="btn btn-primary btn-large"><span class="glyphicon glyphicon-search white" aria-hidden="true"></span> En savoir plus</a>
-                    </p>
                 </div> <!-- presentation -->
             </div>
 
