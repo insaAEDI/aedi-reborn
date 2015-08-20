@@ -53,12 +53,12 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                     </div>
                     <div class="well">
                         <div class="row">
-                            <div class="col-sm-4">
+                            <!--<div class="col-sm-4">
                                 <div class="thumbnail">
                                     <img src="commun/img/equipe/bureau.jpg" title="Le Bureau"/>
                                 </div>
-                            </div>
-                            <div class="col-sm-8">
+                            </div>-->
+                            <div class="col-sm-12">
                                 <h2><span class="glyphicon glyphicon-tag" aria-hidden="true"></span> Le Bureau</h2>
                                 <p>A la tête de l'association, le Bureau coordonne les différentes équipes.</p>
                                 <ul>
@@ -71,7 +71,7 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-sm-8">
+                            <div class="col-sm-12">
                                 <h2><span class="glyphicon glyphicon-flag" aria-hidden="true"></span> L'équipe Entreprise</h2>
                                 <p>Chargée des relations Entreprises, l'équipe organise notamment les <a href="index.php?page=RIFs_Entreprise" title="Rencontres IF">RIFs</a>.<br/>
                                     <small>De gauche à droite :</small></p>
@@ -82,19 +82,19 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                                     <li><strong>Cécilia Van Bever</strong></li>
                                 </ul>
                             </div>
-                            <div class="col-sm-4">
+                             <!--<div class="col-sm-4">
                                 <div class="thumbnail">
-                                    <img src="commun/img/equipe/equipe_entreprise.jpg" title="L'Equipe Entreprise"/>
+                                   <img src="commun/img/equipe/equipe_entreprise.jpg" title="L'Equipe Entreprise"/>
                                 </div>
-                            </div>
+                            </div>-->
                         </div>
                         <div class="row">
-                            <div class="col-sm-4">
+                            <!--<div class="col-sm-4">
                                 <div class="thumbnail">
                                     <img src="commun/img/equipe/equipe_animation.jpg" title="L'équipe Animation"/>
                                 </div>
-                            </div>
-                            <div class="col-sm-8">
+                            </div>-->
+                            <div class="col-sm-12">
                                 <h2><span class="glyphicon glyphicon-music" aria-hidden="true"></span> L'équipe Animation</h2>
                                 <p>Cette équipe organise toute l'année des <a href="index.php?page=Evenements_Etudiant" title="Présentation des évènements">évènements</a> à destination des étudiants.<br/>
                                     <small>De gauche à droite :</small></p>
@@ -110,7 +110,7 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-sm-8">
+                            <div class="col-sm-12">
                                 <h2><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> L'équipe Communication</h2>
                                 <p>Affiches, newsletters, réseaux sociaux, ... Cette équipe rend visible l'association et ses évènements sur le campus.<br/>
                                     <small>De gauche à droite :</small></p>
@@ -121,19 +121,19 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                                     <li><strong>Pierre Godard</strong></li>
                                 </ul>
                             </div>
-                            <div class="col-sm-4">
+                            <!--<div class="col-sm-4">
                                 <div class="thumbnail">
                                     <img src="commun/img/equipe/equipe_communication.jpg" title="L'Equipe Entreprise"/>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="row">
-                            <div class="col-sm-4">
+                           <!-- <div class="col-sm-4">
                                 <div class="thumbnail">
                                     <img src="commun/img/equipe/equipe_admin.jpg" title="L'équipe Admin"/>
                                 </div>
-                            </div>
-                            <div class="col-sm-8">
+                            </div>-->
+                            <div class="col-sm-12">
                                 <h2><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> L'équipe Admin</h2>
                                 <p>En charge du patrimoine informatique de l'AEDI, ils veillent sur le bon fonctionnement et l'amélioration des services.<br/>
                                     <small>De gauche à droite :</small></p>
@@ -158,10 +158,10 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                                         <h2><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Etudiant</h2>
                                     </a>
                                 </div>
-                                <div id="services-etudiant" class="accordion-body collapse">
+                                <div id="services-etudiant" class="accordion-body">
                                     <div class="accordion-inner">
                                         <p>Tu trouveras ici deux catégories de services offerts par l'AEDI :</p>
-                                        <h3>Relations professionnelles</h3>
+                                        <!-- <h3>Relations professionnelles</h3>
                                         <p>Au cours des années, l'AEDI et le Département ont développé des relations privilégiées avec un grand nombre d'entreprises, afin de t'offrir un maximum d'opportunités pour bien débuter ta carrière. Une fois identifié, tu pourras ainsi accéder aux pages suivantes :</p>
                                         <div class="row">
                                             <div class="col-sm-6">
@@ -181,7 +181,7 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
 
                                     <h3>Outils de projet</h3>
                                     <p>Tout au long de ta scolarité (et surtout à partir de la 4ème année), tu seras amener à travailler sur des projets, avec d'autres étudiants. Afin de t'aider dans la gestion de projets, l'AEDI héberge deux plateformes de services recommandées :</p>                 <div class="span8">
@@ -233,9 +233,8 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                                         <div class="col-sm-6">
                                             <div class="well">
                                                 <h4>Simulations d'entretiens</h4>
-                                                <p>En quelques clics, préinscrivez-vous pour organiser des simulations d'entretiens dans notre Département ! Votre demande sera traitée dans les délais les plus brefs, et transmise à l'administration du Département qui se chargera des détails logistiques.</p>
-                                                <p style="color: #500; font-size: 0.8em;text-align:center;">Service en cours de finition. Merci de consulter la <a title="IF - Simulations d'entretiens" href="http://if.insa-lyon.fr/entreprise/simulation-entretiens" style="color: #500; text-decoration:underline;">page du Département</a> pour vous inscrire en attendant. Merci de votre compréhension.</p>
-                                                <button class="btn btn-small btn-default center-block" href="index.php?page=Entretiens_Entreprise" disabled title="Service en cours de finition. Merci de consulter la page du Département pour vous inscrire en attendant : if.insa-lyon.fr/entreprise/simulation-entretiens. Merci de votre compréhension.">Accéder</button>
+                                                <p>Pour obtenir des renseignements pour les simulations d'entretiens, merci de vous rendre sur la page dédiée sur le site du département informatique.</p>
+                                                <button class="btn btn-small btn-default center-block" href="http://if.insa-lyon.fr/entreprise/simulation-entretiens" >Accéder</button>
                                             </div>
                                         </div>
                                     </div>
