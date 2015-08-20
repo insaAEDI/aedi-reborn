@@ -66,7 +66,7 @@ inclure_fichier('commun', 'jquery.ba-hashchange.min', 'js');
                                     <li><strong>Gautier Berthou</strong> : Secrétaire</li>
                                     <li><strong>Alexandre Sarrazin</strong> : Vice-Président</li>
                                     <li><strong>Alicia Parisse</strong> : Présidente</li>
-                                    <li><strong">Rémi Martin</strong> : Vice-Trésorier</li>
+                                    <li><strong>Rémi Martin</strong> : Vice-Trésorier</li>
                                 </ul>
                             </div>
                         </div>
