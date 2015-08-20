@@ -143,7 +143,7 @@
                                         <h2><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Etudiant</h2>
                                     </a>
                                 </div>
-                                <div id="services-etudiant" class="accordion-body">
+                                <div id="services-etudiant" class="accordion-body collapse">
                                     <div class="accordion-inner">
                                         <p>Tu trouveras ici deux catégories de services offerts par l'AEDI :</p>
                                     <h3>Outils de projet</h3>
