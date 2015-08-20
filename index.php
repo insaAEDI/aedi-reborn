@@ -46,9 +46,11 @@ Flight::route('/entreprises/cvtheque', function() {
 });
 
 Flight::route('/entreprises/parrainage', function() {
-    Flight::render('entreprises/cvtheque', array(), 'body_content');
+    Flight::render('entreprises/parrainage', array(), 'body_content');
 	Flight::render('layout', array('title' => 'Parrainage'));
 });
+
+
 
 
 Flight::start();

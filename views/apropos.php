@@ -40,7 +40,7 @@
                         <div class="row">
                             <!--<div class="col-sm-4">
                                 <div class="thumbnail">
-                                    <img src="commun/img/equipe/bureau.jpg" title="Le Bureau"/>
+                                    <img src="/assets/img/equipe/bureau.jpg" title="Le Bureau"/>
                                 </div>
                             </div>-->
                             <div class="col-sm-12">
@@ -69,14 +69,14 @@
                             </div>
                              <!--<div class="col-sm-4">
                                 <div class="thumbnail">
-                                   <img src="commun/img/equipe/equipe_entreprise.jpg" title="L'Equipe Entreprise"/>
+                                   <img src="/assets/img/equipe/equipe_entreprise.jpg" title="L'Equipe Entreprise"/>
                                 </div>
                             </div>-->
                         </div>
                         <div class="row">
                             <!--<div class="col-sm-4">
                                 <div class="thumbnail">
-                                    <img src="commun/img/equipe/equipe_animation.jpg" title="L'équipe Animation"/>
+                                    <img src="/assets/img/equipe/equipe_animation.jpg" title="L'équipe Animation"/>
                                 </div>
                             </div>-->
                             <div class="col-sm-12">
@@ -108,14 +108,14 @@
                             </div>
                             <!--<div class="col-sm-4">
                                 <div class="thumbnail">
-                                    <img src="commun/img/equipe/equipe_communication.jpg" title="L'Equipe Entreprise"/>
+                                    <img src="/assets/img/equipe/equipe_communication.jpg" title="L'Equipe Entreprise"/>
                                 </div>
                             </div> -->
                         </div>
                         <div class="row">
                            <!-- <div class="col-sm-4">
                                 <div class="thumbnail">
-                                    <img src="commun/img/equipe/equipe_admin.jpg" title="L'équipe Admin"/>
+                                    <img src="/assets/img/equipe/equipe_admin.jpg" title="L'équipe Admin"/>
                                 </div>
                             </div>-->
                             <div class="col-sm-12">

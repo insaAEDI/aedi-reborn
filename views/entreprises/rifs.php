@@ -13,7 +13,7 @@
         </div>
         <div class="col-sm-6">
             <div class="thumbnail">
-                <img src="rifs/img/rifs_salle.jpg" alt="Une salle avec toutes ses entreprises">
+                <img src="/assets/img/rifs_salle.jpg" alt="Une salle avec toutes ses entreprises">
             </div>
         </div>
     </div>

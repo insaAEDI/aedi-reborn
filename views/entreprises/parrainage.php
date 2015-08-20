@@ -22,7 +22,7 @@
         <div id="infoRif" class="col-sm-8">
             <div class="well">
                 <div class="thumbnail">
-                    <img src="parrainage/img/thales2011.jpg" title="Rencontre entre les différents acteurs du parrainage 2011." alt="Rencontre entre les différents acteurs du parrainage 2011."/>
+                    <img src="/assets/img/thales2011.jpg" title="Rencontre entre les différents acteurs du parrainage 2011." alt="Rencontre entre les différents acteurs du parrainage 2011."/>
                 </div>
 
                 <h2><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Contact</h2>
@@ -35,9 +35,9 @@
                 <div class="logos">
                     <table>
                         <tr>
-                            <td><a href="http://hardis.fr" title="Hardis - Parrain Promo 2016"><img class="img-responsive" src="./commun/img/parrains_caroussel/hardis.png" alt="Hardis"></a></td>
-                            <td><a href="http://www.bull.fr/" title="Bull - Parrain Promo 2017"><img class="img-responsive" src="./commun/img/parrains_caroussel/bull.png" alt="Bull"></a></td>
-                            <td><a href="http://www.soprasteria.com/" title="Sopra Steria - Parrain Promo 2018"><img class="img-responsive" src="./commun/img/parrains_caroussel/sopra.png" alt="Sopra"></a></td>
+                            <td><a href="http://hardis.fr" title="Hardis - Parrain Promo 2016"><img class="img-responsive" src="/assets/img/logos/hardis.png" alt="Hardis"></a></td>
+                            <td><a href="http://www.bull.fr/" title="Bull - Parrain Promo 2017"><img class="img-responsive" src="/assets/img/logos/bull.png" alt="Bull"></a></td>
+                            <td><a href="http://www.soprasteria.com/" title="Sopra Steria - Parrain Promo 2018"><img class="img-responsive" src="/assets/img/logos/sopra.png" alt="Sopra"></a></td>
                         </tr>
                     </table>
                 </div>

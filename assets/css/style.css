@@ -40,10 +40,6 @@ img {
     top: 50%;
 }
 
-table {
-    margin-bottom: 5px;
-}
-
 .well {
     padding: 10px;
     background-color: hsla(200, 20%, 95%, 0.8);
@@ -99,14 +95,13 @@ table {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
+    table-layout: fixed;
 }
 
 .logos img {
     max-height: 100px;
     max-width: 200px;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
+    margin: auto;
 }
 
 .modal {

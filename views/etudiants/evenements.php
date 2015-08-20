@@ -19,7 +19,7 @@
                     <div class="well">
                         <div class="row">
                             <div class="col-sm-4">
-                                <img class="img-thumbnail" src="img/inte3.jpg" title="En IF, les musiciens sont à l'honneur !" />
+                                <img class="img-thumbnail" src="/assets/img/integration/inte3.jpg" title="En IF, les musiciens sont à l'honneur !" />
                             </div>
                             <div class="col-sm-8">
                                 <h2><span class="glyphicon glyphicon-flag" aria-hidden="true"></span> L'Intégration</h2>
@@ -38,13 +38,13 @@
                             </div>
                             <div class="col-sm-4">
                                 <div class="thumbnail">
-                                    <img src="img/inte.jpg" title="Sortie ensoleillée lors de l'Intégration." />
+                                    <img src="/assets/img/integration/inte.jpg" title="Sortie ensoleillée lors de l'Intégration." />
                                 </div>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-sm-4">
-                                <div class="thumbnail"><img src="evenements/img/inte2.jpg" title="Le Combat de Sumo, discipline phare du Département." /></p>
+                                <div class="thumbnail"><img src="/assets/img/integration/inte2.jpg" title="Le Combat de Sumo, discipline phare du Département." /></p>
                                 </div>
                             </div>
                             <div class="col-sm-8">
@@ -63,7 +63,7 @@
                             </div>
                             <div class="col-sm-4">
                                 <div class="thumbnail">
-                                    <img src="img/rdd.jpg" title="La Remise des Diplômes, plein d'émotions !" />
+                                    <img src="/assets/img/rdd.jpg" title="La Remise des Diplômes, plein d'émotions !" />
                                 </div>
                             </div>
                         </div>
@@ -81,7 +81,7 @@
                         <div class="row">
                             <div class="col-sm-4">
                                 <div class="thumbnail">
-                                    <img src="img/rif.jpg" title="Les RIFs sont une occasion unique pour rencontrer de grandes entreprises." />
+                                    <img src="/assets/img/rif.jpg" title="Les RIFs sont une occasion unique pour rencontrer de grandes entreprises." />
                                 </div>
                             </div>
                             <div class="col-sm-8">
@@ -99,14 +99,14 @@
                             </div>
                             <div class="col-sm-4">
                                 <div class="thumbnail">
-                                    <img src="evenements/img/conf.jpg" title="Nouvelles technologies ou orientations professionnelles ... Les conférences proposent des sujets au goût de chacun." />
+                                    <img src="/assets/img/conf.jpg" title="Nouvelles technologies ou orientations professionnelles ... Les conférences proposent des sujets au goût de chacun." />
                                 </div>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-sm-4">
                                 <div class="thumbnail">
-                                    <img src="evenements/img/simulation.jpg" title="Grâce au Département et à l'AEDI, vous aurez la chance de rencontrer de nombreux professionnels et bénéficier de leurs conseils." />
+                                    <img src="/assets/img/simulation.jpg" title="Grâce au Département et à l'AEDI, vous aurez la chance de rencontrer de nombreux professionnels et bénéficier de leurs conseils." />
                                 </div>
                             </div>
                             <div class="col-sm-8">
@@ -124,7 +124,7 @@
                     </div>
                     <div class="well">
                         <div class="thumbnail">
-                            <img src="evenements/img/salle_detente.jpg" title="Aperçu de la salle détente" />
+                            <img src="/assets/img/salle_detente.jpg" title="Aperçu de la salle détente" />
                         </div>
                     </div>
                 </div>

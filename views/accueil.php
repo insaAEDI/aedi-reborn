@@ -1,18 +1,13 @@
 <div class="container">
     <div class="row">
         <div class="col-md-4">
-            <img class="img-thumbnail" src="/assets/img/aedi_ban.png" style="margin-bottom: 10px;" alt="AEDI"/>
+            <img class="img-thumbnail" src="/assets/img/aedi_cover.png" style="margin-bottom: 10px;" alt="AEDI"/>
             <div class="well">
                 <p><em>Association de l'INSA-Lyon créée pour renforcer la cohésion entre les étudiants du Département Informatique, les aider dans leur cursus, et établir des contacts privilégiés avec les entreprises.</em></p>
                 <p>Cela fait plus de trente ans que notre association étoffe son éventails d'événements, de la Semaine d'Intégration des nouveaux élèves aux Rencontres IF, forum ouvert aux entreprises, en passant par le Week-End Ski, le Concert IF, le Voyage de fin d'études, ...</p>
                 <p>Avec à sa tête une équipe dynamique, l'AEDI s'épanouit et grandit, riche des liens qu'elle tisse avec les entreprises et anciens étudiants.</p>
-                <p style="text-align: center; margin-bottom:20px;"><strong>Soyez le ou la bienvenu(e) sur notre site !</strong>
-                </p>
-                <div style="text-align: center">
-                    <p style="position:relative; top:-3px; display:inline-block;" class="fb-like" data-href="http://www.facebook.com/AEDI.INSA.Lyon" data-send="false" data-layout="button_count" data-width="0" data-show-faces="false"></p>
-                    <p style="margin-top:10px; margin-left: 5%; display:inline-block;"><a href="https://twitter.com/AEDInsa" class="twitter-follow-button" data-show-count="false" data-lang="fr" data-show-screen-name="false">Suivre @AEDInsa</a></p>
-                </div>
-            </div> <!-- presentation -->
+                <p style="text-align: center;"><strong>Soyez le ou la bienvenu(e) sur notre site !</strong></p>
+            </div>
         </div>
 
         <div class="col-md-8">
@@ -84,50 +79,12 @@
     <div class="container">
         <table>
             <tr>
-                <td><a href="http://www.insa-lyon.fr/" title="INSA-Lyon"><img class="img-responsive" src="/assets/img/insa_logo.png" alt="INSA-Lyon"></a></td>
-                <td><a href="http://if.insa-lyon.fr/" title="Département Informatique"><img class="img-responsive" src="/assets/img/if_logo.png" alt="Département Informatique"></a></td>
-                <td><a href="http://hardis.fr" title="Hardis - Parrain Promo 2016"><img class="img-responsive" src="/assets/img/parrains_caroussel/hardis.png" alt="Hardis"></a></td>
-                <td><a href="http://www.bull.fr/" title="Bull - Parrain Promo 2017"><img class="img-responsive" src="/assets/img/parrains_caroussel/bull.png" alt="Bull"></a></td>
-                <td><a href="http://www.soprasteria.com/" title="Sopra Steria - Parrain Promo 2018"><img class="img-responsive" src="/assets/img/parrains_caroussel/sopra.png" alt="Sopra"></a></td>
+                <td><a href="http://www.insa-lyon.fr/" title="INSA-Lyon"><img class="img-responsive" src="/assets/img/logos/insa_logo.png" alt="INSA-Lyon"></a></td>
+                <td><a href="http://if.insa-lyon.fr/" title="Département Informatique"><img class="img-responsive" src="/assets/img/logos/if_logo.png" alt="Département Informatique"></a></td>
+                <td><a href="http://hardis.fr" title="Hardis - Parrain Promo 2016"><img class="img-responsive" src="/assets/img/logos/hardis.png" alt="Hardis"></a></td>
+                <td><a href="http://www.bull.fr/" title="Bull - Parrain Promo 2017"><img class="img-responsive" src="/assets/img/logos/bull.png" alt="Bull"></a></td>
+                <td><a href="http://www.soprasteria.com/" title="Sopra Steria - Parrain Promo 2018"><img class="img-responsive" src="/assets/img/logos/sopra.png" alt="Sopra"></a></td>
             </tr>
         </table>
     </div>
 </div>
-
-<script>
-    $(document).ready(function () {
-        adaptWidthToSpan();
-        adaptHeightToSpan();
-    });
-
-    // Facebook :
-    (function (d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id))
-            return;
-        js = d.createElement(s);
-        js.id = id;
-        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-        fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-
-    // Tweeter :
-    !function (d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (!d.getElementById(id)) {
-            js = d.createElement(s);
-            js.id = id;
-            js.src = "//platform.twitter.com/widgets.js";
-            fjs.parentNode.insertBefore(js, fjs);
-        }
-    }(document, "script", "twitter-wjs");
-
-    // Caroussels :
-    $('#photoCarousel').carousel({
-        interval: 10000
-    });
-
-    $('#parrainsCarousel').carousel({
-        interval: 5000
-    });
-</script>
