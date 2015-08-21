@@ -32,7 +32,11 @@ server {
 
 ## Organisation
 
-L'avantage, c'est que *Flight* propose une gestion des routes très simple (comprenez : on peut balancer les pages n'importe comment avec des noms à la con, après on leur assigne l'URL qu'on veut). Donc voici l'organisation des fichiers :
+L'avantage, c'est que *Flight* propose une gestion des routes très simple (comprenez : on peut balancer les pages n'importe comment avec des noms à la con, après on leur assigne l'URL qu'on veut). 
+
+Ça veut aussi dire que pour les pages toutes normales et sans contenu dynamique, c'est on ne peut plus simple : du bête HTML, directement dans le `body` de la page. Menu, pied de page et css global sont déjà intégrés.
+
+Donc voici l'organisation des fichiers :
 ```
 / : index.php, qui gère tout + licences, README, etc
 |
