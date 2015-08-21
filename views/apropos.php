@@ -151,13 +151,10 @@
                         <div class="accordion" id="accordion-site">
                             <div class="accordion-group">
                                 <div class="accordion-heading">
-                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion-site" href="#services-etudiant">
                                         <h2><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Etudiant</h2>
-                                    </a>
                                 </div>
-                                <div id="services-etudiant" class="accordion-body collapse">
+                                <div id="services-etudiant">
                                     <div class="accordion-inner">
-                                        <p>Tu trouveras ici deux catégories de services offerts par l'AEDI :</p>
                                     <h3>Outils de projet</h3>
                                     <p>Tout au long de ta scolarité (et surtout à partir de la 4ème année), tu seras amener à travailler sur des projets, avec d'autres étudiants. Afin de t'aider dans la gestion de projets, l'AEDI héberge deux plateformes de services recommandées :</p>                 <div class="span8">
                                         <div class="row">
@@ -185,11 +182,9 @@
                         </div>
                         <div class="accordion-group">
                             <div class="accordion-heading">
-                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion-site" href="#services-entreprise">
                                     <h2><span class="glyphicon glyphicon-flag" aria-hidden="true"></span> Entreprise</h2>
-                                </a>
                             </div>
-                            <div id="services-entreprise" class="accordion-body collapse">
+                            <div id="services-entreprise" >
                                 <div class="accordion-inner">
                                     <p>De nombreux contenus de ce site web sont à destination des entreprises, partenaires privilégiés.</p>
                                     <h3>Nos offres</h3>

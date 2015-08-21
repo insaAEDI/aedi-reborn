@@ -2,15 +2,15 @@ body {
     padding-top: 65px;
 }
 
-footer {
-    text-align: right;
-}
 
 p {
     text-align: justify;
 }
 
-h1,h2,h3,h4 {
+h1,
+h2,
+h3,
+h4 {
     font-weight: bold;
 }
 
@@ -19,7 +19,7 @@ h2 {
     padding-left: 10px;
     margin-top: 0px;
     border-radius: 5px;
-    background-color: hsla(200, 70%, 50%, 0.9);
+    background-color: #3399ff;
     color: white;
 }
 
@@ -54,14 +54,15 @@ img {
     color: white;
 }
 
-.comment{
-    font-size:0.9em;
-    color:grey;
-    font-style:italic;
+.comment {
+    font-size: 0.9em;
+    color: grey;
+    font-style: italic;
 }
 
 .navbar {
-    background-color: hsla(200, 30%, 80%, 0.8);
+    background-color: #3399ff;
+    color: white;
 }
 
 .nav-header {
@@ -87,7 +88,8 @@ img {
     border-radius: 0px 0px 5px 5px;
 }
 
-.carousel-control, .carousel img{
+.carousel-control,
+.carousel img {
     border-radius: 5px;
 }
 
@@ -109,5 +111,91 @@ img {
 }
 
 .nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
-    background-color: hsla(200, 70%, 50%, 0.9);
+    background-color: #3399FF;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+
+
+@media (max-width: 760px) {
+    .navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+}
+    
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+    color: white;
+}
+    
+}
+
+
+
+/*****************************************************************/
+
+.footer-distributed{
+    background-color: #AAA;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+	box-sizing: border-box;
+	width: 100%;
+	text-align: left;
+	font: normal 16px sans-serif;
+    bottom: 0;
+	position: fixed;
+	padding: 5px 50px;
+	margin-top: 50px;
+}
+
+.footer-distributed .footer-left p{
+	color:  white;
+	font-size: 14px;
+	margin-top: 6px;
+	line-height: 1.8;
+	margin: 0 0 10px;
+
+}
+
+/* Footer links */
+
+.footer-distributed p.footer-links{
+	font-size:18px;
+	font-weight: bold;
+	color:  #ffffff;
+	margin: 0 0 10px;
+	padding: 0;
+}
+
+.footer-distributed p.footer-links a{
+	display:inline-block;
+	line-height: 1.8;
+	text-decoration: none;
+	color:  inherit;
+}
+
+.footer-distributed .footer-right{
+	float: right;
+	margin-top: 6px;
+}
+
+@media (max-width: 600px) {
+
+	.footer-distributed .footer-left,
+	.footer-distributed .footer-right{
+		text-align: center;
+	}
+
+	.footer-distributed .footer-right{
+		float: none;
+		margin: 0 auto 20px;
+	}
+
+	.footer-distributed .footer-left p.footer-links{
+		line-height: 1.8;
+	}
 }
