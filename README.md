@@ -8,7 +8,7 @@ Pour l'instant, avec un tout petit framework PHP : [Flight](http://flightphp.com
 
 ## Installation
 
-Webserver avec PHP 5.3 minimum, notre serveur est actuellement en 5.4.
+Webserver avec PHP 5.3 minimum, notre serveur est actuellement en 5.4.  
 Liens utiles, si vous n'avez jamais trop touché à ces machins : 
  - [WampServer](http://www.wampserver.com/) (Windows)
  - [XAMPP](https://www.apachefriends.org/index.html) (Windows/Linux/OS X)
