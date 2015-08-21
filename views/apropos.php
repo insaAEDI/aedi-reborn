@@ -136,7 +136,7 @@
                                 <p>En charge du patrimoine informatique de l'AEDI, ils veillent sur le bon fonctionnement et l'amélioration des services.</p>
                                 <ul>
                                     <li><strong>Aurélien COUSSAT</strong> : Responsable</li>
-                                    <li><strong>Charles DE LACOMBE</strong></li>
+                                    <li><strong>Charles de LACOMBE</strong></li>
                                 </ul>
                             </div>
                         </div>
