@@ -47,24 +47,23 @@
                                 <h2><span class="glyphicon glyphicon-tag" aria-hidden="true"></span> Le Bureau</h2>
                                 <p>A la tête de l'association, le Bureau coordonne les différentes équipes.</p>
                                 <ul>
-                                    <li><strong>Marine Martin</strong> : Trésorière</li>
-                                    <li><strong>Gautier Berthou</strong> : Secrétaire</li>
-                                    <li><strong>Alexandre Sarrazin</strong> : Vice-Président</li>
-                                    <li><strong>Alicia Parisse</strong> : Présidente</li>
-                                    <li><strong>Rémi Martin</strong> : Vice-Trésorier</li>
+                                    <li><strong>Nicolas NADISIC</strong> : Président</li>
+                                    <li><strong>Jeremy WIMSINGUES</strong> : Vice-Président</li>
+                                    <li><strong>Lisa COURANT</strong> : Secrétaire Générale</li>
+                                    <li><strong>Ophélie DELSAUX</strong> : Trésorière</li>
+                                    <li><strong>Nicolas BONFANTE</strong> : Trésorier</li>
                                 </ul>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-sm-12">
                                 <h2><span class="glyphicon glyphicon-flag" aria-hidden="true"></span> L'équipe Entreprise</h2>
-                                <p>Chargée des relations Entreprises, l'équipe organise notamment les <a href="/entreprises/RIFs" title="Rencontres IF">RIFs</a>.<br/>
-                                    <small>De gauche à droite :</small></p>
+                                <p>Chargée des relations Entreprises, l'équipe organise notamment les <a href="/entreprises/RIFs" title="Rencontres IF">RIFs</a>.</p>
                                 <ul>
-                                    <li><strong>Jérôme Guidon</strong></li>
-                                    <li><strong>Gustave Monod</strong> (Responsable)</li>
-                                    <li><strong>Jason Lecerf</strong></li>
-                                    <li><strong>Cécilia Van Bever</strong></li>
+                                    <li><strong>Julien BARA</strong> : Responsable</li>
+                                    <li><strong>Estelle LEPEIGNEUX</strong></li>
+                                    <li><strong>Jonathan TAWS</strong></li>
+                                    <li><strong>Yassine HARZALLAH</strong></li>
                                 </ul>
                             </div>
                              <!--<div class="col-sm-4">
@@ -74,57 +73,70 @@
                             </div>-->
                         </div>
                         <div class="row">
-                            <!--<div class="col-sm-4">
-                                <div class="thumbnail">
-                                    <img src="/assets/img/equipe/equipe_animation.jpg" title="L'équipe Animation"/>
-                                </div>
-                            </div>-->
-                            <div class="col-sm-12">
-                                <h2><span class="glyphicon glyphicon-music" aria-hidden="true"></span> L'équipe Animation</h2>
-                                <p>Cette équipe organise toute l'année des <a href="/etudiants/evenements" title="Présentation des évènements">évènements</a> à destination des étudiants.<br/>
-                                    <small>De gauche à droite :</small></p>
-                                <ul>
-                                    <li><strong>Jean Marchal</strong> (Responsable)</li>
-                                    <li><strong>Gary Cottancin</strong></li>
-                                    <li><strong>Justine Monnoire</strong></li>
-                                    <li><strong>Amaury Courjaut</strong></li>
-                                    <li><strong>Ada-Maaria Hyvärinen</strong></li>
-                                    <li><strong>Thomas Escure</strong></li>
-                                    <li><strong>Titouan Thibaud</strong></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="row">
                             <div class="col-sm-12">
                                 <h2><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> L'équipe Communication</h2>
-                                <p>Affiches, newsletters, réseaux sociaux, ... Cette équipe rend visible l'association et ses évènements sur le campus.<br/>
-                                    <small>De gauche à droite :</small></p>
+                                <p>Affiches, newsletters, réseaux sociaux, ... Cette équipe rend visible l'association et ses évènements sur le campus.</p>
                                 <ul>
-                                    <li><strong>Sergueï Lallement</strong></li>
-                                    <li><strong>Yannick Marion</strong></li>
-                                    <li><strong>Robin Nicolet</strong> (Responsable)</li>
-                                    <li><strong>Pierre Godard</strong></li>
+                                    <li><strong>Hugues VERLIN</strong> : Responsable</li>
+                                    <li><strong>Kevin BULME</strong></li>
+                                    <li><strong>Anne-Sophie BRYLINSKI</strong> </li>
+                                    <li><strong>Lisa COURANT</strong></li>
+                                    <li><strong>Cédric BOSCHER</strong></li>
                                 </ul>
                             </div>
-                            <!--<div class="col-sm-4">
-                                <div class="thumbnail">
-                                    <img src="/assets/img/equipe/equipe_communication.jpg" title="L'Equipe Entreprise"/>
-                                </div>
-                            </div> -->
                         </div>
                         <div class="row">
-                           <!-- <div class="col-sm-4">
-                                <div class="thumbnail">
-                                    <img src="/assets/img/equipe/equipe_admin.jpg" title="L'équipe Admin"/>
-                                </div>
-                            </div>-->
+                            <div class="col-sm-12">
+                                <h2><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> L'équipe Intégration</h2>
+                                <ul>
+                                    <li><strong>Sophie LEGRAS</strong> : Responsable</li>
+                                    <li><strong>Alexis ANDRA</strong></li>
+                                    <li><strong>Estelle LEPEIGNEUX</strong> </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <h2><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> L'équipe WEI</h2>
+                                <p>Les valeureux organisateurs du fameux Week-End d'Intégration.</p>
+                                <ul>
+                                    <li><strong>Kevin BULME</strong> : Responsable logistique</li>
+                                    <li><strong>Théo FAURE</strong></li>
+                                    <li><strong>Romain BOURY</strong> </li>
+                                    <li><strong>Marc JAVIN</strong> : Responsable animation</li>
+                                    <li><strong>Skander MANKAI</strong></li>
+                                    <li><strong>Baptiste LEBEAU</strong></li>
+                                    <li><strong>Zineb LAHJOUJI</strong></li>
+                                    <li><strong>Thomas FERNANDEZ</strong></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <h2><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Pack Parrain</h2>
+                                <p>Le Pack Parrain : bien le plus précieux des élèves de 3IF, contenant tout le savoir de leurs aînés.</p>
+                                <ul>
+                                    <li><strong>Romain BOURRIER</strong></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <h2><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> L'équipe Concert IF</h2>
+                                <ul>
+                                    <li><strong>Loïc TOUZARD</strong> : Responsable</li>
+                                    <li><strong>Cédric BOSCHER</strong></li>
+                                    <li><strong>Sophie LEGRAS</strong> </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="row">
                             <div class="col-sm-12">
                                 <h2><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> L'équipe Admin</h2>
-                                <p>En charge du patrimoine informatique de l'AEDI, ils veillent sur le bon fonctionnement et l'amélioration des services.<br/>
-                                    <small>De gauche à droite :</small></p>
+                                <p>En charge du patrimoine informatique de l'AEDI, ils veillent sur le bon fonctionnement et l'amélioration des services.</p>
                                 <ul>
-                                    <li><strong>Camille Oddon</strong></li>
-                                    <li><strong>Aurélien Bertron</strong></li>
+                                    <li><strong>Aurélien COUSSAT</strong> : Responsable</li>
+                                    <li><strong>Charles DE LACOMBE</strong></li>
                                 </ul>
                             </div>
                         </div>
@@ -133,7 +145,7 @@
                 <div class="tab-pane" id="about-site">
                     <div class="well">
                         <h1>Le Site Web</h1>
-                        <p>Ce site ne se résume pas à être une vitrine de notre Association et Département. Il propose l'ensemble des services informatiques de l'AEDI, à destination des étudiants et entreprises.</p>
+                        <p>Ce site ne se résume pas à être une vitrine de notre Association et Département. Il propose l'ensemble des services informatiques de l'AEDI, à destination des étudiants et entreprises. Enfin, pour l'instant ils ne sont pas nombreux, mais ça vient, ça vient.</p>
                     </div>
                     <div class="well">
                         <div class="accordion" id="accordion-site">
