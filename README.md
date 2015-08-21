@@ -1,6 +1,10 @@
-# Tentative de rangement
+# AEDI - Reborn
 
-Avec un tout petit framework PHP : [Flight](http://flightphp.com/learn)
+Refonte totale et absolue du site de l'Association des Elèves du Département Informatique de l'INSA de Lyon (AEDI, c'est plus court).
+
+Ça veut dire mise à jour des infos, ajout de contenu, modernisation du bazar. Faut vivre avec son temps :D
+
+Pour l'instant, avec un tout petit framework PHP : [Flight](http://flightphp.com/learn)
 
 ## Installation
 
