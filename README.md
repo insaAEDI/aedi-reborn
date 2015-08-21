@@ -58,3 +58,13 @@ Donc voici l'organisation des fichiers :
 |
 |->old_shit/ : ben oui, y a pt'être des trucs utiles dedans ; à terme ça va disparaître.
 ```
+Pour ajouter une nouvelle page, il faut taper sur `index.php` :
+```php
+Flight::route('/<route>', function() { // pas oublier le '/' , ce qui donne : aedi.insa-lyon.fr/<route>
+	// le contenu de la page est généré sans paramètres (ici sans paramètres), 
+	// et stocké dans $body_content (utilisé par layout.php)
+	Flight::render('<nom de la page>', array(), 'body_content');
+	// le reste de la page est généré, faut préciser le titre
+	Flight::render('layout', array('title' => '<titre de la page>'));
+});
+```
