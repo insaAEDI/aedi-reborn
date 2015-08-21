@@ -1,0 +1,113 @@
+body {
+    padding-top: 65px;
+}
+
+footer {
+    text-align: right;
+}
+
+p {
+    text-align: justify;
+}
+
+h1,h2,h3,h4 {
+    font-weight: bold;
+}
+
+h2 {
+    padding: 5px;
+    padding-left: 10px;
+    margin-top: 0px;
+    border-radius: 5px;
+    background-color: hsla(200, 70%, 50%, 0.9);
+    color: white;
+}
+
+.presentation p {
+    font-size: larger;
+}
+
+h2 .glyphicon {
+    font-size: 60%;
+}
+
+.white {
+    text-decoration-color: white;
+}
+
+img {
+    position: relative;
+    top: 50%;
+}
+
+.well {
+    padding: 10px;
+    background-color: hsla(200, 20%, 95%, 0.8);
+}
+
+.well p {
+    margin-left: 15px;
+}
+
+.well .well {
+    background-color: hsla(200, 20%, 10%, 0.8);
+    color: white;
+}
+
+.comment{
+    font-size:0.9em;
+    color:grey;
+    font-style:italic;
+}
+
+.navbar {
+    background-color: hsla(200, 30%, 80%, 0.8);
+}
+
+.nav-header {
+    padding-left: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.carousel-indicators {
+    position: absolute;
+    bottom: 0;
+}
+
+.carousel-caption {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 25px;
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 0px 0px 5px 5px;
+}
+
+.carousel-control, .carousel img{
+    border-radius: 5px;
+}
+
+.logos table {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    table-layout: fixed;
+}
+
+.logos img {
+    max-height: 100px;
+    max-width: 200px;
+    margin: auto;
+}
+
+.modal {
+    text-align: center;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+    background-color: hsla(200, 70%, 50%, 0.9);
+}
