@@ -34,7 +34,7 @@ server {
 
 L'avantage, c'est que *Flight* propose une gestion des routes très simple (comprenez : on peut balancer les pages n'importe comment avec des noms à la con, après on leur assigne l'URL qu'on veut). Donc voici l'organisation des fichiers :
 ```
-\ : index.php, qui gère tout + licences, README, etc
+/ : index.php, qui gère tout + licences, README, etc
 |
 |->assets/ : tous les fichiers communs
 |        |->css/
