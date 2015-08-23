@@ -8,34 +8,27 @@
                 <h2>Emails</h2>
                 <table id="contact-mails">
                     <tr>
-                        <td>Bureau de l'Association : </td>
+                        <td>Bureau de l'Association  </td>
                         <td>
-                            <a href="#" e-name="aedi.bureau" class="e-noBot btn-mini btn-info" e-domain="listes.insa-lyon.fr">
-                                <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Afficher Email</a>
+                            <span class="redirect noselect">moc.liamg@idea</span>
                         </td>
                     </tr>
                     <tr>
-                        <td>Relations avec les Entreprises : </td>
+                        <td>Relations avec les Entreprises&nbsp;&nbsp;&nbsp;</td>
                         <td>
-                            <a href="#" e-name="aedi.entreprise.asso" class="e-noBot btn-mini btn-info" e-domain="listes.insa-lyon.fr">
-                                <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Afficher Email
-                            </a>
+                            <span class="redirect noselect">moc.liamg@idea  </span>
                         </td>
                     </tr>
                     <tr>
-                        <td>Animation : </td>
+                        <td>Animation  </td>
                         <td>
-                            <a href="#" e-name="aedi.anim.asso" class="e-noBot btn-mini btn-info" e-domain="listes.insa-lyon.fr">
-                                <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Afficher Email
-                            </a>
+                            <span class="redirect noselect">moc.liamg@idea  </span>
                         </td>
                     </tr>
                     <tr>
-                        <td>Communications : </td>
+                        <td>Communications  </td>
                         <td>
-                            <a href="#" e-name="aedi.com.asso" class="e-noBot btn-info" e-domain="listes.insa-lyon.fr">
-                                <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Afficher Email
-                            </a>
+                            <span class="redirect noselect">moc.liamg@idea  </span>
                         </td>
                     </tr>
                 </table>

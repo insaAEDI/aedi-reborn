@@ -16,6 +16,8 @@
 <section>
     <?php echo $body_content; ?>
 </section>
-<footer class="container-fluid"><hr>&copy; AEDI - 2015</footer>
+<footer class="container-fluid"><hr>&copy; AEDI - 2015 | 
+<span class="redirect noselect">moc.liamg@idea</span>
+</footer>
 </body>
 </html>

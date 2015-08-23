@@ -10,7 +10,10 @@ p {
     text-align: justify;
 }
 
-h1,h2,h3,h4 {
+h1,
+h2,
+h3,
+h4 {
     font-weight: bold;
 }
 
@@ -54,10 +57,10 @@ img {
     color: white;
 }
 
-.comment{
-    font-size:0.9em;
-    color:grey;
-    font-style:italic;
+.comment {
+    font-size: 0.9em;
+    color: grey;
+    font-style: italic;
 }
 
 .navbar {
@@ -87,7 +90,8 @@ img {
     border-radius: 0px 0px 5px 5px;
 }
 
-.carousel-control, .carousel img{
+.carousel-control,
+.carousel img {
     border-radius: 5px;
 }
 
@@ -108,6 +112,24 @@ img {
     text-align: center;
 }
 
-.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:focus,
+.nav-pills > li.active > a:hover {
     background-color: hsla(200, 70%, 50%, 0.9);
+}
+
+span.redirect {
+    unicode-bidi: bidi-override;
+    direction: rtl;
+    margin-left:'5px';
+}
+
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor:not-allowed;
 }
