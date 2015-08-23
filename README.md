@@ -2,6 +2,8 @@
 
 Refonte totale et absolue du site de l'Association des Elèves du Département Informatique de l'INSA de Lyon (AEDI, c'est plus court).
 
+<img src="http://puu.sh/jLRPw/6ff9e5b003.jpg">
+
 Ça veut dire mise à jour des infos, ajout de contenu, modernisation du bazar. Faut vivre avec son temps :D
 
 Pour l'instant, avec un tout petit framework PHP : [Flight](http://flightphp.com/learn)
