@@ -1,7 +1,7 @@
 <script>
 $(document).ready(function() {
     var inverted = false;
-    $('.redirect').click(function() {
+    $('.redirect').mouseover(function() {
         if (!inverted) {
             $.each($('.redirect'), function() {
                 $(this).text($(this).text().split('').reverse().join('')).removeClass('redirect');
