@@ -1,37 +1,48 @@
+<script>
+$(document).ready(function() {
+    var inverted = false;
+    $('.redirect').click(function() {
+        if (!inverted) {
+            $(this).text($(this).text().split('').reverse().join('')).removeClass('redirect');
+            inverted = true;
+        }
+    });
+});
+</script>
+
 <div class="container">
     <div class="row">
-        <div class="col-sm-7">
+        <div class="col-md-7">
             <div class="well">
                 <h1>Contact</h1>
-                <p style="text-align:justify;">Vous souhaitez obtenir des informations sur les évènements organisés, entamer un partenariat, ou tout simplement nous dire bonjour ? <span class="hero_motcle" style="margin-left:10px;">L'échange est notre priorité !</span><br/>
-                    Voici nos coordonnées :</p>
+                <p>Vous souhaitez obtenir des informations sur les évènements organisés, entamer un partenariat, ou tout simplement nous dire bonjour ?<br><strong>L'échange est notre priorité !</strong><br>Voici nos coordonnées :</p>
                 <h2>Emails</h2>
-                <table id="contact-mails">
+                <table >
                     <tr>
                         <td>Bureau de l'Association  </td>
                         <td>
-                            <span class="redirect noselect">moc.liamg@idea</span>
+                            <span class="redirect">rf.noyl-asni.setsil@uaerub.idea</span>
                         </td>
                     </tr>
                     <tr>
-                        <td>Relations avec les Entreprises&nbsp;&nbsp;&nbsp;</td>
+                        <td>Relations avec les Entreprises</td>
                         <td>
-                            <span class="redirect noselect">moc.liamg@idea  </span>
+                            <span class="redirect">rf.noyl-asni.setsil@ossa.esirpertne.idea</span>
                         </td>
                     </tr>
                     <tr>
-                        <td>Animation  </td>
+                        <td>Communication</td>
                         <td>
-                            <span class="redirect noselect">moc.liamg@idea  </span>
+                            <span class="redirect">rf.noyl-asni.setsil@ossa.moc.idea</span>
                         </td>
                     </tr>
                     <tr>
-                        <td>Communications  </td>
+                        <td>Concert IF</td>
                         <td>
-                            <span class="redirect noselect">moc.liamg@idea  </span>
+                            <span class="redirect">rf.noyl-asni.setsil@ossa.trecnoc.idea</span>
                         </td>
                     </tr>
-                </table>
+                </table><br>
                 <h2>Téléphone</h2>
                 <p>+33 (0) 4 78 89 69 02</p>
 
@@ -44,7 +55,7 @@
                 </address>
             </div>
         </div>
-        <div class="col-sm-5">
+        <div class="col-md-5">
             <iframe style="border-radius:5px" id="gmap" class="adapt-width" span=5 width="470" height="550" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.fr/maps?ie=UTF8&cid=15394763513657611469&q=Association+des+Etudiants+Informatique+de+l%27INSA-Lyon&iwloc=A&gl=FR&hl=fr&amp;output=embed"></iframe>
         </div>
     </div>
