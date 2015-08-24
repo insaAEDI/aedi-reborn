@@ -3,7 +3,9 @@ $(document).ready(function() {
     var inverted = false;
     $('.redirect').click(function() {
         if (!inverted) {
-            $(this).text($(this).text().split('').reverse().join('')).removeClass('redirect');
+            $.each($('.redirect'), function() {
+                $(this).text($(this).text().split('').reverse().join('')).removeClass('redirect');
+            });
             inverted = true;
         }
     });
