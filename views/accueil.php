@@ -76,14 +76,13 @@
 <hr>
 
 <div class="logos">
-    <div class="container">
+    <div class="container-fluid">
         <table>
             <tr>
-                <td><a href="http://www.insa-lyon.fr/" title="INSA-Lyon"><img class="img-responsive" src="/assets/img/logos/insa_logo.png" alt="INSA-Lyon"></a></td>
-                <td><a href="http://if.insa-lyon.fr/" title="Département Informatique"><img class="img-responsive" src="/assets/img/logos/if_logo.png" alt="Département Informatique"></a></td>
                 <td><a href="http://hardis.fr" title="Hardis - Parrain Promo 2016"><img class="img-responsive" src="/assets/img/logos/hardis.png" alt="Hardis"></a></td>
                 <td><a href="http://www.bull.fr/" title="Bull - Parrain Promo 2017"><img class="img-responsive" src="/assets/img/logos/bull.png" alt="Bull"></a></td>
-                <td><a href="http://www.soprasteria.com/" title="Sopra Steria - Parrain Promo 2018"><img class="img-responsive" src="/assets/img/logos/sopra.png" alt="Sopra"></a></td>
+                <td><a href="http://www.soprasteria.com/" title="Sopra Steria - Parrain Promo 2018" alt="Sopra Steria"><img class="img-responsive" src="/assets/img/logos/sopra.png" alt="Sopra"></a></td>
+                <td><a href="http://www.insa-lyon.fr/" title="INSA de Lyon"><img class="img-responsive" src="/assets/img/logos/insa_logo.png" alt="INSA de Lyon"></a></td>
             </tr>
         </table>
     </div>
