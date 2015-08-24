@@ -16,7 +16,7 @@
                     <div class="well">
                         <h1>L'Association</h1>
                         <p>L'AEDI, l'Association des Etudiants du Département Informatique, est une figure incontournable de la vie du Département et de la faune associative de l'INSA-Lyon. Depuis 30 ans, celle-ci accompagne les étudiants en Informatique à travers leur parcours, prodiguant de multiples services et organisant des évènements variés.</p>
-                        <p>Comme toute association Loi 1901, l'AEDI n'est pas à but lucratif. L'inscription est <em>gratuite</em> pour tous les étudiants IF, l'association vivant grâce aux actions qu'elle mène, ainsi qu'aux multiples partenariats tissés, notamment avec le <a title="Site Web du Département Informatique" href="if.insa-lyon.fr">Département</a> et les <a title="En savoir plus sur le parrainage" href="/entreprises/parrainage">parrains de promotion</a>.</p>
+                        <p>Comme toute association Loi 1901, l'AEDI n'est pas à but lucratif. L'inscription est <em>gratuite</em> pour tous les étudiants IF, l'association vivant grâce aux actions qu'elle mène, ainsi qu'aux multiples partenariats tissés, notamment avec le <a title="Site Web du Département Informatique" href="http://if.insa-lyon.fr">Département</a> et les <a title="En savoir plus sur le parrainage" href="/entreprises/parrainage">parrains de promotion</a>.</p>
                         <p>Chaque année, une équipe d'étudiants volontaires est élue pour reprendre sa tête, apportant ainsi de nouvelles pierres à l'édifice.</p>
                     </div>
                     <div class="well">
