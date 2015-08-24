@@ -1,3 +1,17 @@
+<script>
+$(document).ready(function() {
+    var inverted = false;
+    $('.redirect').mouseover(function() {
+        if (!inverted) {
+            $.each($('.redirect'), function() {
+                $(this).text($(this).text().split('').reverse().join('')).removeClass('redirect');
+            });
+            inverted = true;
+        }
+    });
+});
+</script>
+
 <div class="container">
     <div class="row">
         <div class="col-sm-6">
@@ -67,14 +81,14 @@
                 </p>
 
                 <h3>Questions</h3>
-                <p>Pour plus d'informations concernant cet évènement, veuillez nous contacter à l'adresse suivante : <a href="#" e-name="aedi.entreprise.asso" class="e-noBot btn btn-mini btn-info" e-domain="listes.insa-lyon.fr"><i class="icon-eye-open icon-white"></i> Afficher Email</a></p>
+                <p>Pour plus d'informations concernant cet évènement, veuillez nous contacter à l'adresse suivante : <span class="redirect">rf.noyl-asni.setsil@ossa.esirpertne.idea</span></p>
 
                 <div id="inscriptionRif">
                     <h2><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Inscription</h2>
                     <p>
                         Pour vous inscrire aux prochaines Rencontres IF, merci de nous contacter le plus rapidement possible. Nous étudierons alors votre demande, et vous répondrons dans les plus brefs délais. 
                     </p>
-                    <p class="centre"><a href="#" e-name="aedi.entreprise.asso" class="e-noBot btn btn-large btn-info" e-domain="listes.insa-lyon.fr"><strong><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Nous Contacter</strong></a></p>
+                    <p>Contact : <span class="redirect">rf.noyl-asni.setsil@ossa.esirpertne.idea</span></p>
                 </div>
             </div>
         </div>
