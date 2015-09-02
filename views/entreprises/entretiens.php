@@ -1,3 +1,17 @@
+<script>
+$(document).ready(function() {
+    var inverted = false;
+    $('.redirect').mouseover(function() {
+        if (!inverted) {
+            $.each($('.redirect'), function() {
+                $(this).text($(this).text().split('').reverse().join('')).removeClass('redirect');
+            });
+            inverted = true;
+        }
+    });
+});
+</script>
+
 <div class="container">
     <div class="well">
         <h1>Simulations d'entretiens</h1>
@@ -28,7 +42,7 @@
                 <h3>Contact</h3>
                 <p>Pour plus d'informations concernant cet évènement, nous vous invitons à consulter le site web du Département :</p>
                 <p class="centre"><a href="http://if.insa-lyon.fr/entreprise/simulation-entretiens" class="btn btn-large btn-primary" ><span class="glyphicon glyphicon-search" aria-hidden="true"></span> En savoir plus</a></p>
-                <p>Vous pouvez également contacter notre Bureau, qui saura vous conseillez : <a href="#" e-name="aedi.bureau" class="e-noBot btn btn-mini btn-info" e-domain="listes.insa-lyon.fr"><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Afficher Email</a></p>
+                <p>Vous pouvez également contacter notre Bureau, qui saura vous conseiller : <span class="redirect">rf.noyl-asni.setsil@uaerub.idea</span></p>
 
 
                 <h2><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Inscription</h2>
