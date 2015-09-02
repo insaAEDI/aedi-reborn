@@ -1,3 +1,17 @@
+<script>
+$(document).ready(function() {
+    var inverted = false;
+    $('.redirect').mouseover(function() {
+        if (!inverted) {
+            $.each($('.redirect'), function() {
+                $(this).text($(this).text().split('').reverse().join('')).removeClass('redirect');
+            });
+            inverted = true;
+        }
+    });
+});
+</script>
+
 <div class="container">
     <div class="well">
         <h1>Conférences</h1>
@@ -42,8 +56,7 @@
                 <p>
                     Les tarifs pour présenter une conférence thématique dépendent du statut de votre entreprise par rapport
                     à l'AEDI : vous aurez ainsi accès à un tarif différent si votre société parraine une des trois promotions
-                    en cours, si celle-ci paye la taxe d'apprentisssage au département IF ou si vous n'êtes dans aucune
-                    de ces deux situations.
+                    en cours.
                 </p>
                 <p>
                     Ces tarifs comprennent les prestations suivantes :
@@ -55,7 +68,7 @@
                 </p>
                 <h3>Questions</h3>
                 <p>Pour plus d'informations concernant l'organisation d'un tel évènement, n'hésitez pas à nous contacter à l'adresse suivante :</p>
-                <p class="centre"><a href="#" e-name="aedi.bureau" class="e-noBot btn btn-mini btn-info" e-domain="listes.insa-lyon.fr"><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Afficher Email</a></p>
+                <span class="redirect">rf.noyl-asni.setsil@uaerub.idea</span>
             </div>
         </div>
     </div>
