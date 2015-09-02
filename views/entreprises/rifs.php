@@ -57,7 +57,7 @@ $(document).ready(function() {
 
                 <h3>Date</h3>
                 <p>
-                    La date précise des prochaines Rencontres IF n'est pas encore décidée, mais elle a généralement lieu au mois de Janvier.<br />
+                    Les prochaines Rencontres IF auront lieu le jeudi 14 Janvier 2016.
                 </p>
 
 
@@ -66,15 +66,10 @@ $(document).ready(function() {
                     Les tarifs sont étudiés afin de remercier les entreprises qui s'investissent en faveur du département informatique. Voici un aperçu de la grille tarifaire :
                 </p>
 
-                <div class="row">
-                    <div class="col-sm-8">
-                        <ul>
-                            <li>Entreprise parrainant l'une des trois promotions en cours : Invitée</li>
-                            <li>Entreprise payant la taxe d'apprentissage au Département IF : Tarif Réduit</li>
-                            <li>Autres entreprises : Plein Tarif</li>
-                        </ul>
-                    </div> 
-               </div>
+                <ul>
+                    <li>Entreprise parrainant l'une des trois promotions en cours : Invitée</li>
+                    <li>Autres entreprises : Plein Tarif</li>
+                </ul>
 
                 <p style="margin-top: 10px;" class="comment">
                     Pour connaître les tarifs exacts, n'hésitez pas à nous contacter afin de vous renseigner au mieux.
