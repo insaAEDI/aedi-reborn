@@ -74,7 +74,7 @@
                     <div class="well">
                         <h1>Entreprises</h1>
                         <p>
-                            L'AEDI est un acteur de premier plan dans le démarche professionnalisante menée par le Département Informatique durant la formation. En proposant diverses occasions d'échanger de maniere privilegiée avec des ingenieurs et acteurs du monde informatique, nous espérons ainsi t'aider à acquérir les ressources professionnelles nécessaires à l'épanouissement de ta carrière.
+                            L'AEDI est un acteur de premier plan dans le démarche professionnalisante menée par le Département Informatique durant la formation. En proposant diverses occasions d'échanger de manière privilegiée avec des ingenieurs et acteurs du monde informatique, nous espérons ainsi t'aider à acquérir les ressources professionnelles nécessaires à l'épanouissement de ta carrière.
                         </p>
                     </div>
                     <div class="well">
