@@ -3,7 +3,7 @@
         <div class="col-md-4">
             <img class="img-thumbnail" src="/assets/img/logos/logoaedi.png" style="margin-bottom: 10px;" alt="AEDI"/>
             <div class="well">
-                <p><em>Association de l'INSA-Lyon créée pour renforcer la cohésion entre les étudiants du Département Informatique, les aider dans leur cursus, et établir des contacts privilégiés avec les entreprises.</em></p>
+                <p><em>Association de l'INSA de Lyon créée pour renforcer la cohésion entre les étudiants du Département Informatique, les aider dans leur cursus, et établir des contacts privilégiés avec les entreprises.</em></p>
                 <p>Cela fait plus de trente ans que notre association étoffe son éventail d'événements, de la Semaine d'Intégration des nouveaux élèves aux Rencontres IF, forum ouvert aux entreprises, en passant par le Week-End Ski, le Concert IF, le Voyage de fin d'études, ...</p>
                 <p>Avec à sa tête une équipe dynamique, l'AEDI s'épanouit et grandit, riche des liens qu'elle tisse avec les entreprises et anciens étudiants.</p>
                 <p style="text-align: center;"><strong>Soyez le ou la bienvenu(e) sur notre site !</strong></p>
