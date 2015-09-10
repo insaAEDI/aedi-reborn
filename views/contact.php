@@ -58,7 +58,7 @@ $(document).ready(function() {
             </div>
         </div>
         <div class="col-md-5">
-            <iframe style="border-radius:5px" id="gmap" class="adapt-width" span=5 width="470" height="550" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.fr/maps?ie=UTF8&cid=15394763513657611469&q=Association+des+Etudiants+Informatique+de+l%27INSA-Lyon&iwloc=A&gl=FR&hl=fr&amp;output=embed"></iframe>
+            <iframe width="470" height="550" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=4.871988594532013%2C45.781454798601%2C4.873493313789368%2C45.78299238168183&amp;layer=mapnik&amp;marker=45.78222359544201%2C4.87274095416069" style="border-radius: 5px"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=45.78222&amp;mlon=4.87274#map=19/45.78222/4.87274">View Larger Map</a></small>
         </div>
     </div>
 </div>
