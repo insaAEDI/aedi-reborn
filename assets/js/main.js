@@ -7,11 +7,11 @@ $(document).ready(function() {
                 $(document).unbind('keydown', arguments.callee);
                 $('footer').append('<p>maintenant que le site est clean, on peut r\'commencer à déconner</p><iframe width="420" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1" frameborder="0" allowfullscreen hidden></iframe>');
                 $('img').attr('src', '/assets/img/oystercage.jpg');
-		//$('body').css('background', 'url("/assets/img/oystercage.jpg")').css('background-repeat', 'true');
-/*$.getScript('http://www.cornify.com/js/cornify.js',function(){
-	cornify_add();
-	$(document).keydown(cornify_add);
-});*/
+		$('body').css('background', 'url("/assets/img/oystercage.jpg")').css('background-repeat', 'true');
+                $.getScript('http://www.cornify.com/js/cornify.js',function(){
+                    cornify_add();
+	            $(document).keydown(cornify_add);
+                });
              }
         }else{
             konami_index = 0;
