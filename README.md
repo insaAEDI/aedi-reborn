@@ -70,3 +70,11 @@ Flight::route('/<route>', function() { // pas oublier le '/' , ce qui donne : ae
 	Flight::render('layout', array('title' => '<titre de la page>'));
 });
 ```
+
+## Et maintenant ?
+
+Il y a plusieurs projets intéressants et utiles, des trucs à la fois sympas à faire et potentiellement pratiques. En particulier :
+ - une CVthèque, un joli annuaire avec tous les CVs des étudiants
+ - un truc de gestion des stages un peu plus sympa que le bazar actuel sur le site du départ'
+
+Pour l'instant, rien de très avancé, mais on y viendra.
