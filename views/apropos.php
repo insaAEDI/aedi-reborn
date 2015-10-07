@@ -61,9 +61,10 @@
                                 <p>Chargée des relations Entreprises, l'équipe organise notamment les <a href="/entreprises/RIFs" title="Rencontres IF">RIFs</a>.</p>
                                 <ul>
                                     <li><strong>Julien BARA</strong> : Responsable</li>
-                                    <li><strong>Estelle LEPEIGNEUX</strong></li>
+                                    <li><strong>Marion CHALUMEAU</strong></li>
                                     <li><strong>Jonathan TAWS</strong></li>
                                     <li><strong>Yassine HARZALLAH</strong></li>
+                                    <li><strong>Skander MANKAI</strong></li>
                                 </ul>
                             </div>
                              <!--<div class="col-sm-4">
@@ -101,13 +102,9 @@
                                 <p>Les valeureux organisateurs du fameux Week-End d'Intégration.</p>
                                 <ul>
                                     <li><strong>Kevin BULME</strong> : Responsable logistique</li>
-                                    <li><strong>Théo FAURE</strong></li>
-                                    <li><strong>Romain BOURY</strong> </li>
                                     <li><strong>Marc JAVIN</strong> : Responsable animation</li>
-                                    <li><strong>Skander MANKAI</strong></li>
                                     <li><strong>Baptiste LEBEAU</strong></li>
-                                    <li><strong>Zineb LAHJOUJI</strong></li>
-                                    <li><strong>Thomas FERNANDEZ</strong></li>
+                                    <li><strong>Anne-Sophie BRYLINSKI</strong></li>
                                 </ul>
                             </div>
                         </div>
