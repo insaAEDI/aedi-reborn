@@ -49,7 +49,7 @@ CV_2015_10_JULIEN_BARA_EN.pdf
                 <p>Nous supprimerons tous les CV <strong>de plus de 6 mois</strong> afin de ne garder que les CVs les plus à jours. </p>
 
                 <p>
-                    Gardez en tête que ce dossier sera <strong>publique</strong> ! Si vous avez un problème avec la confidentialité ou la collecte des données, il est de votre responsabilité d'<strong>adapter votre CV</strong>. Nous ne sommes pas responsables de l'utilisation qui pourra être faite des CVs déposés sur le Drive.
+                    Gardez en tête que ce dossier sera <strong>public</strong> ! Si vous avez un problème avec la confidentialité ou la collecte des données, il est de votre responsabilité d'<strong>adapter votre CV</strong>. Nous ne sommes pas responsables de l'utilisation qui pourra être faite des CVs déposés sur le Drive.
                 </p>
 
                 <p>
