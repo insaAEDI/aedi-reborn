@@ -29,7 +29,7 @@
                             </div>
                         </div>
                         <div class="item" role="listbox">
-                            <img src="/assets/img/photo_caroussel/total.jpg" alt="Equipe AEDI">
+                            <img src="/assets/img/photo_caroussel/equipe.jpg" alt="Equipe AEDI">
                             <div class="carousel-caption">
                                 <h4>Une équipe dynamique prête à vous accueillir</h4>
                                 <p>L'AEDI est gérée par une équipe d'étudiants bénévoles et actifs, aussi à l'aise pour les événements étudiants que pour le dialogue avec les entreprises.</p>
@@ -53,7 +53,7 @@
                             <img  src="/assets/img/photo_caroussel/integration2.jpg" alt="Equipe AEDI">
                             <div class="carousel-caption">
                                 <h4>... alors rejoignez-nous !</h4>
-                                <p>N'hésitez pas à nous contacter, au local, par mails, par téléphone, etc ... Nous nous ferons un plaisir de discuter avec vous !</p>
+                                <p>N'hésitez pas à nous contacter, au local, par mails, par téléphone... Nous nous ferons un plaisir de discuter avec vous !</p>
                             </div>
                         </div>
                     </div> <!-- carrousel-inner -->
