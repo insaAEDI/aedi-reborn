@@ -38,11 +38,6 @@
                     </div>
                     <div class="well">
                         <div class="row">
-                            <div class="col-sm-4">
-                                <div class="thumbnail">
-                                    <img src="/assets/img/apropos/bureau.jpg" title="Le Bureau"/>
-                                </div>
-                            </div>
                             <div class="col-sm-12">
                                 <h2><span class="glyphicon glyphicon-tag" aria-hidden="true"></span> Le Bureau</h2>
                                 <p>À la tête de l'association, le Bureau coordonne les différentes équipes.</p>
@@ -54,13 +49,13 @@
                                     <li><strong>Nicolas BONFANTE</strong> : Trésorier</li>
                                 </ul>
                             </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-sm-4">
+                            <div class="col-sm-12">
                                 <div class="thumbnail">
-                                   <img src="/assets/img/apropos/entreprise.jpg" title="L'Equipe Entreprise"/>
+                                    <img src="/assets/img/apropos/bureau.jpg" title="Le Bureau"/>
                                 </div>
                             </div>
+                        </div>
+                        <div class="row">
                             <div class="col-sm-12">
                                 <h2><span class="glyphicon glyphicon-flag" aria-hidden="true"></span> L'équipe Entreprise</h2>
                                 <p>Chargée des relations Entreprises, l'équipe organise notamment les <a href="/entreprises/RIFs" title="Rencontres IF">RIFs</a>.</p>
@@ -72,13 +67,13 @@
                                     <li><strong>Skander MANKAI</strong></li>
                                 </ul>
                             </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-sm-4">
+                            <div class="col-sm-12">
                                 <div class="thumbnail">
-                                   <img src="/assets/img/apropos/communication.jpg" title="L'Equipe Communication"/>
+                                   <img src="/assets/img/apropos/entreprise.jpg" title="L'Equipe Entreprise"/>
                                 </div>
                             </div>
+                        </div>
+                        <div class="row">
                             <div class="col-sm-12">
                                 <h2><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> L'équipe Communication</h2>
                                 <p>Affiches, newsletters, réseaux sociaux, ... Cette équipe rend visible l'association et ses évènements sur le campus.</p>
@@ -90,13 +85,13 @@
                                     <li><strong>Cédric BOSCHER</strong></li>
                                 </ul>
                             </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-sm-4">
+                            <div class="col-sm-12">
                                 <div class="thumbnail">
-                                   <img src="/assets/img/apropos/concert.jpg" title="L'Equipe Concert IF"/>
+                                   <img src="/assets/img/apropos/communication.jpg" title="L'Equipe Communication"/>
                                 </div>
                             </div>
+                        </div>
+                        <div class="row">
                             <div class="col-sm-12">
                                 <h2><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> L'équipe Concert IF</h2>
                                 <p>Organisent un concert biannuel mêlant informatique et musique dans une ambiance conviviale et relâchée.</p>
@@ -106,13 +101,13 @@
                                     <li><strong>Sophie LEGRAS</strong> </li>
                                 </ul>
                             </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-sm-4">
+                            <div class="col-sm-12">
                                 <div class="thumbnail">
-                                   <img src="/assets/img/apropos/wei.jpg" title="L'Equipe WEI"/>
+                                   <img src="/assets/img/apropos/concert.jpg" title="L'Equipe Concert IF"/>
                                 </div>
                             </div>
+                        </div>
+                        <div class="row">
                             <div class="col-sm-12">
                                 <h2><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> L'équipe WEI</h2>
                                 <p>Les valeureux organisateurs du fameux Week-End d'Intégration.</p>
@@ -123,6 +118,11 @@
                                     <li><strong>Anne-Sophie BRYLINSKI</strong></li>
                                 </ul>
                             </div>
+                            <div class="col-sm-12">
+                                <div class="thumbnail">
+                                   <img src="/assets/img/apropos/wei.jpg" title="L'Equipe WEI"/>
+                                </div>
+                            </div>
                         </div>
                         <div class="row">
                             <div class="col-sm-12">
@@ -131,16 +131,11 @@
                                 <ul>
                                     <li><strong>Sophie LEGRAS</strong> : Responsable</li>
                                     <li><strong>Alexis ANDRA</strong></li>
-                                    <li><strong>Estelle LEPEIGNEUX</strong> </li>
+                                    <li><strong>Estelle LEPEIGNEUX</strong></li>
                                 </ul>
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-sm-4">
-                                <div class="thumbnail">
-                                   <img src="/assets/img/apropos/admin.jpg" title="L'Equipe Admin"/>
-                                </div>
-                            </div>
                             <div class="col-sm-12">
                                 <h2><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> L'équipe Admin</h2>
                                 <p>En charge du patrimoine informatique de l'AEDI, ils veillent sur le bon fonctionnement et l'amélioration des services.</p>
@@ -148,6 +143,11 @@
                                     <li><strong>Aurélien COUSSAT</strong> : Responsable</li>
                                     <li><strong>Charles de LACOMBE</strong></li>
                                 </ul>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="thumbnail">
+                                   <img src="/assets/img/apropos/admin.jpg" title="L'Equipe Admin"/>
+                                </div>
                             </div>
                         </div>
                         <div class="row">
