@@ -18,8 +18,9 @@ $(document).ready(function() {
             <div class="well">
                 <h1>Contact</h1>
                 <p>Vous souhaitez obtenir des informations sur les évènements organisés, entamer un partenariat, ou tout simplement nous dire bonjour ?<br><strong>L'échange est notre priorité !</strong><br>Voici nos coordonnées :</p>
+                
                 <h2>Emails</h2>
-                <table >
+                <table>
                     <tr>
                         <td>Bureau de l'Association  </td>
                         <td>
@@ -44,9 +45,7 @@ $(document).ready(function() {
                             <span class="redirect">rf.noyl-asni.setsil@ossa.trecnoc.idea</span>
                         </td>
                     </tr>
-                </table><br>
-                <h2>Téléphone</h2>
-                <p>+33 (0) 4 78 89 69 02</p>
+                </table>
 
                 <h2>Adresse</h2>
                 <address>
