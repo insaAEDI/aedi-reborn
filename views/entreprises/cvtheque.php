@@ -55,9 +55,9 @@ CV_2015_10_JULIEN_BARA_EN.pdf
                 <p>
                     Merci d'envoyer votre CV à l'une des personnes suivantes si vous souhaitez participer :
                     <ul>
-                        <li>Julien Bara (<strong>julien.bara [at] insa-lyon.fr</strong>)</li>
-                        <li>Nicolas Nadisic (<strong>nicolas.nadisic [at] insa-lyon.fr</strong>)</li>
-                        <li>Jérémy Wimsingues (<strong>jeremy.wimsingues [at] insa-lyon.fr</strong>)</li>
+                        <li>Julien Bara (<strong>julien.bara@insa-lyon.fr</strong>)</li>
+                        <li>Nicolas Nadisic (<strong>nicolas.nadisic@insa-lyon.fr</strong>)</li>
+                        <li>Jérémy Wimsingues (<strong>jeremy.wimsingues@insa-lyon.fr</strong>)</li>
                     </ul>
                 </p>
                 
