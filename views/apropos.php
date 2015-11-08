@@ -42,11 +42,12 @@
                                 <h2><span class="glyphicon glyphicon-tag" aria-hidden="true"></span> Le Bureau</h2>
                                 <p>À la tête de l'association, le Bureau coordonne les différentes équipes.</p>
                                 <ul>
+                                    <li><strong>Lisa COURANT</strong> : Secrétaire Générale</li>
+                                    <li><strong>Nicolas BONFANTE</strong> : Trésorier</li>
                                     <li><strong>Nicolas NADISIC</strong> : Président</li>
                                     <li><strong>Jeremy WIMSINGUES</strong> : Vice-Président</li>
-                                    <li><strong>Lisa COURANT</strong> : Secrétaire Générale</li>
+                                    <li><strong>Julien BARA</strong></li>
                                     <li><strong>Ophélie DELSAUX</strong> : Trésorière</li>
-                                    <li><strong>Nicolas BONFANTE</strong> : Trésorier</li>
                                 </ul>
                             </div>
                             <div class="col-sm-12">
@@ -60,11 +61,10 @@
                                 <h2><span class="glyphicon glyphicon-flag" aria-hidden="true"></span> L'équipe Entreprise</h2>
                                 <p>Chargée des relations Entreprises, l'équipe organise notamment les <a href="/entreprises/RIFs" title="Rencontres IF">RIFs</a>.</p>
                                 <ul>
-                                    <li><strong>Julien BARA</strong> : Responsable</li>
                                     <li><strong>Marion CHALUMEAU</strong></li>
-                                    <li><strong>Jonathan TAWS</strong></li>
+                                    <li><strong>Jeremy WIMSINGUES</strong></li>
                                     <li><strong>Yassine HARZALLAH</strong></li>
-                                    <li><strong>Skander MANKAI</strong></li>
+                                    <li><strong>Julien BARA</strong> : Responsable</li>
                                 </ul>
                             </div>
                             <div class="col-sm-12">
@@ -78,11 +78,10 @@
                                 <h2><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> L'équipe Communication</h2>
                                 <p>Affiches, newsletters, réseaux sociaux, ... Cette équipe rend visible l'association et ses évènements sur le campus.</p>
                                 <ul>
-                                    <li><strong>Hugues VERLIN</strong> : Responsable</li>
-                                    <li><strong>Kevin BULME</strong></li>
-                                    <li><strong>Anne-Sophie BRYLINSKI</strong> </li>
-                                    <li><strong>Lisa COURANT</strong></li>
                                     <li><strong>Cédric BOSCHER</strong></li>
+                                    <li><strong>Hugues VERLIN</strong> : Responsable</li>
+                                    <li><strong>Anne-Sophie BRYLINSKI</strong></li>
+                                    
                                 </ul>
                             </div>
                             <div class="col-sm-12">
@@ -96,9 +95,9 @@
                                 <h2><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> L'équipe Concert IF</h2>
                                 <p>Organisent un concert biannuel mêlant informatique et musique dans une ambiance conviviale et relâchée.</p>
                                 <ul>
-                                    <li><strong>Loïc TOUZARD</strong> : Responsable</li>
                                     <li><strong>Cédric BOSCHER</strong></li>
-                                    <li><strong>Sophie LEGRAS</strong> </li>
+                                    <li><strong>Loïc TOUZARD</strong> : Responsable</li>
+                                    <li><strong>Sophie LEGRAS</strong></li>
                                 </ul>
                             </div>
                             <div class="col-sm-12">
@@ -112,10 +111,11 @@
                                 <h2><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> L'équipe WEI</h2>
                                 <p>Les valeureux organisateurs du fameux Week-End d'Intégration.</p>
                                 <ul>
-                                    <li><strong>Kevin BULME</strong> : Responsable logistique</li>
                                     <li><strong>Marc JAVIN</strong> : Responsable animation</li>
                                     <li><strong>Baptiste LEBEAU</strong></li>
                                     <li><strong>Anne-Sophie BRYLINSKI</strong></li>
+                                    <li><strong>Kevin BULME</strong> : Responsable logistique</li>
+                                    <li><strong>Sophie LEGRAS</strong></li>
                                 </ul>
                             </div>
                             <div class="col-sm-12">
