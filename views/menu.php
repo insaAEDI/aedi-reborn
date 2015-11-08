@@ -39,7 +39,7 @@
                         <li role="separator" class="divider"></li>
 
                         <li class="nav-header"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> CVthèque</li>
-                        <li><a href="/entreprises/cvtheque">Offre</a></li>
+                        <li><a href="/entreprises/cvtheque">Offres</a></li>
 
                         <li role="separator" class="divider"></li>
 
