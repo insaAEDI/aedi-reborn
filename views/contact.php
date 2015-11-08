@@ -20,32 +20,34 @@ $(document).ready(function() {
                 <p>Vous souhaitez obtenir des informations sur les évènements organisés, entamer un partenariat, ou tout simplement nous dire bonjour ?<br><strong>L'échange est notre priorité !</strong><br>Voici nos coordonnées :</p>
                 
                 <h2>Emails</h2>
-                <table>
-                    <tr>
-                        <td>Bureau de l'Association  </td>
-                        <td>
-                            <span class="redirect">rf.noyl-asni.setsil@uaerub.idea</span>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>Relations avec les Entreprises</td>
-                        <td>
-                            <span class="redirect">rf.noyl-asni.setsil@ossa.esirpertne.idea</span>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>Communication</td>
-                        <td>
-                            <span class="redirect">rf.noyl-asni.setsil@ossa.moc.idea</span>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>Concert IF</td>
-                        <td>
-                            <span class="redirect">rf.noyl-asni.setsil@ossa.trecnoc.idea</span>
-                        </td>
-                    </tr>
-                </table>
+                <p>
+                    <table>
+                        <tr>
+                            <td>Bureau de l'Association  </td>
+                            <td>
+                                <span class="redirect">rf.noyl-asni.setsil@uaerub.idea</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Relations avec les Entreprises</td>
+                            <td>
+                                <span class="redirect">rf.noyl-asni.setsil@ossa.esirpertne.idea</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Communication</td>
+                            <td>
+                                <span class="redirect">rf.noyl-asni.setsil@ossa.moc.idea</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Concert IF</td>
+                            <td>
+                                <span class="redirect">rf.noyl-asni.setsil@ossa.trecnoc.idea</span>
+                            </td>
+                        </tr>
+                    </table>
+                </p>
 
                 <h2>Adresse</h2>
                 <address>
