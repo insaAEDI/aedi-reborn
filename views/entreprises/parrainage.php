@@ -29,7 +29,7 @@
                 <p>
                     Si votre société est intéressée pour encadrer une future promotion, ou si vous souhaitez de plus amples informations sur les conditions de cet accord, nous vous invitons à nous contacter via l'adresse email ci-dessous. Nous nous ferons un plaisir de dialoguer avec vous. Vous pouvez également consulter la page Web dédiée du Département, <a title="Parrainage vu par le Département" href="http://if.insa-lyon.fr/entreprise/parrainage">ici</a>.
                 </p>
-                <p class="centre"><a href="#" e-name="aedi.bureau" class="e-noBot btn btn-large btn-info" e-domain="listes.insa-lyon.fr"><strong><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Nous Contacter</strong></a></p>
+                <p class="centre"><a href="../contact" e-name="aedi.bureau" class="e-noBot btn btn-large btn-info" e-domain="listes.insa-lyon.fr"><strong><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Nous Contacter</strong></a></p>
 
                 <h2><span class="glyphicon glyphicon-star" aria-hidden="true"></span> Parrains actuels</h2>
                 <div class="logos">
