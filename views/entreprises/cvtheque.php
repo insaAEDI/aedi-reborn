@@ -13,7 +13,7 @@
                     La CVthèque prend actuellement la forme d'un dossier Google Drive en lecture seule.
                 </p>
                 <p class="text-center">
-                    <a href="https://drive.google.com/folderview?id=0B3Kliuoj7g-Lbjg1YmxZcE12cEk&amp;usp=sharing" class="e-noBot btn btn-large btn-info" target="_blank">
+                    <a href="https://drive.google.com/open?id=0Bwee3-zUJssFNTh3UmJlSVlSdEU" class="e-noBot btn btn-large btn-info" target="_blank">
                         <span class="glyphicon glyphicon-eye-open white" aria-hidden="true"></span> Accéder à la CVthèque
                     </a>
                 </p>
