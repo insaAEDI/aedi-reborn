@@ -1,7 +1,9 @@
+{% extends "base.html" %}
+{% block content %}
 <div class="container">
     <div class="row">
         <div class="col-md-4">
-            <img class="img-thumbnail" src="/assets/img/logos/logoaedi.png" style="margin-bottom: 10px;" alt="AEDI"/>
+            <img class="img-thumbnail" src="/static/img/logos/logoaedi.png" style="margin-bottom: 10px;" alt="AEDI"/>
             <div class="well">
                 <p><em>Association de l'INSA de Lyon créée pour renforcer la cohésion entre les étudiants du Département Informatique, les aider dans leur cursus, et établir des contacts privilégiés avec les entreprises.</em></p>
                 <p>Cela fait plus de trente ans que notre association étoffe son éventail d'événements, de la Semaine d'Intégration des nouveaux élèves aux Rencontres IF, forum ouvert aux entreprises, en passant par le Week-End Ski, le Concert IF, le Voyage de fin d'études, ...</p>
@@ -22,35 +24,35 @@
                     </ol>
                     <div class="carousel-inner" role="listbox">
                         <div class="item active">
-                            <img src="/assets/img/photo_caroussel/conference.jpg" alt="Conférence AEDI">
+                            <img src="/static/img/photo_caroussel/conference.jpg" alt="Conférence AEDI">
                             <div class="carousel-caption">
                                 <h4>Une association qui relie Etudiants et Entreprises</h4>
                                 <p>A travers les événements qu'elle organise, l'AEDI a pour but de renforcer la cohésion entre les étudiants du Département, tout en leur offrant des contacts privilégiés avec les entreprises.</p>
                             </div>
                         </div>
                         <div class="item" role="listbox">
-                            <img src="/assets/img/photo_caroussel/equipe.jpg" alt="Equipe AEDI">
+                            <img src="/static/img/photo_caroussel/equipe.jpg" alt="Equipe AEDI">
                             <div class="carousel-caption">
                                 <h4>Une équipe dynamique prête à vous accueillir</h4>
                                 <p>L'AEDI est gérée par une équipe d'étudiants bénévoles et actifs, aussi à l'aise pour les événements étudiants que pour le dialogue avec les entreprises.</p>
                             </div>
                         </div>
                         <div class="item" role="listbox">
-                            <img src="/assets/img/photo_caroussel/rif.jpg" alt="Rencontres IF">
+                            <img src="/static/img/photo_caroussel/rif.jpg" alt="Rencontres IF">
                             <div class="carousel-caption">
                                 <h4>De multiples événements professionnels</h4>
                                 <p>Tout au long de l'année, l'AEDI convie des entreprises à des conférences, déjeuners-métiers... le but étant de créer des liens forts entre étudiants et sociétés. Le point fort de cette politique est la Journée de Rencontres IF, durant laquelle sont conviées une trentaine de grandes entreprises.</p>
                             </div>
                         </div>
                         <div class="item" role="listbox">
-                            <img src="/assets/img/photo_caroussel/integration.jpg" alt="Rencontres IF">
+                            <img src="/static/img/photo_caroussel/integration.jpg" alt="Rencontres IF">
                             <div class="carousel-caption">
                                 <h4>Détente et Cohésion</h4>
                                 <p>Car il n'est pas facile de débarquer dans l'univers insalien, l'AEDI prévoit chaque année de multiples événements pour intégrer les nouveaux venus et instaurer une ambiance chaleureuse.</p>
                             </div>
                         </div>
                         <div class="item" role="listbox">
-                            <img  src="/assets/img/photo_caroussel/integration2.jpg" alt="Equipe AEDI">
+                            <img  src="/static/img/photo_caroussel/integration2.jpg" alt="Equipe AEDI">
                             <div class="carousel-caption">
                                 <h4>... alors rejoignez-nous !</h4>
                                 <p>N'hésitez pas à nous contacter, au local, par mails, par téléphone... Nous nous ferons un plaisir de discuter avec vous !</p>
@@ -79,11 +81,12 @@
     <div class="container-fluid">
         <table>
             <tr>
-                <td><a href="http://hardis.fr" title="Hardis - Parrain Promo 2016" target="_blank"><img class="img-responsive" src="/assets/img/logos/hardis.png" alt="Hardis"></a></td>
-                <td><a href="http://www.bull.fr/" title="Bull - Parrain Promo 2017" target="_blank"><img class="img-responsive" src="/assets/img/logos/bull.png" alt="Bull"></a></td>
-                <td><a href="http://www.soprasteria.com/" title="Sopra Steria - Parrain Promo 2018" target="_blank"><img class="img-responsive" src="/assets/img/logos/sopra.png" alt="Sopra Steria"></a></td>
-                <td><a href="http://www.insa-lyon.fr/" title="INSA de Lyon" target="_blank"><img class="img-responsive" src="/assets/img/logos/insa_logo.png" alt="INSA de Lyon"></a></td>
+                <td><a href="http://hardis.fr" title="Hardis - Parrain Promo 2016" target="_blank"><img class="img-responsive" src="/static/img/logos/hardis.png" alt="Hardis"></a></td>
+                <td><a href="http://www.bull.fr/" title="Bull - Parrain Promo 2017" target="_blank"><img class="img-responsive" src="/static/img/logos/bull.png" alt="Bull"></a></td>
+                <td><a href="http://www.soprasteria.com/" title="Sopra Steria - Parrain Promo 2018" target="_blank"><img class="img-responsive" src="/static/img/logos/sopra.png" alt="Sopra Steria"></a></td>
+                <td><a href="http://www.insa-lyon.fr/" title="INSA de Lyon" target="_blank"><img class="img-responsive" src="/static/img/logos/insa_logo.png" alt="INSA de Lyon"></a></td>
             </tr>
         </table>
     </div>
 </div>
+{% endblock %}
