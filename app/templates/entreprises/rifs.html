@@ -1,3 +1,6 @@
+{% extends "base.html" %}
+{% block content %}
+
 <script>
 $(document).ready(function() {
     var inverted = false;
@@ -27,7 +30,7 @@ $(document).ready(function() {
         </div>
         <div class="col-sm-6">
             <div class="thumbnail">
-                <img src="/assets/img/rifs_salle.jpg" alt="Une salle avec toutes ses entreprises">
+                <img src="/static/img/rifs_salle.jpg" alt="Une salle avec toutes ses entreprises">
             </div>
         </div>
     </div>
@@ -89,3 +92,4 @@ $(document).ready(function() {
         </div>
     </div>
 </div>
+{% endblock %}
